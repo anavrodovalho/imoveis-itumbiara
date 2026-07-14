@@ -1,9 +1,9 @@
 {
-  "atualizadoEm": "2026-07-14T13:45:23.431Z",
+  "atualizadoEm": "2026-07-14T13:53:10.390Z",
   "cidade": "Itumbiara",
   "fonte": "wimoveis.com.br",
-  "total": 423,
-  "comPreco": 423,
+  "total": 428,
+  "comPreco": 428,
   "imoveis": [
     {
       "id": "3008992053",
@@ -186,21 +186,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-250-m-por-r$-68.000-00-2998368875.html"
     },
     {
-      "id": "2996002116",
-      "tipo": "Terreno",
-      "preco": 70000,
-      "precoTexto": "R$ 70.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 360,
-      "bairro": "Jardim Liberdade",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Jardim Liberdade, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-70.000-00-jardim-2996002116.html"
-    },
-    {
       "id": "3011225219",
       "tipo": "Apartamento",
       "preco": 70000,
@@ -214,6 +199,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
       "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-2-dormitorios-a-venda-65-m-por-r$-3011225219.html"
+    },
+    {
+      "id": "2996002116",
+      "tipo": "Terreno",
+      "preco": 70000,
+      "precoTexto": "R$ 70.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 360,
+      "bairro": "Jardim Liberdade",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Jardim Liberdade, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-70.000-00-jardim-2996002116.html"
     },
     {
       "id": "3027111492",
@@ -231,21 +231,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-2-dormitorios-a-venda-181-m-por-r$-3027111492.html"
     },
     {
-      "id": "2995017297",
-      "tipo": "Terreno",
-      "preco": 90000,
-      "precoTexto": "R$ 90.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 360,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-90.000-00-santa-maria-2995017297.html"
-    },
-    {
       "id": "3008851612",
       "tipo": "Terreno",
       "preco": 90000,
@@ -259,6 +244,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
       "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-250-m-por-r$-90.000-00-3008851612.html"
+    },
+    {
+      "id": "2995017297",
+      "tipo": "Terreno",
+      "preco": 90000,
+      "precoTexto": "R$ 90.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 360,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-90.000-00-santa-maria-2995017297.html"
     },
     {
       "id": "3008992081",
@@ -381,19 +381,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-250-m-por-r$-120.000-00-sonho-3006066896.html"
     },
     {
-      "id": "3018967893",
+      "id": "3035663162",
       "tipo": "Terreno",
       "preco": 120000,
       "precoTexto": "R$ 120.000",
       "quartos": null,
       "banheiros": null,
       "vagas": null,
-      "area": 300,
-      "bairro": "Dom Velloso",
+      "area": 360,
+      "bairro": "Itumbiara",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Dom Velloso, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-300-m-por-r$-120.000-00-dom-3018967893.html"
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-120.000-00-buritis-3035663162.html"
     },
     {
       "id": "3035295074",
@@ -411,49 +411,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-120.000-00-buriti-3-3035295074.html"
     },
     {
-      "id": "3035663162",
+      "id": "3018967893",
       "tipo": "Terreno",
       "preco": 120000,
       "precoTexto": "R$ 120.000",
       "quartos": null,
       "banheiros": null,
       "vagas": null,
-      "area": 360,
-      "bairro": "Itumbiara",
+      "area": 300,
+      "bairro": "Dom Velloso",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-120.000-00-buritis-3035663162.html"
-    },
-    {
-      "id": "3018931750",
-      "tipo": "Terreno",
-      "preco": 130000,
-      "precoTexto": "R$ 130.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 200,
-      "bairro": "Residencial Morada do Sol",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Residencial Morada do Sol, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-200-m-por-r$-130.000-00-3018931750.html"
-    },
-    {
-      "id": "3020041162",
-      "tipo": "Terreno",
-      "preco": 130000,
-      "precoTexto": "R$ 130.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 1000,
-      "bairro": "Jardim Morumbi",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Jardim Morumbi, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-1000-m-por-r$-130.000-00-jardim-3020041162.html"
+      "titulo": "Endereço não informado Dom Velloso, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-300-m-por-r$-120.000-00-dom-3018967893.html"
     },
     {
       "id": "3018141258",
@@ -484,6 +454,36 @@
       "endereco": null,
       "titulo": "Endereço não informado Dom Velloso, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-300-m-por-r$-130.000-00-dom-3018967884.html"
+    },
+    {
+      "id": "3020041162",
+      "tipo": "Terreno",
+      "preco": 130000,
+      "precoTexto": "R$ 130.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 1000,
+      "bairro": "Jardim Morumbi",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Jardim Morumbi, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-1000-m-por-r$-130.000-00-jardim-3020041162.html"
+    },
+    {
+      "id": "3018931750",
+      "tipo": "Terreno",
+      "preco": 130000,
+      "precoTexto": "R$ 130.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 200,
+      "bairro": "Residencial Morada do Sol",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Residencial Morada do Sol, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-200-m-por-r$-130.000-00-3018931750.html"
     },
     {
       "id": "2999336920",
@@ -636,21 +636,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-346-m-por-r$-150.000-00-jardim-3017476533.html"
     },
     {
-      "id": "3006707540",
-      "tipo": "Terreno",
-      "preco": 150000,
-      "precoTexto": "R$ 150.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 400,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-400-m-por-r$-150.000-00-alto-da-3006707540.html"
-    },
-    {
       "id": "3014376978",
       "tipo": "Terreno",
       "preco": 150000,
@@ -664,6 +649,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
       "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-319-m-por-r$-150.000-00-alto-do-3014376978.html"
+    },
+    {
+      "id": "3006707540",
+      "tipo": "Terreno",
+      "preco": 150000,
+      "precoTexto": "R$ 150.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 400,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-400-m-por-r$-150.000-00-alto-da-3006707540.html"
     },
     {
       "id": "3010755893",
@@ -726,21 +726,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-319-m-por-r$-155.000-00-jardim-3021523194.html"
     },
     {
-      "id": "3038136853",
-      "tipo": "Casa",
-      "preco": 160000,
-      "precoTexto": "R$ 160.000",
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 280,
-      "bairro": "Jardim Liberdade",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Jardim Liberdade, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-70-m-por-r$-160.000-3038136853.html"
-    },
-    {
       "id": "3014826208",
       "tipo": "Casa",
       "preco": 160000,
@@ -754,6 +739,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Social, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-85-m-por-r$-3014826208.html"
+    },
+    {
+      "id": "3038136853",
+      "tipo": "Casa",
+      "preco": 160000,
+      "precoTexto": "R$ 160.000",
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 280,
+      "bairro": "Jardim Liberdade",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Jardim Liberdade, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-70-m-por-r$-160.000-3038136853.html"
     },
     {
       "id": "3001780168",
@@ -771,21 +771,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-165.000-00-3001780168.html"
     },
     {
-      "id": "3018141245",
-      "tipo": "Terreno",
-      "preco": 170000,
-      "precoTexto": "R$ 170.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 300,
-      "bairro": "Setor Nova Aurora",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Nova Aurora, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-300-m-por-r$-170.000-00-setor-nova-3018141245.html"
-    },
-    {
       "id": "2994726976",
       "tipo": "Casa",
       "preco": 170000,
@@ -799,6 +784,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Conjunto Habitacional Dona Norma Gibaldi, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-53-m-por-r$-2994726976.html"
+    },
+    {
+      "id": "3018141245",
+      "tipo": "Terreno",
+      "preco": 170000,
+      "precoTexto": "R$ 170.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 300,
+      "bairro": "Setor Nova Aurora",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Nova Aurora, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-300-m-por-r$-170.000-00-setor-nova-3018141245.html"
     },
     {
       "id": "3010600631",
@@ -861,6 +861,21 @@
       "link": "https://www.wimoveis.com.br/propriedades/parque-vale-dos-buritys-itumbiara-goias-3039569487.html"
     },
     {
+      "id": "3018967887",
+      "tipo": "Casa",
+      "preco": 180000,
+      "precoTexto": "R$ 180.000",
+      "quartos": 1,
+      "banheiros": null,
+      "vagas": null,
+      "area": 185,
+      "bairro": "Setor Social",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Social, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-1-dormitorio-a-venda-115-m-por-r$-3018967887.html"
+    },
+    {
       "id": "3037440181",
       "tipo": "Casa",
       "preco": 180000,
@@ -891,19 +906,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-2-dormitorios-a-venda-70-m-por-r$-3040192706.html"
     },
     {
-      "id": "3018967887",
-      "tipo": "Casa",
+      "id": "3026861530",
+      "tipo": "Terreno",
       "preco": 180000,
       "precoTexto": "R$ 180.000",
-      "quartos": 1,
+      "quartos": null,
       "banheiros": null,
       "vagas": null,
-      "area": 185,
-      "bairro": "Setor Social",
+      "area": 360,
+      "bairro": "Village Imperial",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Setor Social, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-1-dormitorio-a-venda-115-m-por-r$-3018967887.html"
+      "titulo": "Endereço não informado Village Imperial, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-180.000-00-village-3026861530.html"
     },
     {
       "id": "3033117475",
@@ -921,36 +936,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-150-m-por-r$-3033117475.html"
     },
     {
-      "id": "2996822067",
-      "tipo": "Terreno",
-      "preco": 180000,
-      "precoTexto": "R$ 180.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 360,
-      "bairro": "Cidade Jardim",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Cidade Jardim, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-180.000-00-cidade-2996822067.html"
-    },
-    {
-      "id": "3026861530",
-      "tipo": "Terreno",
-      "preco": 180000,
-      "precoTexto": "R$ 180.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 360,
-      "bairro": "Village Imperial",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Village Imperial, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-180.000-00-village-3026861530.html"
-    },
-    {
       "id": "3022134698",
       "tipo": "Comercial",
       "preco": 180000,
@@ -964,6 +949,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Central, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/sala-a-venda-31-m-por-r$-180.000-00-setor-central-3022134698.html"
+    },
+    {
+      "id": "2996822067",
+      "tipo": "Terreno",
+      "preco": 180000,
+      "precoTexto": "R$ 180.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 360,
+      "bairro": "Cidade Jardim",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Cidade Jardim, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-180.000-00-cidade-2996822067.html"
     },
     {
       "id": "3026543592",
@@ -1011,21 +1011,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-66-m-venda-por-r$-3019402780.html"
     },
     {
-      "id": "3008480115",
-      "tipo": "Apartamento",
-      "preco": 190000,
-      "precoTexto": "R$ 190.000",
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 60,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-2-dormitorios-a-venda-181-m-por-r$-3008480115.html"
-    },
-    {
       "id": "3019816450",
       "tipo": "Apartamento",
       "preco": 190000,
@@ -1039,6 +1024,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
       "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-2-dormitorios-a-venda-181-m-por-r$-3019816450.html"
+    },
+    {
+      "id": "3008480115",
+      "tipo": "Apartamento",
+      "preco": 190000,
+      "precoTexto": "R$ 190.000",
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 60,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-2-dormitorios-a-venda-181-m-por-r$-3008480115.html"
     },
     {
       "id": "3035097017",
@@ -1176,21 +1176,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/rancho-com-3-dormitorios-a-venda-por-r$-230.000-00-3016661151.html"
     },
     {
-      "id": "3026054704",
-      "tipo": "Rural",
-      "preco": 230000,
-      "precoTexto": "R$ 230.000",
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 1500,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/chacara-3026054704.html"
-    },
-    {
       "id": "3026044174",
       "tipo": "Rural",
       "preco": 230000,
@@ -1204,21 +1189,6 @@
       "endereco": null,
       "titulo": "Endereço não informado Village Imperial, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/chacara-3026044174.html"
-    },
-    {
-      "id": "3031917037",
-      "tipo": "Rural",
-      "preco": 230000,
-      "precoTexto": "R$ 230.000",
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 1000,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/sitio-3031917037.html"
     },
     {
       "id": "3028556639",
@@ -1236,19 +1206,34 @@
       "link": "https://www.wimoveis.com.br/propriedades/chacara-3028556639.html"
     },
     {
-      "id": "2996691749",
-      "tipo": "Casa",
+      "id": "3026054704",
+      "tipo": "Rural",
+      "preco": 230000,
+      "precoTexto": "R$ 230.000",
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 1500,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/chacara-3026054704.html"
+    },
+    {
+      "id": "3031917037",
+      "tipo": "Rural",
       "preco": 230000,
       "precoTexto": "R$ 230.000",
       "quartos": 2,
-      "banheiros": null,
-      "vagas": 2,
-      "area": 250,
-      "bairro": "Setor Dona Marolina",
+      "banheiros": 1,
+      "vagas": null,
+      "area": 1000,
+      "bairro": "Itumbiara",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Setor Dona Marolina, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-80-m-por-r$-2996691749.html"
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/sitio-3031917037.html"
     },
     {
       "id": "3015248588",
@@ -1264,6 +1249,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-90-m-por-r$-3015248588.html"
+    },
+    {
+      "id": "2996691749",
+      "tipo": "Casa",
+      "preco": 230000,
+      "precoTexto": "R$ 230.000",
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": 2,
+      "area": 250,
+      "bairro": "Setor Dona Marolina",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Dona Marolina, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-80-m-por-r$-2996691749.html"
     },
     {
       "id": "3013770741",
@@ -1356,21 +1356,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-99-m-por-r$-3019717870.html"
     },
     {
-      "id": "3019717871",
-      "tipo": "Casa",
-      "preco": 240000,
-      "precoTexto": "R$ 240.000",
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 180,
-      "bairro": "Setor Social",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Social, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-99-m-por-r$-3019717871.html"
-    },
-    {
       "id": "2998303535",
       "tipo": "Casa",
       "preco": 240000,
@@ -1401,6 +1386,51 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-120-m-por-r$-3020041153.html"
     },
     {
+      "id": "3019717871",
+      "tipo": "Casa",
+      "preco": 240000,
+      "precoTexto": "R$ 240.000",
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 180,
+      "bairro": "Setor Social",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Social, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-99-m-por-r$-3019717871.html"
+    },
+    {
+      "id": "2996085784",
+      "tipo": "Casa",
+      "preco": 240000,
+      "precoTexto": "R$ 240.000",
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 180,
+      "bairro": "Setor Nossa Senhora da Saúde",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-75-m-por-r$-2996085784.html"
+    },
+    {
+      "id": "3018311284",
+      "tipo": "Casa",
+      "preco": 240000,
+      "precoTexto": "R$ 240.000",
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": null,
+      "area": 275,
+      "bairro": "Dom Velloso",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Dom Velloso, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-157-m-por-r$-3018311284.html"
+    },
+    {
       "id": "3019222923",
       "tipo": "Casa",
       "preco": 240000,
@@ -1429,36 +1459,6 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Santa Rita, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-por-r$-240.000-00-3028799656.html"
-    },
-    {
-      "id": "3018311284",
-      "tipo": "Casa",
-      "preco": 240000,
-      "precoTexto": "R$ 240.000",
-      "quartos": 2,
-      "banheiros": null,
-      "vagas": null,
-      "area": 275,
-      "bairro": "Dom Velloso",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Dom Velloso, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-157-m-por-r$-3018311284.html"
-    },
-    {
-      "id": "2996085784",
-      "tipo": "Casa",
-      "preco": 240000,
-      "precoTexto": "R$ 240.000",
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 180,
-      "bairro": "Setor Nossa Senhora da Saúde",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-75-m-por-r$-2996085784.html"
     },
     {
       "id": "3015248582",
@@ -1506,6 +1506,21 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-1-m-por-r$-250.000-00-3039308858.html"
     },
     {
+      "id": "3038095881",
+      "tipo": "Casa",
+      "preco": 250000,
+      "precoTexto": "R$ 250.000",
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": null,
+      "area": 108,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-77-m-por-r$-3038095881.html"
+    },
+    {
       "id": "3035663165",
       "tipo": "Casa",
       "preco": 250000,
@@ -1551,21 +1566,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-432-m-por-r$-250.000-00-jardim-3016661152.html"
     },
     {
-      "id": "3020557486",
-      "tipo": "Casa",
-      "preco": 250000,
-      "precoTexto": "R$ 250.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 360,
-      "bairro": "Setor Afonso Pena",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Afonso Pena, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-por-r$-250.000-00-3020557486.html"
-    },
-    {
       "id": "3002910478",
       "tipo": "Casa",
       "preco": 250000,
@@ -1581,19 +1581,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-1-dormitorio-a-venda-180-m-por-r$-3002910478.html"
     },
     {
-      "id": "3038095881",
+      "id": "3020557486",
       "tipo": "Casa",
       "preco": 250000,
       "precoTexto": "R$ 250.000",
-      "quartos": 2,
-      "banheiros": null,
+      "quartos": 3,
+      "banheiros": 1,
       "vagas": null,
-      "area": 108,
-      "bairro": "Itumbiara",
+      "area": 360,
+      "bairro": "Setor Afonso Pena",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-77-m-por-r$-3038095881.html"
+      "titulo": "Endereço não informado Setor Afonso Pena, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-por-r$-250.000-00-3020557486.html"
     },
     {
       "id": "3019048304",
@@ -1641,21 +1641,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-68-m-por-r$-3014900460.html"
     },
     {
-      "id": "2995619663",
-      "tipo": "Casa",
-      "preco": 260000,
-      "precoTexto": "R$ 260.000",
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 180,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-87-m-por-r$-2995619663.html"
-    },
-    {
       "id": "3022134707",
       "tipo": "Casa",
       "preco": 260000,
@@ -1669,6 +1654,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Dona Marolina, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-70-m-por-r$-3022134707.html"
+    },
+    {
+      "id": "2995619663",
+      "tipo": "Casa",
+      "preco": 260000,
+      "precoTexto": "R$ 260.000",
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 180,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-87-m-por-r$-2995619663.html"
     },
     {
       "id": "3022066073",
@@ -1776,19 +1776,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-87-m-por-r$-270.000-2999957678.html"
     },
     {
-      "id": "3005076141",
-      "tipo": "Apartamento",
+      "id": "3026543591",
+      "tipo": "Casa",
       "preco": 270000,
       "precoTexto": "R$ 270.000",
-      "quartos": 2,
-      "banheiros": null,
-      "vagas": 1,
-      "area": 1,
-      "bairro": "Setor Brasília",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 250,
+      "bairro": "Setor Nossa Senhora da Saúde",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Setor Brasília, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-2-dormitorios-a-venda-1-m-por-r$-3005076141.html"
+      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-185-m-por-r$-3026543591.html"
     },
     {
       "id": "3038457308",
@@ -1806,19 +1806,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-1-m-por-r$-270.000-3038457308.html"
     },
     {
-      "id": "3026543591",
-      "tipo": "Casa",
+      "id": "3005076141",
+      "tipo": "Apartamento",
       "preco": 270000,
       "precoTexto": "R$ 270.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 250,
-      "bairro": "Setor Nossa Senhora da Saúde",
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": 1,
+      "area": 1,
+      "bairro": "Setor Brasília",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-185-m-por-r$-3026543591.html"
+      "titulo": "Endereço não informado Setor Brasília, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-2-dormitorios-a-venda-1-m-por-r$-3005076141.html"
     },
     {
       "id": "3013770633",
@@ -1926,21 +1926,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-96-m-por-r$-3001903752.html"
     },
     {
-      "id": "3014096342",
-      "tipo": "Casa",
-      "preco": 280000,
-      "precoTexto": "R$ 280.000",
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 360,
-      "bairro": "Setor Novo Horizonte",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Novo Horizonte, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-240-m-por-r$-3014096342.html"
-    },
-    {
       "id": "3022134675",
       "tipo": "Casa",
       "preco": 280000,
@@ -1956,19 +1941,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-120-m-por-r$-3022134675.html"
     },
     {
-      "id": "3002043430",
+      "id": "3014096342",
       "tipo": "Casa",
       "preco": 280000,
       "precoTexto": "R$ 280.000",
       "quartos": 3,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 300,
-      "bairro": "Itumbiara",
+      "banheiros": null,
+      "vagas": null,
+      "area": 360,
+      "bairro": "Setor Novo Horizonte",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-por-r$-280.000-00-3002043430.html"
+      "titulo": "Endereço não informado Setor Novo Horizonte, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-240-m-por-r$-3014096342.html"
     },
     {
       "id": "3015248590",
@@ -2001,6 +1986,21 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-95-m-por-r$-3016661142.html"
     },
     {
+      "id": "3002043430",
+      "tipo": "Casa",
+      "preco": 280000,
+      "precoTexto": "R$ 280.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 300,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-por-r$-280.000-00-3002043430.html"
+    },
+    {
       "id": "3032566256",
       "tipo": "Casa",
       "preco": 285000,
@@ -2016,21 +2016,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-100-m-por-r$-3032566256.html"
     },
     {
-      "id": "2995017284",
-      "tipo": "Casa",
-      "preco": 285000,
-      "precoTexto": "R$ 285.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 180,
-      "bairro": "Setor São João",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor São João, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-80-m-por-r$-285.000-2995017284.html"
-    },
-    {
       "id": "3035294953",
       "tipo": "Casa",
       "preco": 285000,
@@ -2044,6 +2029,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Santa Rita, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-92-m-por-r$-3035294953.html"
+    },
+    {
+      "id": "2995017284",
+      "tipo": "Casa",
+      "preco": 285000,
+      "precoTexto": "R$ 285.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 180,
+      "bairro": "Setor São João",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor São João, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-80-m-por-r$-285.000-2995017284.html"
     },
     {
       "id": "3008992074",
@@ -2121,21 +2121,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-3-dormitorios-120-m-venda-por-r$-3006408448.html"
     },
     {
-      "id": "3039736852",
-      "tipo": "Casa",
-      "preco": 300000,
-      "precoTexto": "R$ 300.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 282,
-      "bairro": "Setor Social",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Social, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-184-m-por-r$-3039736852.html"
-    },
-    {
       "id": "3021082528",
       "tipo": "Casa",
       "preco": 300000,
@@ -2166,79 +2151,34 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-118-m-por-r$-2995017288.html"
     },
     {
-      "id": "2995017280",
+      "id": "3039736852",
+      "tipo": "Casa",
+      "preco": 300000,
+      "precoTexto": "R$ 300.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 282,
+      "bairro": "Setor Social",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Social, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-184-m-por-r$-3039736852.html"
+    },
+    {
+      "id": "2996759278",
       "tipo": "Casa",
       "preco": 300000,
       "precoTexto": "R$ 300.000",
       "quartos": 2,
       "banheiros": 1,
-      "vagas": 1,
-      "area": 264,
-      "bairro": "Setor Nossa Senhora da Saúde",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-99-m-por-r$-2995017280.html"
-    },
-    {
-      "id": "3036978938",
-      "tipo": "Casa",
-      "preco": 300000,
-      "precoTexto": "R$ 300.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 360,
-      "bairro": "Setor Social",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Social, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-200-m-por-r$-3036978938.html"
-    },
-    {
-      "id": "3037329483",
-      "tipo": "Terreno",
-      "preco": 300000,
-      "precoTexto": "R$ 300.000",
-      "quartos": null,
-      "banheiros": null,
       "vagas": null,
       "area": 250,
-      "bairro": "Setor Santos Dumont",
+      "bairro": "Jardim Nova Itumbiara",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Setor Santos Dumont, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-250-m-por-r$-300.000-00-setor-3037329483.html"
-    },
-    {
-      "id": "2996085783",
-      "tipo": "Casa",
-      "preco": 300000,
-      "precoTexto": "R$ 300.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 180,
-      "bairro": "Setor Nossa Senhora da Saúde",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-95-m-por-r$-2996085783.html"
-    },
-    {
-      "id": "3005202293",
-      "tipo": "Comercial",
-      "preco": 300000,
-      "precoTexto": "R$ 300.000",
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": 3,
-      "area": 409,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/imovel-comercial-localizado-no-setor-dona-sinica-em-3005202293.html"
+      "titulo": "Endereço não informado Jardim Nova Itumbiara, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-por-r$-300.000-00-2996759278.html"
     },
     {
       "id": "3003674350",
@@ -2256,19 +2196,79 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-1-dormitorio-a-venda-por-r$-300.000-00-3003674350.html"
     },
     {
-      "id": "2996759278",
+      "id": "2996085783",
+      "tipo": "Casa",
+      "preco": 300000,
+      "precoTexto": "R$ 300.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 180,
+      "bairro": "Setor Nossa Senhora da Saúde",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-95-m-por-r$-2996085783.html"
+    },
+    {
+      "id": "2995017280",
       "tipo": "Casa",
       "preco": 300000,
       "precoTexto": "R$ 300.000",
       "quartos": 2,
       "banheiros": 1,
-      "vagas": null,
-      "area": 250,
-      "bairro": "Jardim Nova Itumbiara",
+      "vagas": 1,
+      "area": 264,
+      "bairro": "Setor Nossa Senhora da Saúde",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Jardim Nova Itumbiara, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-por-r$-300.000-00-2996759278.html"
+      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-99-m-por-r$-2995017280.html"
+    },
+    {
+      "id": "3005202293",
+      "tipo": "Comercial",
+      "preco": 300000,
+      "precoTexto": "R$ 300.000",
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": 3,
+      "area": 409,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/imovel-comercial-localizado-no-setor-dona-sinica-em-3005202293.html"
+    },
+    {
+      "id": "3037329483",
+      "tipo": "Terreno",
+      "preco": 300000,
+      "precoTexto": "R$ 300.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 250,
+      "bairro": "Setor Santos Dumont",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Santos Dumont, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-250-m-por-r$-300.000-00-setor-3037329483.html"
+    },
+    {
+      "id": "3036978938",
+      "tipo": "Casa",
+      "preco": 300000,
+      "precoTexto": "R$ 300.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 360,
+      "bairro": "Setor Social",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Social, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-200-m-por-r$-3036978938.html"
     },
     {
       "id": "3009558757",
@@ -2346,21 +2346,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-95-m-por-r$-3010158043.html"
     },
     {
-      "id": "2994175186",
-      "tipo": "Casa",
-      "preco": 320000,
-      "precoTexto": "R$ 320.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 310,
-      "bairro": "Setor Bela Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Bela Vista, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-140-m-por-r$-2994175186.html"
-    },
-    {
       "id": "3018967883",
       "tipo": "Casa",
       "preco": 320000,
@@ -2374,6 +2359,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor São Sebastião, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-80-m-por-r$-3018967883.html"
+    },
+    {
+      "id": "2994175186",
+      "tipo": "Casa",
+      "preco": 320000,
+      "precoTexto": "R$ 320.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 310,
+      "bairro": "Setor Bela Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Bela Vista, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-140-m-por-r$-2994175186.html"
     },
     {
       "id": "3009872530",
@@ -2421,19 +2421,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-95-m-por-r$-3013353097.html"
     },
     {
-      "id": "3018622313",
-      "tipo": "Terreno",
+      "id": "3018048854",
+      "tipo": "Casa",
       "preco": 330000,
       "precoTexto": "R$ 330.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 360,
-      "bairro": "Setor Luz",
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 200,
+      "bairro": "Itumbiara",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Setor Luz, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-330.000-00-setor-luz-3018622313.html"
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-80-m-por-r$-3018048854.html"
     },
     {
       "id": "3030810669",
@@ -2451,19 +2451,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-94-m-por-r$-3030810669.html"
     },
     {
-      "id": "3018048854",
-      "tipo": "Casa",
+      "id": "3018622313",
+      "tipo": "Terreno",
       "preco": 330000,
       "precoTexto": "R$ 330.000",
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 200,
-      "bairro": "Itumbiara",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 360,
+      "bairro": "Setor Luz",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-80-m-por-r$-3018048854.html"
+      "titulo": "Endereço não informado Setor Luz, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-360-m-por-r$-330.000-00-setor-luz-3018622313.html"
     },
     {
       "id": "3039978758",
@@ -2496,6 +2496,36 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-73-m-por-r$-3008725938.html"
     },
     {
+      "id": "3031924412",
+      "tipo": "Rural",
+      "preco": 350000,
+      "precoTexto": "R$ 350.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 2000,
+      "bairro": "Setor Nossa Senhora da Saúde",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/sitio-3031924412.html"
+    },
+    {
+      "id": "3002910475",
+      "tipo": "Apartamento",
+      "preco": 350000,
+      "precoTexto": "R$ 350.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 92,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-3-dormitorios-a-venda-92-m-por-r$-3002910475.html"
+    },
+    {
       "id": "3025900634",
       "tipo": "Casa",
       "preco": 350000,
@@ -2526,36 +2556,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/chacara-3026076845.html"
     },
     {
-      "id": "3002910475",
-      "tipo": "Apartamento",
-      "preco": 350000,
-      "precoTexto": "R$ 350.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 92,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-3-dormitorios-a-venda-92-m-por-r$-3002910475.html"
-    },
-    {
-      "id": "3031924412",
-      "tipo": "Rural",
-      "preco": 350000,
-      "precoTexto": "R$ 350.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 2000,
-      "bairro": "Setor Nossa Senhora da Saúde",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/sitio-3031924412.html"
-    },
-    {
       "id": "3039618632",
       "tipo": "Terreno",
       "preco": 350000,
@@ -2569,6 +2569,21 @@
       "endereco": null,
       "titulo": "Rua João Batista Jardim Centro, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/terreno-c-633m-em-itumbiara-go-3039618632.html"
+    },
+    {
+      "id": "3001150647",
+      "tipo": "Casa",
+      "preco": 350000,
+      "precoTexto": "R$ 350.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 300,
+      "bairro": "Setor Planalto",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Planalto, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-por-r$-350.000-00-3001150647.html"
     },
     {
       "id": "2997564232",
@@ -2601,21 +2616,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/galpao-175-m-venda-por-r$-350.000-00-ou-aluguel-2997050546.html"
     },
     {
-      "id": "3001150647",
-      "tipo": "Casa",
-      "preco": 350000,
-      "precoTexto": "R$ 350.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 300,
-      "bairro": "Setor Planalto",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Planalto, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-por-r$-350.000-00-3001150647.html"
-    },
-    {
       "id": "3019048312",
       "tipo": "Casa",
       "preco": 350000,
@@ -2629,66 +2629,6 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Bela Vista, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-140-m-por-r$-3019048312.html"
-    },
-    {
-      "id": "3010107062",
-      "tipo": "Casa",
-      "preco": 350000,
-      "precoTexto": "R$ 350.000",
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 264,
-      "bairro": "Setor Bela Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Bela Vista, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-90-m-por-r$-3010107062.html"
-    },
-    {
-      "id": "3029538816",
-      "tipo": "Casa",
-      "preco": 350000,
-      "precoTexto": "R$ 350.000",
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 300,
-      "bairro": "Setor Social",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Social, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-160-m-por-r$-3029538816.html"
-    },
-    {
-      "id": "2999273981",
-      "tipo": "Casa",
-      "preco": 350000,
-      "precoTexto": "R$ 350.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 180,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-104-m-por-r$-2999273981.html"
-    },
-    {
-      "id": "3001202324",
-      "tipo": "Casa",
-      "preco": 350000,
-      "precoTexto": "R$ 350.000",
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 180,
-      "bairro": "Setor Afonso Pena",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Afonso Pena, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-80-m-por-r$-3001202324.html"
     },
     {
       "id": "3021756987",
@@ -2706,19 +2646,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-100-m-por-r$-3021756987.html"
     },
     {
-      "id": "3024330638",
+      "id": "3029538816",
       "tipo": "Casa",
       "preco": 350000,
       "precoTexto": "R$ 350.000",
-      "quartos": 2,
-      "banheiros": 1,
+      "quartos": 3,
+      "banheiros": null,
       "vagas": null,
-      "area": 180,
-      "bairro": "Setor Nossa Senhora da Saúde",
+      "area": 300,
+      "bairro": "Setor Social",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-88-m-por-r$-3024330638.html"
+      "titulo": "Endereço não informado Setor Social, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-160-m-por-r$-3029538816.html"
     },
     {
       "id": "3001465525",
@@ -2734,6 +2674,66 @@
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-140-m-por-r$-3001465525.html"
+    },
+    {
+      "id": "2999273981",
+      "tipo": "Casa",
+      "preco": 350000,
+      "precoTexto": "R$ 350.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 180,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-104-m-por-r$-2999273981.html"
+    },
+    {
+      "id": "3010107062",
+      "tipo": "Casa",
+      "preco": 350000,
+      "precoTexto": "R$ 350.000",
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 264,
+      "bairro": "Setor Bela Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Bela Vista, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-90-m-por-r$-3010107062.html"
+    },
+    {
+      "id": "3024330638",
+      "tipo": "Casa",
+      "preco": 350000,
+      "precoTexto": "R$ 350.000",
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 180,
+      "bairro": "Setor Nossa Senhora da Saúde",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-88-m-por-r$-3024330638.html"
+    },
+    {
+      "id": "3001202324",
+      "tipo": "Casa",
+      "preco": 350000,
+      "precoTexto": "R$ 350.000",
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": 180,
+      "bairro": "Setor Afonso Pena",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Afonso Pena, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-80-m-por-r$-3001202324.html"
     },
     {
       "id": "3008615918",
@@ -2781,21 +2781,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/chacara-3026076118.html"
     },
     {
-      "id": "3006454194",
-      "tipo": "Casa",
-      "preco": 370000,
-      "precoTexto": "R$ 370.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 200,
-      "bairro": "Jardim Bandeirantes",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Jardim Bandeirantes, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-90-m-por-r$-3006454194.html"
-    },
-    {
       "id": "2999957680",
       "tipo": "Casa",
       "preco": 370000,
@@ -2809,6 +2794,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-130-m-por-r$-2999957680.html"
+    },
+    {
+      "id": "3006454194",
+      "tipo": "Casa",
+      "preco": 370000,
+      "precoTexto": "R$ 370.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": 200,
+      "bairro": "Jardim Bandeirantes",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Jardim Bandeirantes, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-90-m-por-r$-3006454194.html"
     },
     {
       "id": "3022134706",
@@ -2826,21 +2826,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/rancho-com-3-dormitorios-a-venda-por-r$-370.000-00-3022134706.html"
     },
     {
-      "id": "3031366741",
-      "tipo": "Casa",
-      "preco": 370000,
-      "precoTexto": "R$ 370.000",
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 180,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-110-m-por-r$-3031366741.html"
-    },
-    {
       "id": "2997287944",
       "tipo": "Apartamento",
       "preco": 370000,
@@ -2854,6 +2839,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Nova Aurora, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-2-dormitorios-a-venda-57-m-por-r$-2997287944.html"
+    },
+    {
+      "id": "3031366741",
+      "tipo": "Casa",
+      "preco": 370000,
+      "precoTexto": "R$ 370.000",
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 180,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-110-m-por-r$-3031366741.html"
     },
     {
       "id": "3016082255",
@@ -2871,21 +2871,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-2-dormitorios-a-venda-69-m-por-r$-3016082255.html"
     },
     {
-      "id": "3014900461",
-      "tipo": "Terreno",
-      "preco": 380000,
-      "precoTexto": "R$ 380.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 720,
-      "bairro": "Setor Santa Rita",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Santa Rita, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-720-m-por-r$-380.000-00-setor-3014900461.html"
-    },
-    {
       "id": "3036978939",
       "tipo": "Casa",
       "preco": 380000,
@@ -2899,6 +2884,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Jardim Morumbi, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-143-m-por-r$-3036978939.html"
+    },
+    {
+      "id": "3014900461",
+      "tipo": "Terreno",
+      "preco": 380000,
+      "precoTexto": "R$ 380.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 720,
+      "bairro": "Setor Santa Rita",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Santa Rita, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-720-m-por-r$-380.000-00-setor-3014900461.html"
     },
     {
       "id": "2994296329",
@@ -2931,21 +2931,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/imovel-a-venda-por-r$-390.000-setor-bela-vista-3004960665.html"
     },
     {
-      "id": "3023883967",
-      "tipo": "Casa",
-      "preco": 390000,
-      "precoTexto": "R$ 390.000",
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 180,
-      "bairro": "Vila Vitória",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Vila Vitória, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-94-m-por-r$-3023883967.html"
-    },
-    {
       "id": "2997564231",
       "tipo": "Casa",
       "preco": 390000,
@@ -2959,6 +2944,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Jardim Morumbi, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-90-m-por-r$-2997564231.html"
+    },
+    {
+      "id": "3023883967",
+      "tipo": "Casa",
+      "preco": 390000,
+      "precoTexto": "R$ 390.000",
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 180,
+      "bairro": "Vila Vitória",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Vila Vitória, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-94-m-por-r$-3023883967.html"
     },
     {
       "id": "2995857388",
@@ -3006,36 +3006,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-5-dormitorios-a-venda-110-m-por-r$-3015476442.html"
     },
     {
-      "id": "3034901317",
-      "tipo": "Rural",
-      "preco": 400000,
-      "precoTexto": "R$ 400.000",
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 1000,
-      "bairro": "Jardim Morumbi",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Jardim Morumbi, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/chacara-3034901317.html"
-    },
-    {
-      "id": "3021802105",
-      "tipo": "Rural",
-      "preco": 400000,
-      "precoTexto": "R$ 400.000",
-      "quartos": 1,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 5000,
-      "bairro": "Estância Vale do Paraíso",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Estância Vale do Paraíso, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/chacara-com-1-dormitorio-a-venda-5000-m-por-r$-3021802105.html"
-    },
-    {
       "id": "3028527023",
       "tipo": "Rural",
       "preco": 400000,
@@ -3064,6 +3034,36 @@
       "endereco": null,
       "titulo": "Endereço não informado Cidade Jardim, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-194-m-por-r$-2999794794.html"
+    },
+    {
+      "id": "3034901317",
+      "tipo": "Rural",
+      "preco": 400000,
+      "precoTexto": "R$ 400.000",
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 1000,
+      "bairro": "Jardim Morumbi",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Jardim Morumbi, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/chacara-3034901317.html"
+    },
+    {
+      "id": "3021802105",
+      "tipo": "Rural",
+      "preco": 400000,
+      "precoTexto": "R$ 400.000",
+      "quartos": 1,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 5000,
+      "bairro": "Estância Vale do Paraíso",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Estância Vale do Paraíso, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/chacara-com-1-dormitorio-a-venda-5000-m-por-r$-3021802105.html"
     },
     {
       "id": "3026058522",
@@ -3096,21 +3096,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-136-m-por-r$-3007720406.html"
     },
     {
-      "id": "3018226427",
-      "tipo": "Galpão",
-      "preco": 400000,
-      "precoTexto": "R$ 400.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 500,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/galpao-200-m-venda-por-r$-400.000-00-ou-aluguel-3018226427.html"
-    },
-    {
       "id": "2994466530",
       "tipo": "Casa",
       "preco": 400000,
@@ -3124,6 +3109,36 @@
       "endereco": null,
       "titulo": "Endereço não informado Cidade Jardim, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-300-m-por-r$-2994466530.html"
+    },
+    {
+      "id": "2995390758",
+      "tipo": "Casa",
+      "preco": 400000,
+      "precoTexto": "R$ 400.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": 360,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Central, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-140-m-por-r$-2995390758.html"
+    },
+    {
+      "id": "3018226427",
+      "tipo": "Galpão",
+      "preco": 400000,
+      "precoTexto": "R$ 400.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 500,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/galpao-200-m-venda-por-r$-400.000-00-ou-aluguel-3018226427.html"
     },
     {
       "id": "3015476436",
@@ -3154,21 +3169,6 @@
       "endereco": null,
       "titulo": "Endereço não informado Alto da Boa Vista, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-1-m-venda-por-r$-400.000-00-3033117476.html"
-    },
-    {
-      "id": "2995390758",
-      "tipo": "Casa",
-      "preco": 400000,
-      "precoTexto": "R$ 400.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 360,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Central, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-140-m-por-r$-2995390758.html"
     },
     {
       "id": "3018759960",
@@ -3231,21 +3231,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-180-m-venda-por-r$-3035096994.html"
     },
     {
-      "id": "3014494648",
-      "tipo": "Casa",
-      "preco": 420000,
-      "precoTexto": "R$ 420.000",
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 220,
-      "bairro": "Centro",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Centro, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-324-m-por-r$-3014494648.html"
-    },
-    {
       "id": "2999273985",
       "tipo": "Casa",
       "preco": 420000,
@@ -3274,6 +3259,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-110-m-por-r$-3012589111.html"
+    },
+    {
+      "id": "3014494648",
+      "tipo": "Casa",
+      "preco": 420000,
+      "precoTexto": "R$ 420.000",
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 220,
+      "bairro": "Centro",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Centro, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-324-m-por-r$-3014494648.html"
     },
     {
       "id": "3028521135",
@@ -3411,21 +3411,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-250-m-por-r$-3023279505.html"
     },
     {
-      "id": "3037329480",
-      "tipo": "Terreno",
-      "preco": 450000,
-      "precoTexto": "R$ 450.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 415,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Central, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-414-m-por-r$-450.000-00-setor-3037329480.html"
-    },
-    {
       "id": "3037897248",
       "tipo": "Casa",
       "preco": 450000,
@@ -3439,6 +3424,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Santos Dumont, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-180-m-por-r$-3037897248.html"
+    },
+    {
+      "id": "3037329480",
+      "tipo": "Terreno",
+      "preco": 450000,
+      "precoTexto": "R$ 450.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 415,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Central, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-414-m-por-r$-450.000-00-setor-3037329480.html"
     },
     {
       "id": "3015248586",
@@ -3516,21 +3516,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-por-r$-450.000-00-2995839283.html"
     },
     {
-      "id": "3001444829",
-      "tipo": "Galpão",
-      "preco": 450000,
-      "precoTexto": "R$ 450.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 360,
-      "bairro": "Setor Nossa Senhora da Saúde",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/galpao-440-m-venda-por-r$-450.000-00-ou-aluguel-3001444829.html"
-    },
-    {
       "id": "3029360922",
       "tipo": "Casa",
       "preco": 450000,
@@ -3544,6 +3529,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Novo Horizonte, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-por-r$-450.000-00-3029360922.html"
+    },
+    {
+      "id": "3001444829",
+      "tipo": "Galpão",
+      "preco": 450000,
+      "precoTexto": "R$ 450.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 360,
+      "bairro": "Setor Nossa Senhora da Saúde",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Nossa Senhora da Saúde, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/galpao-440-m-venda-por-r$-450.000-00-ou-aluguel-3001444829.html"
     },
     {
       "id": "3039980063",
@@ -3666,6 +3666,21 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-140-m-por-r$-490.000-2994296331.html"
     },
     {
+      "id": "2998599628",
+      "tipo": "Casa",
+      "preco": 500000,
+      "precoTexto": "R$ 500.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": 180,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-170-m-por-r$-2998599628.html"
+    },
+    {
       "id": "3018226406",
       "tipo": "Casa",
       "preco": 500000,
@@ -3679,21 +3694,6 @@
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-150-m-por-r$-3018226406.html"
-    },
-    {
-      "id": "3018311297",
-      "tipo": "Casa",
-      "preco": 500000,
-      "precoTexto": "R$ 500.000",
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 210,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-150-m-por-r$-3018311297.html"
     },
     {
       "id": "3018311298",
@@ -3711,19 +3711,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-150-m-por-r$-3018311298.html"
     },
     {
-      "id": "2998599628",
+      "id": "3018311297",
       "tipo": "Casa",
       "preco": 500000,
       "precoTexto": "R$ 500.000",
       "quartos": 3,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 180,
+      "banheiros": null,
+      "vagas": null,
+      "area": 210,
       "bairro": "Itumbiara",
       "cidade": "Itumbiara",
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-170-m-por-r$-2998599628.html"
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-150-m-por-r$-3018311297.html"
     },
     {
       "id": "3018311291",
@@ -3741,6 +3741,21 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-150-m-por-r$-3018311291.html"
     },
     {
+      "id": "3023331576",
+      "tipo": "Casa",
+      "preco": 500000,
+      "precoTexto": "R$ 500.000",
+      "quartos": 236,
+      "banheiros": null,
+      "vagas": null,
+      "area": 360,
+      "bairro": "Jardim Leonora ll",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Jardim Leonora ll, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-236-dormitorios-a-venda-por-r$-500.000-00-3023331576.html"
+    },
+    {
       "id": "3016767144",
       "tipo": "Apartamento",
       "preco": 500000,
@@ -3754,21 +3769,6 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Nova Aurora, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-3-dormitorios-a-venda-80-m-por-r$-3016767144.html"
-    },
-    {
-      "id": "3011190559",
-      "tipo": "Casa",
-      "preco": 500000,
-      "precoTexto": "R$ 500.000",
-      "quartos": 4,
-      "banheiros": null,
-      "vagas": 2,
-      "area": 360,
-      "bairro": "Setor Afonso Pena",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Afonso Pena, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-4-dormitorios-a-venda-167-m-por-r$-3011190559.html"
     },
     {
       "id": "2994703282",
@@ -3786,6 +3786,21 @@
       "link": "https://www.wimoveis.com.br/propriedades/galpao-a-venda-170-m-por-r$-500.000-00-buritis-2994703282.html"
     },
     {
+      "id": "3011190559",
+      "tipo": "Casa",
+      "preco": 500000,
+      "precoTexto": "R$ 500.000",
+      "quartos": 4,
+      "banheiros": null,
+      "vagas": 2,
+      "area": 360,
+      "bairro": "Setor Afonso Pena",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Afonso Pena, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-4-dormitorios-a-venda-167-m-por-r$-3011190559.html"
+    },
+    {
       "id": "3018311283",
       "tipo": "Casa",
       "preco": 500000,
@@ -3799,21 +3814,6 @@
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
       "link": "https://www.wimoveis.com.br/propriedades/casa-a-venda-150-m-por-r$-500.000-ernestina-borges-3018311283.html"
-    },
-    {
-      "id": "3001507658",
-      "tipo": "Casa",
-      "preco": 500000,
-      "precoTexto": "R$ 500.000",
-      "quartos": 5,
-      "banheiros": 1,
-      "vagas": 3,
-      "area": 300,
-      "bairro": "Vila de Furnas",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Vila de Furnas, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-5-dormitorios-a-venda-por-r$-500.000-00-3001507658.html"
     },
     {
       "id": "3015849219",
@@ -3831,6 +3831,21 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-140-m-por-r$-3015849219.html"
     },
     {
+      "id": "3037630559",
+      "tipo": "Casa",
+      "preco": 500000,
+      "precoTexto": "R$ 500.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 250,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-126-m-por-r$-3037630559.html"
+    },
+    {
       "id": "3018622324",
       "tipo": "Casa",
       "preco": 500000,
@@ -3846,19 +3861,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-360-m-por-r$-3018622324.html"
     },
     {
-      "id": "3037630559",
+      "id": "3001507658",
       "tipo": "Casa",
       "preco": 500000,
       "precoTexto": "R$ 500.000",
-      "quartos": 3,
+      "quartos": 5,
       "banheiros": 1,
-      "vagas": null,
-      "area": 250,
-      "bairro": "Itumbiara",
+      "vagas": 3,
+      "area": 300,
+      "bairro": "Vila de Furnas",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-126-m-por-r$-3037630559.html"
+      "titulo": "Endereço não informado Vila de Furnas, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-5-dormitorios-a-venda-por-r$-500.000-00-3001507658.html"
     },
     {
       "id": "2995561323",
@@ -3951,21 +3966,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-230-m-por-r$-3007040713.html"
     },
     {
-      "id": "3020557476",
-      "tipo": "Casa",
-      "preco": 550000,
-      "precoTexto": "R$ 550.000",
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 340,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Central, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-por-r$-550.000-00-3020557476.html"
-    },
-    {
       "id": "3028513961",
       "tipo": "Rural",
       "preco": 550000,
@@ -3994,6 +3994,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Paranaíba, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-209-m-por-r$-3005033113.html"
+    },
+    {
+      "id": "3020557476",
+      "tipo": "Casa",
+      "preco": 550000,
+      "precoTexto": "R$ 550.000",
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 340,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Central, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-por-r$-550.000-00-3020557476.html"
     },
     {
       "id": "2999273992",
@@ -4026,21 +4041,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-quartos-a-venda-em-itumbiara-no-bairro-2976345900.html"
     },
     {
-      "id": "3011225222",
-      "tipo": "Casa",
-      "preco": 550000,
-      "precoTexto": "R$ 550.000",
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": 2,
-      "area": 300,
-      "bairro": "Setor Social",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Social, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-190-m-por-r$-3011225222.html"
-    },
-    {
       "id": "3002043438",
       "tipo": "Casa",
       "preco": 550000,
@@ -4054,6 +4054,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Jardim Liberdade, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-162-m-por-r$-3002043438.html"
+    },
+    {
+      "id": "3011225222",
+      "tipo": "Casa",
+      "preco": 550000,
+      "precoTexto": "R$ 550.000",
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": 2,
+      "area": 300,
+      "bairro": "Setor Social",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Social, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-190-m-por-r$-3011225222.html"
     },
     {
       "id": "2999306174",
@@ -4236,6 +4251,21 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-280-m-por-r$-3011826529.html"
     },
     {
+      "id": "3017934718",
+      "tipo": "Casa",
+      "preco": 600000,
+      "precoTexto": "R$ 600.000",
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 360,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Alto da Boa Vista, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-234-m-por-r$-3017934718.html"
+    },
+    {
       "id": "3010107059",
       "tipo": "Casa",
       "preco": 600000,
@@ -4251,19 +4281,34 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-200-m-por-r$-3010107059.html"
     },
     {
-      "id": "3017934718",
+      "id": "3036978935",
       "tipo": "Casa",
       "preco": 600000,
       "precoTexto": "R$ 600.000",
       "quartos": 3,
       "banheiros": null,
       "vagas": null,
-      "area": 360,
-      "bairro": "Alto da Boa Vista",
+      "area": 238,
+      "bairro": "Jardim América",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Alto da Boa Vista, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-234-m-por-r$-3017934718.html"
+      "titulo": "Endereço não informado Jardim América, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-1-m-por-r$-600.000-00-3036978935.html"
+    },
+    {
+      "id": "3026861526",
+      "tipo": "Comercial",
+      "preco": 600000,
+      "precoTexto": "R$ 600.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 300,
+      "bairro": "Setor Planalto",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Planalto, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/sala-a-venda-200-m-por-r$-600.000-00-setor-3026861526.html"
     },
     {
       "id": "2995839290",
@@ -4294,21 +4339,6 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Planalto, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/galpao-a-venda-250-m-por-r$-600.000-00-setor-3010755895.html"
-    },
-    {
-      "id": "3026861526",
-      "tipo": "Comercial",
-      "preco": 600000,
-      "precoTexto": "R$ 600.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 300,
-      "bairro": "Setor Planalto",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Planalto, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/sala-a-venda-200-m-por-r$-600.000-00-setor-3026861526.html"
     },
     {
       "id": "2998777816",
@@ -4371,21 +4401,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-3-dormitorios-a-venda-93-m-por-r$-3005942532.html"
     },
     {
-      "id": "2995743334",
-      "tipo": "Casa",
-      "preco": 650000,
-      "precoTexto": "R$ 650.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 250,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-224-m-por-r$-2995743334.html"
-    },
-    {
       "id": "3021802106",
       "tipo": "Terreno",
       "preco": 650000,
@@ -4399,6 +4414,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Vila de Furnas, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-600-m-por-r$-650.000-00-vila-de-3021802106.html"
+    },
+    {
+      "id": "2995743334",
+      "tipo": "Casa",
+      "preco": 650000,
+      "precoTexto": "R$ 650.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": 250,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-224-m-por-r$-2995743334.html"
     },
     {
       "id": "2994175200",
@@ -4431,21 +4461,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-280-m-por-r$-3008480137.html"
     },
     {
-      "id": "3001444830",
-      "tipo": "Casa",
-      "preco": 650000,
-      "precoTexto": "R$ 650.000",
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 430,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Alto da Boa Vista, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-197-m-por-r$-3001444830.html"
-    },
-    {
       "id": "3011826528",
       "tipo": "Casa",
       "preco": 650000,
@@ -4474,6 +4489,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Central, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-250-m-por-r$-3007720397.html"
+    },
+    {
+      "id": "3001444830",
+      "tipo": "Casa",
+      "preco": 650000,
+      "precoTexto": "R$ 650.000",
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 430,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Alto da Boa Vista, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-197-m-por-r$-3001444830.html"
     },
     {
       "id": "3011558884",
@@ -4581,21 +4611,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-500-m-por-r$-700.000-00-setor-3018622312.html"
     },
     {
-      "id": "3040192719",
-      "tipo": "Casa",
-      "preco": 700000,
-      "precoTexto": "R$ 700.000",
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 360,
-      "bairro": "Residencial Jardim Primavera",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Residencial Jardim Primavera, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-220-m-venda-por-r$-3040192719.html"
-    },
-    {
       "id": "3021756981",
       "tipo": "Casa",
       "preco": 700000,
@@ -4609,6 +4624,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Residencial Jardim Primavera, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-180-m-por-r$-3021756981.html"
+    },
+    {
+      "id": "3040192719",
+      "tipo": "Casa",
+      "preco": 700000,
+      "precoTexto": "R$ 700.000",
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 360,
+      "bairro": "Residencial Jardim Primavera",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Residencial Jardim Primavera, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-220-m-venda-por-r$-3040192719.html"
     },
     {
       "id": "3035005838",
@@ -4671,19 +4701,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-265-m-por-r$-3002566676.html"
     },
     {
-      "id": "3011190554",
+      "id": "3009872533",
       "tipo": "Terreno",
       "preco": 700000,
       "precoTexto": "R$ 700.000",
       "quartos": null,
       "banheiros": null,
       "vagas": null,
-      "area": 250,
+      "area": 1100,
       "bairro": "Itumbiara",
       "cidade": "Itumbiara",
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-250-m-por-r$-700.000-00-3011190554.html"
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-1100-m-por-r$-700.000-00-paranaiba-3009872533.html"
     },
     {
       "id": "3016661137",
@@ -4716,19 +4746,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/galpao-348-m-venda-por-r$-700.000-00-ou-aluguel-3003552554.html"
     },
     {
-      "id": "3009872533",
+      "id": "3011190554",
       "tipo": "Terreno",
       "preco": 700000,
       "precoTexto": "R$ 700.000",
       "quartos": null,
       "banheiros": null,
       "vagas": null,
-      "area": 1100,
+      "area": 250,
       "bairro": "Itumbiara",
       "cidade": "Itumbiara",
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-1100-m-por-r$-700.000-00-paranaiba-3009872533.html"
+      "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-250-m-por-r$-700.000-00-3011190554.html"
     },
     {
       "id": "2995561324",
@@ -4776,21 +4806,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-230-m-por-r$-3016708335.html"
     },
     {
-      "id": "3023883972",
-      "tipo": "Outro",
-      "preco": 750000,
-      "precoTexto": "R$ 750.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 725,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Alto da Boa Vista, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/area-a-venda-725-m-por-r$-750.000-00-alto-da-boa-3023883972.html"
-    },
-    {
       "id": "3017899693",
       "tipo": "Casa",
       "preco": 750000,
@@ -4821,6 +4836,21 @@
       "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-3-dormitorios-a-venda-110-m-por-r$-2994726970.html"
     },
     {
+      "id": "3023883972",
+      "tipo": "Outro",
+      "preco": 750000,
+      "precoTexto": "R$ 750.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 725,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Alto da Boa Vista, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/area-a-venda-725-m-por-r$-750.000-00-alto-da-boa-3023883972.html"
+    },
+    {
       "id": "3023062766",
       "tipo": "Casa",
       "preco": 750000,
@@ -4834,6 +4864,36 @@
       "endereco": null,
       "titulo": "Endereço não informado Itumbiara, Goiás",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-135-m-por-r$-3023062766.html"
+    },
+    {
+      "id": "3012935320",
+      "tipo": "Apartamento",
+      "preco": 750000,
+      "precoTexto": "R$ 750.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": 156,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Central, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-3-dormitorios-a-venda-156-m-por-r$-3012935320.html"
+    },
+    {
+      "id": "3034479948",
+      "tipo": "Casa",
+      "preco": 750000,
+      "precoTexto": "R$ 750.000",
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 250,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-160-m-por-r$-3034479948.html"
     },
     {
       "id": "2998599632",
@@ -4896,21 +4956,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-11-dormitorios-a-venda-418-m-por-r$-3008681375.html"
     },
     {
-      "id": "3027181014",
-      "tipo": "Casa",
-      "preco": 780000,
-      "precoTexto": "R$ 780.000",
-      "quartos": 4,
-      "banheiros": null,
-      "vagas": null,
-      "area": 360,
-      "bairro": "Setor Novo Horizonte",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Novo Horizonte, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-4-dormitorios-200-m-venda-por-r$-3027181014.html"
-    },
-    {
       "id": "2998599638",
       "tipo": "Casa",
       "preco": 780000,
@@ -4926,19 +4971,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-piscina-com-3-dormitorios-a-venda-200-m-por-2998599638.html"
     },
     {
-      "id": "3018529753",
+      "id": "3027181014",
       "tipo": "Casa",
-      "preco": 790000,
-      "precoTexto": "R$ 790.000",
-      "quartos": 2,
+      "preco": 780000,
+      "precoTexto": "R$ 780.000",
+      "quartos": 4,
       "banheiros": null,
       "vagas": null,
-      "area": 567,
-      "bairro": "Setor Paranaíba",
+      "area": 360,
+      "bairro": "Setor Novo Horizonte",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Setor Paranaíba, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-70-m-por-r$-3018529753.html"
+      "titulo": "Endereço não informado Setor Novo Horizonte, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-4-dormitorios-200-m-venda-por-r$-3027181014.html"
     },
     {
       "id": "2999775707",
@@ -4954,6 +4999,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Jardim América, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-3-dormitorios-a-venda-80-m-por-r$-2999775707.html"
+    },
+    {
+      "id": "3018529753",
+      "tipo": "Casa",
+      "preco": 790000,
+      "precoTexto": "R$ 790.000",
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": null,
+      "area": 567,
+      "bairro": "Setor Paranaíba",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Paranaíba, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-70-m-por-r$-3018529753.html"
     },
     {
       "id": "2994175179",
@@ -5031,6 +5091,21 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-por-r$-800.000-00-3010549047.html"
     },
     {
+      "id": "3022193694",
+      "tipo": "Casa",
+      "preco": 800000,
+      "precoTexto": "R$ 800.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 250,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-210-m-por-r$-3022193694.html"
+    },
+    {
       "id": "3037329473",
       "tipo": "Galpão",
       "preco": 800000,
@@ -5061,21 +5136,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-180-m-por-r$-3034792948.html"
     },
     {
-      "id": "3022193694",
-      "tipo": "Casa",
-      "preco": 800000,
-      "precoTexto": "R$ 800.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 250,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-210-m-por-r$-3022193694.html"
-    },
-    {
       "id": "2998656850",
       "tipo": "Outro",
       "preco": 830000,
@@ -5089,36 +5149,6 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Anhangüera, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/area-a-venda-544-m-por-r$-830.000-00-setor-2998656850.html"
-    },
-    {
-      "id": "3023331579",
-      "tipo": "Casa",
-      "preco": 850000,
-      "precoTexto": "R$ 850.000",
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 360,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-192-m-por-r$-3023331579.html"
-    },
-    {
-      "id": "3007591723",
-      "tipo": "Galpão",
-      "preco": 850000,
-      "precoTexto": "R$ 850.000",
-      "quartos": null,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 300,
-      "bairro": "Setor Social",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Social, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/galpao-a-venda-300-m-por-r$-850.000-00-social-3007591723.html"
     },
     {
       "id": "2994296330",
@@ -5136,6 +5166,21 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-162-m-por-r$-2994296330.html"
     },
     {
+      "id": "3023331579",
+      "tipo": "Casa",
+      "preco": 850000,
+      "precoTexto": "R$ 850.000",
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 360,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-192-m-por-r$-3023331579.html"
+    },
+    {
       "id": "3018622323",
       "tipo": "Casa",
       "preco": 850000,
@@ -5151,19 +5196,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-250-m-por-r$-3018622323.html"
     },
     {
-      "id": "3037440187",
-      "tipo": "Apartamento",
-      "preco": 900000,
-      "precoTexto": "R$ 900.000",
-      "quartos": 3,
+      "id": "3007591723",
+      "tipo": "Galpão",
+      "preco": 850000,
+      "precoTexto": "R$ 850.000",
+      "quartos": null,
       "banheiros": 1,
-      "vagas": 2,
-      "area": 104,
-      "bairro": "Alto da Boa Vista",
+      "vagas": null,
+      "area": 300,
+      "bairro": "Setor Social",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Alto da Boa Vista, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-3-dormitorios-a-venda-104-m-por-r$-3037440187.html"
+      "titulo": "Endereço não informado Setor Social, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/galpao-a-venda-300-m-por-r$-850.000-00-social-3007591723.html"
     },
     {
       "id": "3009872526",
@@ -5181,19 +5226,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-4-dormitorios-23147-m-venda-por-r$-3009872526.html"
     },
     {
-      "id": "3001150652",
-      "tipo": "Casa",
+      "id": "3037440187",
+      "tipo": "Apartamento",
       "preco": 900000,
       "precoTexto": "R$ 900.000",
       "quartos": 3,
-      "banheiros": null,
+      "banheiros": 1,
       "vagas": 2,
-      "area": 360,
-      "bairro": "Setor Central",
+      "area": 104,
+      "bairro": "Alto da Boa Vista",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Setor Central, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-170-m-venda-por-r$-3001150652.html"
+      "titulo": "Endereço não informado Alto da Boa Vista, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-3-dormitorios-a-venda-104-m-por-r$-3037440187.html"
     },
     {
       "id": "3009916509",
@@ -5209,6 +5254,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Afonso Pena, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/galpao-350-m-venda-por-r$-900.000-00-ou-aluguel-3009916509.html"
+    },
+    {
+      "id": "3001150652",
+      "tipo": "Casa",
+      "preco": 900000,
+      "precoTexto": "R$ 900.000",
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": 2,
+      "area": 360,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Central, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-170-m-venda-por-r$-3001150652.html"
     },
     {
       "id": "3021174259",
@@ -5316,6 +5376,21 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-170-m-por-r$-3008991900.html"
     },
     {
+      "id": "2994317375",
+      "tipo": "Casa",
+      "preco": 1000000,
+      "precoTexto": "R$ 1.000.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 250,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-150-m-por-r$-2994317375.html"
+    },
+    {
       "id": "2999076649",
       "tipo": "Casa",
       "preco": 1000000,
@@ -5344,21 +5419,6 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Central, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-2-dormitorios-a-venda-120-m-por-r$-3019048307.html"
-    },
-    {
-      "id": "2994317375",
-      "tipo": "Casa",
-      "preco": 1000000,
-      "precoTexto": "R$ 1.000.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 250,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-150-m-por-r$-2994317375.html"
     },
     {
       "id": "3008681374",
@@ -5391,21 +5451,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/area-a-venda-700-m-por-r$-1.050.000-00-setor-3021756993.html"
     },
     {
-      "id": "3026056531",
-      "tipo": "Rural",
-      "preco": 1100000,
-      "precoTexto": "R$ 1.100.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 8000,
-      "bairro": "Jardim Liberdade",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Jardim Liberdade, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/chacara-3026056531.html"
-    },
-    {
       "id": "3040192709",
       "tipo": "Outro",
       "preco": 1100000,
@@ -5419,6 +5464,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Jardim Liberdade, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/area-a-venda-8000-m-por-r$-1.100.000-00-jardim-3040192709.html"
+    },
+    {
+      "id": "3026056531",
+      "tipo": "Rural",
+      "preco": 1100000,
+      "precoTexto": "R$ 1.100.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 8000,
+      "bairro": "Jardim Liberdade",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Jardim Liberdade, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/chacara-3026056531.html"
     },
     {
       "id": "3007905988",
@@ -5451,6 +5511,21 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-4-dormitorios-a-venda-por-r$-1.100.000-00-3038885894.html"
     },
     {
+      "id": "3026054591",
+      "tipo": "Rural",
+      "preco": 1200000,
+      "precoTexto": "R$ 1.200.000",
+      "quartos": 5,
+      "banheiros": null,
+      "vagas": null,
+      "area": 8800,
+      "bairro": "Village Imperial",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Village Imperial, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/chacara-3026054591.html"
+    },
+    {
       "id": "3032096563",
       "tipo": "Casa",
       "preco": 1200000,
@@ -5481,21 +5556,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/chacara-3026075937.html"
     },
     {
-      "id": "3026054591",
-      "tipo": "Rural",
-      "preco": 1200000,
-      "precoTexto": "R$ 1.200.000",
-      "quartos": 5,
-      "banheiros": null,
-      "vagas": null,
-      "area": 8800,
-      "bairro": "Village Imperial",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Village Imperial, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/chacara-3026054591.html"
-    },
-    {
       "id": "3028506869",
       "tipo": "Rural",
       "preco": 1200000,
@@ -5511,21 +5571,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/chacara-3028506869.html"
     },
     {
-      "id": "3018529741",
-      "tipo": "Outro",
-      "preco": 1200000,
-      "precoTexto": "R$ 1.200.000",
-      "quartos": 5,
-      "banheiros": null,
-      "vagas": null,
-      "area": 8800,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Central, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/rancho-com-5-dormitorios-a-venda-250-m-por-r$-3018529741.html"
-    },
-    {
       "id": "3005733313",
       "tipo": "Casa",
       "preco": 1200000,
@@ -5539,6 +5584,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Vila de Furnas, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-200-m-por-r$-3005733313.html"
+    },
+    {
+      "id": "3018529741",
+      "tipo": "Outro",
+      "preco": 1200000,
+      "precoTexto": "R$ 1.200.000",
+      "quartos": 5,
+      "banheiros": null,
+      "vagas": null,
+      "area": 8800,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Central, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/rancho-com-5-dormitorios-a-venda-250-m-por-r$-3018529741.html"
     },
     {
       "id": "3026988983",
@@ -5661,21 +5721,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/chacara-3040021406.html"
     },
     {
-      "id": "3000178911",
-      "tipo": "Outro",
-      "preco": 1300000,
-      "precoTexto": "R$ 1.300.000",
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 790,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Alto da Boa Vista, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/area-a-venda-790-m-por-r$-1.300.000-00-alto-da-boa-3000178911.html"
-    },
-    {
       "id": "3015109702",
       "tipo": "Casa",
       "preco": 1300000,
@@ -5689,6 +5734,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Central, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-a-venda-180-m-por-r$-1.300.000-setor-central-3015109702.html"
+    },
+    {
+      "id": "3000178911",
+      "tipo": "Outro",
+      "preco": 1300000,
+      "precoTexto": "R$ 1.300.000",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 790,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Alto da Boa Vista, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/area-a-venda-790-m-por-r$-1.300.000-00-alto-da-boa-3000178911.html"
     },
     {
       "id": "2995215802",
@@ -5736,21 +5796,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/sala-a-venda-697-m-por-r$-1.300.000-00-setor-3019048306.html"
     },
     {
-      "id": "3009053979",
-      "tipo": "Casa",
-      "preco": 1300000,
-      "precoTexto": "R$ 1.300.000",
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 360,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-180-m-por-r$-3009053979.html"
-    },
-    {
       "id": "3000135580",
       "tipo": "Casa",
       "preco": 1300000,
@@ -5764,6 +5809,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Alto da Boa Vista, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/casa-com-4-dormitorios-386-m-venda-por-r$-3000135580.html"
+    },
+    {
+      "id": "3009053979",
+      "tipo": "Casa",
+      "preco": 1300000,
+      "precoTexto": "R$ 1.300.000",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 360,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-3-dormitorios-a-venda-180-m-por-r$-3009053979.html"
     },
     {
       "id": "3005733347",
@@ -5826,21 +5886,6 @@
       "link": "https://www.wimoveis.com.br/propriedades/terreno-a-venda-1800-m-por-r$-1.500.000-00-village-2998970254.html"
     },
     {
-      "id": "3001202325",
-      "tipo": "Apartamento",
-      "preco": 1500000,
-      "precoTexto": "R$ 1.500.000",
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": 2,
-      "area": 149,
-      "bairro": "Setor Nova Aurora",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Endereço não informado Setor Nova Aurora, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-3-dormitorios-a-venda-149-m-setor-3001202325.html"
-    },
-    {
       "id": "3038208725",
       "tipo": "Outro",
       "preco": 1500000,
@@ -5854,6 +5899,21 @@
       "endereco": null,
       "titulo": "Endereço não informado Setor Paranaíba, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/area-a-venda-978-m-por-r$-1.500.000-00-setor-3038208725.html"
+    },
+    {
+      "id": "3001202325",
+      "tipo": "Apartamento",
+      "preco": 1500000,
+      "precoTexto": "R$ 1.500.000",
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": 2,
+      "area": 149,
+      "bairro": "Setor Nova Aurora",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Setor Nova Aurora, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/apartamento-com-3-dormitorios-a-venda-149-m-setor-3001202325.html"
     },
     {
       "id": "3024330640",
@@ -6021,19 +6081,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/area-a-venda-9360-m-por-r$-2.000.000-00-setor-nova-3002385973.html"
     },
     {
-      "id": "3006206330",
-      "tipo": "Casa",
+      "id": "3002948794",
+      "tipo": "Galpão",
       "preco": 2000000,
       "precoTexto": "R$ 2.000.000",
-      "quartos": 4,
+      "quartos": null,
       "banheiros": 1,
       "vagas": null,
-      "area": 360,
-      "bairro": "Itumbiara",
+      "area": 992,
+      "bairro": "Setor Nova Aurora",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Itumbiara, Goiás",
-      "link": "https://www.wimoveis.com.br/propriedades/casa-com-4-dormitorios-a-venda-299-m-por-r$-3006206330.html"
+      "titulo": "Endereço não informado Setor Nova Aurora, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/galpao-800-m-venda-por-r$-2.000.000-00-ou-aluguel-3002948794.html"
     },
     {
       "id": "3014494649",
@@ -6051,19 +6111,19 @@
       "link": "https://www.wimoveis.com.br/propriedades/casa-a-venda-3-m-por-r$-2.000.000-00-setor-santa-3014494649.html"
     },
     {
-      "id": "3002948794",
-      "tipo": "Galpão",
+      "id": "3006206330",
+      "tipo": "Casa",
       "preco": 2000000,
       "precoTexto": "R$ 2.000.000",
-      "quartos": null,
+      "quartos": 4,
       "banheiros": 1,
       "vagas": null,
-      "area": 992,
-      "bairro": "Setor Nova Aurora",
+      "area": 360,
+      "bairro": "Itumbiara",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Endereço não informado Setor Nova Aurora, Itumbiara",
-      "link": "https://www.wimoveis.com.br/propriedades/galpao-800-m-venda-por-r$-2.000.000-00-ou-aluguel-3002948794.html"
+      "titulo": "Endereço não informado Itumbiara, Goiás",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-4-dormitorios-a-venda-299-m-por-r$-3006206330.html"
     },
     {
       "id": "3023062763",
@@ -6139,6 +6199,21 @@
       "endereco": null,
       "titulo": "Itumbiara Goiás Setor Central, Itumbiara",
       "link": "https://www.wimoveis.com.br/propriedades/fazenda-a-venda-em-itumbiara-go-19-hectares-500-m2-3033824779.html"
+    },
+    {
+      "id": "3004977772",
+      "tipo": "Casa",
+      "preco": 2600000,
+      "precoTexto": "R$ 2.600.000",
+      "quartos": 4,
+      "banheiros": null,
+      "vagas": null,
+      "area": 1,
+      "bairro": "Residencial Jardim Primavera",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Endereço não informado Residencial Jardim Primavera, Itumbiara",
+      "link": "https://www.wimoveis.com.br/propriedades/casa-com-4-dormitorios-sendo-2-suite-e-02-semi-suites-3004977772.html"
     },
     {
       "id": "2998368872",
