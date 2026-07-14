@@ -1,9 +1,9 @@
 name: Atualizar imóveis
 
+# Wimoveis bloqueia o IP dos servidores do GitHub, então a coleta roda no Mac
+# local (atualizar.sh + launchd) e dá push. Este workflow fica só manual.
 on:
-  schedule:
-    - cron: "7 11 * * *"   # 08:07 BRT (11:07 UTC), diário
-  workflow_dispatch:        # permite rodar manualmente pelo site do GitHub
+  workflow_dispatch:
 
 permissions:
   contents: write
