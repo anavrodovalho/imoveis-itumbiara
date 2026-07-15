@@ -28,7 +28,9 @@
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
   .imovel{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:8px;text-decoration:none;color:inherit;transition:.12s}
   .imovel:hover{border-color:var(--accent);box-shadow:0 4px 14px rgba(15,118,110,.10);transform:translateY(-1px)}
+  .imovel .topo{display:flex;justify-content:space-between;align-items:center;gap:6px}
   .imovel .tipo{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:var(--accent)}
+  .imovel .fonte{font-size:10px;font-weight:600;color:var(--muted);background:#f3f4f6;border-radius:5px;padding:2px 6px;white-space:nowrap}
   .imovel .preco{font-size:20px;font-weight:700}
   .imovel .preco.consulte{font-size:15px;color:var(--muted);font-weight:600}
   .imovel .bairro{font-size:13px;color:#374151}
@@ -59,6 +61,7 @@
     </div>
     <div class="campo"><label>Tipo</label><select id="fTipo"><option value="">Todos</option></select></div>
     <div class="campo"><label>Bairro</label><select id="fBairro"><option value="">Todos</option></select></div>
+    <div class="campo"><label>Imobiliária / portal</label><select id="fFonte"><option value="">Todas</option></select></div>
     <div class="campo"><label>Busca</label><input type="text" id="fBusca" placeholder="palavra no anúncio"></div>
     <label class="chk"><input type="checkbox" id="fComPreco"> Só imóveis com preço</label>
     <button class="reset" id="btnReset">Limpar filtros</button>
@@ -82,7 +85,7 @@ const fmt = (n)=> n==null ? null : n.toLocaleString('pt-BR',{style:'currency',cu
 let DADOS = [];
 
 const el = (id)=>document.getElementById(id);
-const filtros = ['fValorMax','fValorMin','fQuartos','fBanh','fVagas','fArea','fTipo','fBairro','fBusca','fComPreco','ordem'];
+const filtros = ['fValorMax','fValorMin','fQuartos','fBanh','fVagas','fArea','fTipo','fBairro','fFonte','fBusca','fComPreco','ordem'];
 
 function popular(campo, valores, label){
   const s = el(campo);
@@ -94,19 +97,21 @@ function popular(campo, valores, label){
 function aplicar(){
   const vMax=+el('fValorMax').value||Infinity, vMin=+el('fValorMin').value||0;
   const q=+el('fQuartos').value||0, b=+el('fBanh').value||0, vg=+el('fVagas').value||0, ar=+el('fArea').value||0;
-  const tp=el('fTipo').value, br=el('fBairro').value, busca=el('fBusca').value.toLowerCase().trim();
+  const tp=el('fTipo').value, br=el('fBairro').value, fo=el('fFonte').value, busca=el('fBusca').value.toLowerCase().trim();
   const soPreco=el('fComPreco').checked;
 
   let res = DADOS.filter(i=>{
+    const fontes=i.fontes||[i.fonte];
     if(soPreco && i.preco==null) return false;
     if(i.preco!=null){ if(i.preco>vMax||i.preco<vMin) return false; }
-    else if(vMax!==Infinity||vMin>0){ if(soPreco) return false; } // sem preço só passa se não filtrou valor...
+    else if(vMax!==Infinity||vMin>0){ if(soPreco) return false; }
     if(q && (i.quartos||0)<q) return false;
     if(b && (i.banheiros||0)<b) return false;
     if(vg && (i.vagas||0)<vg) return false;
     if(ar && (i.area||0)<ar) return false;
     if(tp && i.tipo!==tp) return false;
     if(br && i.bairro!==br) return false;
+    if(fo && !fontes.includes(fo)) return false;
     if(busca && !((i.titulo||'')+' '+(i.bairro||'')+' '+(i.endereco||'')).toLowerCase().includes(busca)) return false;
     return true;
   });
@@ -134,8 +139,9 @@ function render(res){
     if(i.banheiros) specs.push(`${i.banheiros} banh.`);
     if(i.vagas) specs.push(`${i.vagas} vaga${i.vagas>1?'s':''}`);
     if(i.area) specs.push(`${i.area} m²`);
+    const fontes=(i.fontes||[i.fonte]).filter(Boolean);
     return `<a class="imovel" href="${i.link}" target="_blank" rel="noopener">
-      <span class="tipo">${i.tipo}</span>${preco}
+      <div class="topo"><span class="tipo">${i.tipo}</span><span class="fonte">${fontes.join(' + ')}</span></div>${preco}
       <div class="bairro">${i.bairro||''}${i.endereco?' · '+i.endereco:''}</div>
       <div class="specs">${specs.map(s=>`<span>${s}</span>`).join('')}</div>
     </a>`;
@@ -145,9 +151,11 @@ function render(res){
 function iniciar(d){
   DADOS = d.imoveis;
   const dt = new Date(d.atualizadoEm).toLocaleString('pt-BR',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'});
-  el('meta').textContent = `${d.total} imóveis · ${d.comPreco} com preço · fonte ${d.fonte} · atualizado ${dt}`;
+  const fontesTxt = d.porFonte ? Object.entries(d.porFonte).map(([f,n])=>`${f} (${n})`).join(', ') : (d.fonte||'');
+  el('meta').textContent = `${d.total} imóveis · ${d.comPreco} com preço · ${fontesTxt} · atualizado ${dt}`;
   popular('fTipo', DADOS.map(i=>i.tipo));
   popular('fBairro', DADOS.map(i=>i.bairro));
+  popular('fFonte', DADOS.flatMap(i=>i.fontes||[i.fonte]));
   filtros.forEach(f=>{ el(f).addEventListener('input',aplicar); });
   el('btnReset').addEventListener('click',()=>{ filtros.forEach(f=>{ const e=el(f); if(e.type==='checkbox')e.checked=false; else if(e.tagName==='SELECT'&&f!=='ordem')e.value=''; else if(e.tagName==='INPUT')e.value=''; }); aplicar(); });
   aplicar();

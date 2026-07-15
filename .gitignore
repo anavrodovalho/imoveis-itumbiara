@@ -3,3 +3,5 @@ atualizar.log
 launchd.*.log
 *.png
 diag*.js
+test*.js
+shot.js
