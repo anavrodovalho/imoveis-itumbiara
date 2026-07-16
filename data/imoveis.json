@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-16T20:09:23.394Z",
+  "atualizadoEm": "2026-07-16T20:20:13.113Z",
   "cidade": "Itumbiara",
   "fontes": [
     "Wimoveis",
@@ -3504,6 +3504,24 @@
     },
     {
       "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 350000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Residencial Alto do Trindade",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "rea residencial alto do trindade itumbiara 3220",
+      "link": "https://vigaimoveis.com.br/rea-residencial-alto-do-trindade-itumbiara-3220",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
       "tipo": "Casa",
       "preco": 350000,
       "quartos": 3,
@@ -3642,24 +3660,6 @@
       "endereco": null,
       "titulo": "go 2220",
       "link": "https://vigaimoveis.com.br/rancho-com-3-sutes-venda-zona-rural-itumbiara/go-2220",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 350000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Residencial Alto do Trindade",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "rea residencial alto do trindade itumbiara 3220",
-      "link": "https://vigaimoveis.com.br/rea-residencial-alto-do-trindade-itumbiara-3220",
       "fontes": [
         "Viga"
       ]
