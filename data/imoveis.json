@@ -1,15 +1,15 @@
 {
-  "atualizadoEm": "2026-07-14T20:12:25.221Z",
+  "atualizadoEm": "2026-07-16T20:09:23.394Z",
   "cidade": "Itumbiara",
   "fontes": [
     "Wimoveis",
     "Viga"
   ],
-  "total": 477,
-  "comPreco": 475,
+  "total": 476,
+  "comPreco": 474,
   "porFonte": {
     "Wimoveis": 371,
-    "Viga": 114
+    "Viga": 113
   },
   "imoveis": [
     {
@@ -927,8 +927,8 @@
       "bairro": "Residencial Beira Rio II",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "terreno residencial beira rio ii itumbiara ifv 3327",
-      "link": "https://vigaimoveis.com.br/lote/terreno-residencial-beira-rio-ii-itumbiara-ifv-3327",
+      "titulo": "terreno residencial beira rio ii itumbiara b5k 3490",
+      "link": "https://vigaimoveis.com.br/lote/terreno-residencial-beira-rio-ii-itumbiara-b5k-3490",
       "fontes": [
         "Viga"
       ]
@@ -3504,24 +3504,6 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 350000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Residencial Alto do Trindade",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "rea residencial alto do trindade itumbiara 3220",
-      "link": "https://vigaimoveis.com.br/rea-residencial-alto-do-trindade-itumbiara-3220",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
       "tipo": "Casa",
       "preco": 350000,
       "quartos": 3,
@@ -3660,6 +3642,24 @@
       "endereco": null,
       "titulo": "go 2220",
       "link": "https://vigaimoveis.com.br/rancho-com-3-sutes-venda-zona-rural-itumbiara/go-2220",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 350000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Residencial Alto do Trindade",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "rea residencial alto do trindade itumbiara 3220",
+      "link": "https://vigaimoveis.com.br/rea-residencial-alto-do-trindade-itumbiara-3220",
       "fontes": [
         "Viga"
       ]
@@ -6265,24 +6265,6 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Casa",
-      "preco": 700000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Residencial Beira Rio II",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa em fase de construo com 3 dormitrios venda residencialbeira rio ii itumbiara",
-      "link": "https://vigaimoveis.com.br/casa-em-fase-de-construo-com-3-dormitrios-venda-residencialbeira-rio-ii-itumbiara/go",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
       "tipo": "Outro",
       "preco": 700000,
       "quartos": null,
@@ -7205,24 +7187,6 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Casa",
-      "preco": 1000000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Vila de Furnas",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa com 3 dormitrios venda 120 m por r 1000000 vila de furnas itumbiara",
-      "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-120-m-por-r-1000000-vila-de-furnas-itumbiara/go",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
       "tipo": "Outro",
       "preco": 1000000,
       "quartos": null,
@@ -7271,6 +7235,24 @@
       "endereco": null,
       "titulo": "rea venda 447 m afonso pena itumbiara",
       "link": "https://vigaimoveis.com.br/rea-venda-447-m-afonso-pena-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Comercial",
+      "preco": 1000000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Afonso Pena",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "ponto venda 400 m afonso pena itumbiara",
+      "link": "https://vigaimoveis.com.br/ponto-venda-400-m-afonso-pena-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -8470,8 +8452,8 @@
       "bairro": "Setor Central",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "sobrado com 2 quartos itumbiara",
-      "link": "https://vigaimoveis.com.br/sobrado-com-2-quartos-itumbiara",
+      "titulo": "sobrado com 2 quartos itumbiara 2961",
+      "link": "https://vigaimoveis.com.br/sobrado-com-2-quartos-itumbiara-2961",
       "fontes": [
         "Viga"
       ]
