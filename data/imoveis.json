@@ -1,15 +1,15 @@
 {
-  "atualizadoEm": "2026-07-17T11:00:52.592Z",
+  "atualizadoEm": "2026-07-18T10:45:12.247Z",
   "cidade": "Itumbiara",
   "fontes": [
     "Wimoveis",
     "Viga"
   ],
-  "total": 476,
-  "comPreco": 474,
+  "total": 475,
+  "comPreco": 473,
   "porFonte": {
     "Wimoveis": 371,
-    "Viga": 113
+    "Viga": 112
   },
   "imoveis": [
     {
@@ -978,24 +978,6 @@
       "vagas": null,
       "area": null,
       "suites": null,
-      "bairro": "Jardim Beira Rio",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "terreno jardim beira rio itumbiara 3291",
-      "link": "https://vigaimoveis.com.br/lote/terreno-jardim-beira-rio-itumbiara-3291",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Terreno",
-      "preco": 150000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
       "bairro": "Jardim Leonora",
       "cidade": "Itumbiara",
       "endereco": null,
@@ -1073,6 +1055,24 @@
       "endereco": null,
       "titulo": "terreno venda 353 m por r 15000000 jardim morumbi itumbiara",
       "link": "https://vigaimoveis.com.br/terreno-venda-353-m-por-r-15000000-jardim-morumbi-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Terreno",
+      "preco": 150000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Jardim Beira Rio",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "terreno jardim beira rio itumbiara 3291",
+      "link": "https://vigaimoveis.com.br/lote/terreno-jardim-beira-rio-itumbiara-3291",
       "fontes": [
         "Viga"
       ]
@@ -5022,24 +5022,6 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 500000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Residencial Jardim Primavera",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "go 2116",
-      "link": "https://vigaimoveis.com.br/casa-com-2-dormitrios-venda-residencial-jardim-primavera-itumbiara/go-2116",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
       "tipo": "Casa",
       "preco": 500000,
       "quartos": 3,
@@ -5086,8 +5068,8 @@
       "bairro": "Jardim Morumbi",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "go 124",
-      "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-150-m-por-r-500000-jardim-morumbi-itumbiara/go-124",
+      "titulo": "go 56b",
+      "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-150-m-por-r-500000-jardim-morumbi-itumbiara/go-56b",
       "fontes": [
         "Viga"
       ]
@@ -7983,24 +7965,6 @@
       "vagas": null,
       "area": null,
       "suites": null,
-      "bairro": "Jardim América",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "2 barraces venda 1000 m por r 1500000 jardim amrica itumbiara",
-      "link": "https://vigaimoveis.com.br/2-barraces-venda-1000-m-por-r-1500000-jardim-amrica-itumbiara/go",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 1500000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
       "bairro": "Setor Central",
       "cidade": "Itumbiara",
       "endereco": null,
@@ -8150,6 +8114,24 @@
       "endereco": null,
       "titulo": "casa com 3 dormitrios venda 280 m por r 150000000 afonso pena itumbiara",
       "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-280-m-por-r-150000000-afonso-pena-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 1500000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Jardim América",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "2 barraces venda 1000 m por r 1500000 jardim amrica itumbiara",
+      "link": "https://vigaimoveis.com.br/2-barraces-venda-1000-m-por-r-1500000-jardim-amrica-itumbiara/go",
       "fontes": [
         "Viga"
       ]
