@@ -1,15 +1,15 @@
 {
-  "atualizadoEm": "2026-07-20T13:09:45.839Z",
+  "atualizadoEm": "2026-07-20T15:00:54.027Z",
   "cidade": "Itumbiara",
   "fontes": [
     "Wimoveis",
     "Viga"
   ],
-  "total": 475,
-  "comPreco": 473,
+  "total": 476,
+  "comPreco": 474,
   "porFonte": {
     "Wimoveis": 371,
-    "Viga": 112
+    "Viga": 113
   },
   "imoveis": [
     {
@@ -29,6 +29,60 @@
       "fonte": "Wimoveis",
       "fontes": [
         "Wimoveis"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 4000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "ms alto da boa vista itumbiara",
+      "link": "https://vigaimoveis.com.br/casa-com-4-dormitrios-para-alugar-185-m-por-r-4000/ms-alto-da-boa-vista-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 6000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "ms setor central itumbiara",
+      "link": "https://vigaimoveis.com.br/casa-com-4-dormitrios-364-m-venda-por-r-250000000-ou-aluguel-por-r-600000/ms-setor-central-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 8000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "go 2531",
+      "link": "https://vigaimoveis.com.br/apartamento-com-4-dormitrios-219-m-venda-alto-da-boa-vista-itumbiara/go-2531",
+      "fontes": [
+        "Viga"
       ]
     },
     {
@@ -2068,42 +2122,6 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Apartamento",
-      "preco": 250000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "gio de apartamento com 3 sutes venda 155 m setor central itumbiara",
-      "link": "https://vigaimoveis.com.br/gio-de-apartamento-com-3-sutes-venda-155-m-setor-central-itumbiara/go",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 250000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "go 3395",
-      "link": "https://vigaimoveis.com.br/gio-de-apartamento-com-3-sutes-venda-155-m-setor-central-itumbiara/go-3395",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
       "tipo": "Terreno",
       "preco": 250000,
       "quartos": null,
@@ -2206,6 +2224,42 @@
       "endereco": null,
       "titulo": "go sh8",
       "link": "https://vigaimoveis.com.br/terreno-venda-360-m-por-r-250000-residencial-beira-rio-i-itumbiara/go-sh8",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Apartamento",
+      "preco": 250000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "gio de apartamento com 3 sutes venda 155 m setor central itumbiara",
+      "link": "https://vigaimoveis.com.br/gio-de-apartamento-com-3-sutes-venda-155-m-setor-central-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 250000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "go 3395",
+      "link": "https://vigaimoveis.com.br/gio-de-apartamento-com-3-sutes-venda-155-m-setor-central-itumbiara/go-3395",
       "fontes": [
         "Viga"
       ]
@@ -4831,24 +4885,6 @@
       "vagas": null,
       "area": null,
       "suites": null,
-      "bairro": "Residencial Sonho Verde",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa com 3 quartos residencial sonho verde itumbiara 3369",
-      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-residencial-sonho-verde-itumbiara-3369",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Casa",
-      "preco": 500000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
       "bairro": "Parque Vale dos Buritys III",
       "cidade": "Itumbiara",
       "endereco": null,
@@ -5034,6 +5070,24 @@
       "endereco": null,
       "titulo": "go 124",
       "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-150-m-por-r-500000-jardim-morumbi-itumbiara/go-124",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Casa",
+      "preco": 500000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Residencial Sonho Verde",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "casa com 3 quartos residencial sonho verde itumbiara 3369",
+      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-residencial-sonho-verde-itumbiara-3369",
       "fontes": [
         "Viga"
       ]
@@ -7904,24 +7958,6 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Apartamento",
-      "preco": 1500000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "apartamento com 3 quartos alto da boa vista itumbiara qb1",
-      "link": "https://vigaimoveis.com.br/apartamento-com-3-quartos-alto-da-boa-vista-itumbiara-qb1",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
       "tipo": "Outro",
       "preco": 1500000,
       "quartos": null,
@@ -8096,6 +8132,24 @@
       "endereco": null,
       "titulo": "casa com 3 dormitrios venda 280 m por r 150000000 afonso pena itumbiara",
       "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-280-m-por-r-150000000-afonso-pena-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Apartamento",
+      "preco": 1500000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "apartamento com 3 quartos alto da boa vista itumbiara qb1",
+      "link": "https://vigaimoveis.com.br/apartamento-com-3-quartos-alto-da-boa-vista-itumbiara-qb1",
       "fontes": [
         "Viga"
       ]
@@ -8460,24 +8514,6 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 2500000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "ms setor central itumbiara",
-      "link": "https://vigaimoveis.com.br/casa-com-4-dormitrios-364-m-venda-por-r-250000000-ou-aluguel-por-r-600000/ms-setor-central-itumbiara/go",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
       "tipo": "Apartamento",
       "preco": 2500000,
       "quartos": 4,
@@ -8584,24 +8620,6 @@
       "fonte": "Wimoveis",
       "fontes": [
         "Wimoveis"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 2650000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "go 2531",
-      "link": "https://vigaimoveis.com.br/apartamento-com-4-dormitrios-219-m-venda-alto-da-boa-vista-itumbiara/go-2531",
-      "fontes": [
-        "Viga"
       ]
     },
     {
