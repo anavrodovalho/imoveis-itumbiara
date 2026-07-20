@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-20T12:01:34.258Z",
+  "atualizadoEm": "2026-07-20T12:09:59.275Z",
   "cidade": "Itumbiara",
   "fontes": [
     "Wimoveis",
@@ -927,8 +927,26 @@
       "bairro": "Residencial Beira Rio II",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "terreno residencial beira rio ii itumbiara ifv 3327",
-      "link": "https://vigaimoveis.com.br/lote/terreno-residencial-beira-rio-ii-itumbiara-ifv-3327",
+      "titulo": "terreno residencial beira rio ii itumbiara b5k 3490",
+      "link": "https://vigaimoveis.com.br/lote/terreno-residencial-beira-rio-ii-itumbiara-b5k-3490",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Terreno",
+      "preco": 150000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Jardim Beira Rio",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "terreno jardim beira rio itumbiara 3291",
+      "link": "https://vigaimoveis.com.br/lote/terreno-jardim-beira-rio-itumbiara-3291",
       "fontes": [
         "Viga"
       ]
@@ -1019,24 +1037,6 @@
       "endereco": null,
       "titulo": "terreno venda 353 m por r 15000000 jardim morumbi itumbiara",
       "link": "https://vigaimoveis.com.br/terreno-venda-353-m-por-r-15000000-jardim-morumbi-itumbiara/go",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Terreno",
-      "preco": 150000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Jardim Beira Rio",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "terreno jardim beira rio itumbiara 3291",
-      "link": "https://vigaimoveis.com.br/lote/terreno-jardim-beira-rio-itumbiara-3291",
       "fontes": [
         "Viga"
       ]
@@ -2129,6 +2129,24 @@
       "vagas": null,
       "area": null,
       "suites": null,
+      "bairro": "Jardim Europa",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "casa com 2 quartos jardim europa itumbiara 3349",
+      "link": "https://vigaimoveis.com.br/casa-com-2-quartos-jardim-europa-itumbiara-3349",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Casa",
+      "preco": 250000,
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
       "bairro": "Parque Vale dos Buritys III",
       "cidade": "Itumbiara",
       "endereco": null,
@@ -2170,24 +2188,6 @@
       "endereco": null,
       "titulo": "go 2487",
       "link": "https://vigaimoveis.com.br/2-casas-no-mesmo-lote-venda-setor-afonso-pena-itumbiara/go-2487",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Casa",
-      "preco": 250000,
-      "quartos": 2,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Jardim Europa",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa com 2 quartos jardim europa itumbiara 3349",
-      "link": "https://vigaimoveis.com.br/casa-com-2-quartos-jardim-europa-itumbiara-3349",
       "fontes": [
         "Viga"
       ]
@@ -7965,6 +7965,24 @@
       "vagas": null,
       "area": null,
       "suites": null,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "ms alto da boa vista itumbiara",
+      "link": "https://vigaimoveis.com.br/sobrado-com-4-dormitrios-430-m-venda-por-r-150000000-ou-aluguel-por-r-600000/ms-alto-da-boa-vista-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 1500000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
       "bairro": "Setor Nova Aurora",
       "cidade": "Itumbiara",
       "endereco": null,
@@ -8078,24 +8096,6 @@
       "endereco": null,
       "titulo": "casa com 3 dormitrios venda 280 m por r 150000000 afonso pena itumbiara",
       "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-280-m-por-r-150000000-afonso-pena-itumbiara/go",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 1500000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "ms alto da boa vista itumbiara",
-      "link": "https://vigaimoveis.com.br/sobrado-com-4-dormitrios-430-m-venda-por-r-150000000-ou-aluguel-por-r-600000/ms-alto-da-boa-vista-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -8624,24 +8624,6 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 2650000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "go 1059",
-      "link": "https://vigaimoveis.com.br/terreno-venda-751-setor-central-itumbiara/go-1059",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
       "tipo": "Casa em condomínio",
       "preco": 2650000,
       "quartos": null,
@@ -8654,6 +8636,24 @@
       "endereco": null,
       "titulo": "casa com 3 sutes venda 272 m condomnio horizontal paraso itumbiara",
       "link": "https://vigaimoveis.com.br/casa-com-3-sutes-venda-272-m-condomnio-horizontal-paraso-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 2650000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "go 1059",
+      "link": "https://vigaimoveis.com.br/terreno-venda-751-setor-central-itumbiara/go-1059",
       "fontes": [
         "Viga"
       ]
