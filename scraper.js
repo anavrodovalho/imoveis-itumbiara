@@ -3,8 +3,10 @@ import { writeFileSync, readFileSync, mkdirSync } from 'fs';
 import { CIDADE } from './fontes/comum.js';
 import * as wimoveis from './fontes/wimoveis.js';
 import * as viga from './fontes/viga.js';
+import * as wecorretora from './fontes/wecorretora.js';
+import * as beirario from './fontes/beirario.js';
 
-const FONTES = [wimoveis, viga]; // Wimoveis primeiro: tem mais campos, vence na dedup
+const FONTES = [wimoveis, viga, wecorretora, beirario]; // Wimoveis primeiro: tem mais campos, vence na dedup
 
 const normBairro = (s) => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]/g, '');
 const chave = (i) => `${i.tipo}|${normBairro(i.bairro)}|${i.preco}`;
