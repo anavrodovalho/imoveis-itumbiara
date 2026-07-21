@@ -1,12 +1,15 @@
 import { chromium } from 'playwright';
 import { writeFileSync, readFileSync, mkdirSync } from 'fs';
 import { CIDADE } from './fontes/comum.js';
-import * as wimoveis from './fontes/wimoveis.js';
 import * as viga from './fontes/viga.js';
 import * as wecorretora from './fontes/wecorretora.js';
 import * as beirario from './fontes/beirario.js';
+import * as inovare from './fontes/inovare.js';
+import * as vls from './fontes/vls.js';
 
-const FONTES = [wimoveis, viga, wecorretora, beirario]; // Wimoveis primeiro: tem mais campos, vence na dedup
+// Inovare/VLS (Kenlo) e Beira Rio têm mais campos, então vêm primeiro (vencem na dedup).
+// Wimóveis foi removida: bloqueio anti-robô só entrega a 1ª página (~30 de 399).
+const FONTES = [inovare, vls, beirario, wecorretora, viga];
 
 const normBairro = (s) => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]/g, '');
 const chave = (i) => `${i.tipo}|${normBairro(i.bairro)}|${i.preco}`;
