@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-21T13:53:05.497Z",
+  "atualizadoEm": "2026-07-21T15:05:27.610Z",
   "cidade": "Itumbiara",
   "fontes": [
     "Beira Rio",
@@ -7,13 +7,13 @@
     "Wimoveis",
     "Viga"
   ],
-  "total": 918,
-  "comPreco": 848,
+  "total": 919,
+  "comPreco": 849,
   "porFonte": {
     "Beira Rio": 419,
     "WE Corretora": 46,
     "Wimoveis": 371,
-    "Viga": 113
+    "Viga": 114
   },
   "imoveis": [
     {
@@ -92,7 +92,7 @@
     {
       "fonte": "Viga",
       "tipo": "Outro",
-      "preco": 8000,
+      "preco": 4000,
       "quartos": null,
       "banheiros": null,
       "vagas": null,
@@ -101,8 +101,8 @@
       "bairro": "Alto da Boa Vista",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "go 2531",
-      "link": "https://vigaimoveis.com.br/apartamento-com-4-dormitrios-219-m-venda-alto-da-boa-vista-itumbiara/go-2531",
+      "titulo": "ms alto da boa vista itumbiara",
+      "link": "https://vigaimoveis.com.br/casa-com-4-dormitrios-para-alugar-185-m-por-r-4000/ms-alto-da-boa-vista-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -876,24 +876,6 @@
       "link": "https://www.beirarioimoveis.com.br/imovel/lote-terreno-a-venda-residencial-beira-rio-itumbiara-go/2033",
       "fontes": [
         "Beira Rio"
-      ]
-    },
-    {
-      "fonte": "WE Corretora",
-      "tipo": "Casa",
-      "preco": 85000,
-      "quartos": 2,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Norma Gibalde",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "CASA À VENDA | BAIRRO NORMA GIBALDI",
-      "link": "https://www.wecorretora.com/1378/imoveis/venda-casa-2-quartos-norma-gibalde-itumbiara-go",
-      "fontes": [
-        "WE Corretora"
       ]
     },
     {
@@ -2122,8 +2104,26 @@
       "bairro": "Residencial Beira Rio II",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "terreno residencial beira rio ii itumbiara ifv 3327",
-      "link": "https://vigaimoveis.com.br/lote/terreno-residencial-beira-rio-ii-itumbiara-ifv-3327",
+      "titulo": "terreno residencial beira rio ii itumbiara b5k 3490",
+      "link": "https://vigaimoveis.com.br/lote/terreno-residencial-beira-rio-ii-itumbiara-b5k-3490",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Terreno",
+      "preco": 150000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Jardim Beira Rio",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "terreno jardim beira rio itumbiara 3291",
+      "link": "https://vigaimoveis.com.br/lote/terreno-jardim-beira-rio-itumbiara-3291",
       "fontes": [
         "Viga"
       ]
@@ -2214,24 +2214,6 @@
       "endereco": null,
       "titulo": "terreno venda 353 m por r 15000000 jardim morumbi itumbiara",
       "link": "https://vigaimoveis.com.br/terreno-venda-353-m-por-r-15000000-jardim-morumbi-itumbiara/go",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Terreno",
-      "preco": 150000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Jardim Beira Rio",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "terreno jardim beira rio itumbiara 3291",
-      "link": "https://vigaimoveis.com.br/lote/terreno-jardim-beira-rio-itumbiara-3291",
       "fontes": [
         "Viga"
       ]
@@ -4351,6 +4333,24 @@
       "vagas": null,
       "area": null,
       "suites": null,
+      "bairro": "Jardim Europa",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "casa com 2 quartos jardim europa itumbiara 3349",
+      "link": "https://vigaimoveis.com.br/casa-com-2-quartos-jardim-europa-itumbiara-3349",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Casa",
+      "preco": 250000,
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
       "bairro": "Parque Vale dos Buritys III",
       "cidade": "Itumbiara",
       "endereco": null,
@@ -4387,29 +4387,11 @@
       "vagas": null,
       "area": null,
       "suites": null,
-      "bairro": "Setor Afonso Pena",
+      "bairro": "Residencial Beira Rio I",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "go 2487",
-      "link": "https://vigaimoveis.com.br/2-casas-no-mesmo-lote-venda-setor-afonso-pena-itumbiara/go-2487",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Casa",
-      "preco": 250000,
-      "quartos": 2,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Jardim Europa",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa com 2 quartos jardim europa itumbiara 3349",
-      "link": "https://vigaimoveis.com.br/casa-com-2-quartos-jardim-europa-itumbiara-3349",
+      "titulo": "go sh8",
+      "link": "https://vigaimoveis.com.br/terreno-venda-360-m-por-r-250000-residencial-beira-rio-i-itumbiara/go-sh8",
       "fontes": [
         "Viga"
       ]
@@ -4423,11 +4405,11 @@
       "vagas": null,
       "area": null,
       "suites": null,
-      "bairro": "Residencial Beira Rio I",
+      "bairro": "Setor Afonso Pena",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "go sh8",
-      "link": "https://vigaimoveis.com.br/terreno-venda-360-m-por-r-250000-residencial-beira-rio-i-itumbiara/go-sh8",
+      "titulo": "go 2487",
+      "link": "https://vigaimoveis.com.br/2-casas-no-mesmo-lote-venda-setor-afonso-pena-itumbiara/go-2487",
       "fontes": [
         "Viga"
       ]
@@ -4650,6 +4632,24 @@
       "fonte": "Wimoveis",
       "fontes": [
         "Wimoveis"
+      ]
+    },
+    {
+      "fonte": "WE Corretora",
+      "tipo": "Casa",
+      "preco": 260000,
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Buriti 3",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "CASA À VENDA – BURITI 3",
+      "link": "https://www.wecorretora.com/1439/imoveis/venda-casa-2-quartos-buriti-3-itumbiara-go",
+      "fontes": [
+        "WE Corretora"
       ]
     },
     {
@@ -15343,6 +15343,24 @@
       "fonte": "Wimoveis",
       "fontes": [
         "Wimoveis"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 2650000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "go 2531",
+      "link": "https://vigaimoveis.com.br/apartamento-com-4-dormitrios-219-m-venda-alto-da-boa-vista-itumbiara/go-2531",
+      "fontes": [
+        "Viga"
       ]
     },
     {
