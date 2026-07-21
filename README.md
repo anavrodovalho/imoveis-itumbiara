@@ -4,7 +4,7 @@ Dashboard que junta os imóveis à venda de Itumbiara-GO num só lugar, com filt
 
 ## Site público
 
-**https://euhenriquerike.github.io/imoveis-itumbiara/** — qualquer pessoa acessa por esse link.
+**https://anavrodovalho.github.io/imoveis-itumbiara/** — qualquer pessoa acessa por esse link.
 
 ## Usar localmente
 

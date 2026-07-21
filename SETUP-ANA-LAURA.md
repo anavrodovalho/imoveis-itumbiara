@@ -20,7 +20,7 @@ avise se precisar de alguma decisão minha:
 2. Verifique se o git está conectado ao GitHub (gh auth status). Se não
    estiver, me ajude a fazer login (gh auth login).
 
-3. Clone o repositório euhenriquerike/imoveis-itumbiara numa pasta minha
+3. Clone o repositório anavrodovalho/imoveis-itumbiara numa pasta minha
    (ex: Documentos\imoveis-itumbiara). Se a pasta já existir, use ela e rode
    git pull.
 
@@ -39,7 +39,7 @@ avise se precisar de alguma decisão minha:
 
 7. Me mostre a tarefa criada e confirme que está tudo funcionando.
 
-O resultado esperado: o site https://euhenriquerike.github.io/imoveis-itumbiara/
+O resultado esperado: o site https://anavrodovalho.github.io/imoveis-itumbiara/
 passa a atualizar sozinho todo dia a partir deste computador.
 ```
 
@@ -49,4 +49,4 @@ passa a atualizar sozinho todo dia a partir deste computador.
 
 - O site atualiza sozinho todo dia (quando o computador estiver ligado; se estava desligado, roda assim que ligar).
 - Pra atualizar na hora, sem esperar: abrir a pasta do projeto e rodar `node atualizar.mjs` (ou pedir isso pro Claude Code).
-- Pra ver o site: https://euhenriquerike.github.io/imoveis-itumbiara/
+- Pra ver o site: https://anavrodovalho.github.io/imoveis-itumbiara/
