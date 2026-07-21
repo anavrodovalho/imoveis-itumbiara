@@ -28,10 +28,24 @@
   .barra .cnt{font-size:14px;color:var(--muted)}
   .barra .cnt b{color:var(--ink)}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
-  .imovel{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:8px;text-decoration:none;color:inherit;transition:.12s}
+  .imovel{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 14px 14px 18px;display:flex;flex-direction:column;gap:8px;text-decoration:none;color:inherit;transition:.12s;position:relative;overflow:hidden}
   .imovel:hover{border-color:var(--accent);box-shadow:0 4px 14px rgba(15,118,110,.10);transform:translateY(-1px)}
   .imovel .topo{display:flex;justify-content:space-between;align-items:center;gap:6px}
-  .imovel .tipo{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:var(--accent)}
+  /* etiqueta do tipo vira um selo com a cor da categoria */
+  .imovel .tipo{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.03em;border-radius:6px;padding:2px 7px;background:#f3f4f6;color:#374151}
+  /* faixa colorida à esquerda por categoria (independente da borda) */
+  .imovel::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:transparent}
+  .imovel.cat-morar::before{background:#2563eb}   .cat-morar .tipo{background:#e8f0fe;color:#1d4ed8}
+  .imovel.cat-invest::before{background:#d97706}  .cat-invest .tipo{background:#fdf0d5;color:#b45309}
+  .imovel.cat-comerc::before{background:#db2777}  .cat-comerc .tipo{background:#fce7f1;color:#be185d}
+  /* selos de destaque */
+  .imovel .selos{display:flex;flex-wrap:wrap;gap:5px}
+  .imovel .selo{font-size:10.5px;font-weight:700;border-radius:20px;padding:3px 9px}
+  .selo-multi{background:#fce7f1;color:#be185d}
+  /* legenda das cores */
+  .legenda{display:flex;flex-wrap:wrap;gap:14px;align-items:center;margin:-4px 0 14px;font-size:12px;color:#4b5563}
+  .legenda .lg{display:inline-flex;align-items:center;gap:6px}
+  .legenda .lg i{width:11px;height:11px;border-radius:3px;display:inline-block}
   .imovel .fonte{font-size:10px;font-weight:600;color:var(--muted);background:#f3f4f6;border-radius:5px;padding:2px 6px;white-space:nowrap}
   .imovel .preco{font-size:20px;font-weight:700}
   .imovel .preco.consulte{font-size:15px;color:var(--muted);font-weight:600}
@@ -81,6 +95,12 @@
         <option value="quartos-desc">Mais quartos</option>
       </select>
     </div>
+    <div class="legenda">
+      <span class="lg"><i style="background:#2563eb"></i>Morar</span>
+      <span class="lg"><i style="background:#d97706"></i>Terreno / Rural</span>
+      <span class="lg"><i style="background:#db2777"></i>Comercial</span>
+      <span class="lg"><i style="background:#f0b6d3"></i>Selo rosa = em várias imobiliárias</span>
+    </div>
     <div class="grid" id="grid"></div>
   </main>
 </div>
@@ -90,6 +110,15 @@ const fmt = (n)=> n==null ? null : n.toLocaleString('pt-BR',{style:'currency',cu
 let DADOS = [];
 
 const el = (id)=>document.getElementById(id);
+
+// famílias de tipo -> cor da categoria
+function familia(t){
+  t = t||'';
+  if(/comercial|galp|sala|loja|ponto|pr[ée]dio|barrac/i.test(t)) return 'comerc';
+  if(/terreno|lote|rural|fazenda|s[íi]tio|ch[áa]cara|rancho|[áa]gio|[áa]rea/i.test(t)) return 'invest';
+  if(/casa|apartam|apto|kitnet|studio|sobrado|condom/i.test(t)) return 'morar';
+  return null; // Outro / desconhecido: card neutro
+}
 const filtros = ['fValorMax','fValorMin','fQuartos','fBanh','fVagas','fArea','fTipo','fBairro','fFonte','fBusca','fComPreco','ordem'];
 
 function popular(campo, valores, label){
@@ -145,9 +174,11 @@ function render(res){
     if(i.vagas) specs.push(`${i.vagas} vaga${i.vagas>1?'s':''}`);
     if(i.area) specs.push(`${i.area} m²`);
     const fontes=(i.fontes||[i.fonte]).filter(Boolean);
-    return `<a class="imovel" href="${i.link}" target="_blank" rel="noopener">
+    const cat=familia(i.tipo);
+    const selo = fontes.length>1 ? `<div class="selos"><span class="selo selo-multi">Em ${fontes.length} imobiliárias</span></div>` : '';
+    return `<a class="imovel${cat?' cat-'+cat:''}" href="${i.link}" target="_blank" rel="noopener">
       <div class="topo"><span class="tipo">${i.tipo}</span><span class="fonte">${fontes.join(' + ')}</span></div>${preco}
-      <div class="bairro">${i.bairro||''}${i.endereco?' · '+i.endereco:''}</div>
+      <div class="bairro">${i.bairro||''}${i.endereco?' · '+i.endereco:''}</div>${selo}
       <div class="specs">${specs.map(s=>`<span>${s}</span>`).join('')}</div>
     </a>`;
   }).join('');
