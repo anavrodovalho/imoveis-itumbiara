@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-07-22T11:10:54.234Z",
+  "atualizadoEm": "2026-07-22T15:05:04.003Z",
   "cidade": "Itumbiara",
   "fontes": [
     "Inovare",
@@ -8,13 +8,13 @@
     "VLS",
     "Beira Rio"
   ],
-  "total": 1112,
-  "comPreco": 1060,
+  "total": 1111,
+  "comPreco": 1059,
   "porFonte": {
     "Inovare": 669,
-    "WE Corretora": 46,
+    "WE Corretora": 45,
     "Viga": 114,
-    "VLS": 300,
+    "VLS": 298,
     "Beira Rio": 58
   },
   "imoveis": [
@@ -93,7 +93,7 @@
     {
       "fonte": "Viga",
       "tipo": "Outro",
-      "preco": 4000,
+      "preco": 6000,
       "quartos": null,
       "banheiros": null,
       "vagas": null,
@@ -103,7 +103,7 @@
       "cidade": "Itumbiara",
       "endereco": null,
       "titulo": "ms alto da boa vista itumbiara",
-      "link": "https://vigaimoveis.com.br/casa-com-4-dormitrios-para-alugar-185-m-por-r-4000/ms-alto-da-boa-vista-itumbiara/go",
+      "link": "https://vigaimoveis.com.br/sobrado-com-4-dormitrios-430-m-venda-por-r-150000000-ou-aluguel-por-r-600000/ms-alto-da-boa-vista-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -117,11 +117,29 @@
       "vagas": null,
       "area": null,
       "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "ms setor central itumbiara",
+      "link": "https://vigaimoveis.com.br/casa-com-4-dormitrios-364-m-venda-por-r-250000000-ou-aluguel-por-r-600000/ms-setor-central-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 8000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
       "bairro": "Alto da Boa Vista",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "ms alto da boa vista itumbiara",
-      "link": "https://vigaimoveis.com.br/sobrado-com-4-dormitrios-430-m-venda-por-r-150000000-ou-aluguel-por-r-600000/ms-alto-da-boa-vista-itumbiara/go",
+      "titulo": "go 2531",
+      "link": "https://vigaimoveis.com.br/apartamento-com-4-dormitrios-219-m-venda-alto-da-boa-vista-itumbiara/go-2531",
       "fontes": [
         "Viga"
       ]
@@ -1118,24 +1136,6 @@
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-360-m/TE0145-VLSD",
       "fontes": [
         "VLS"
-      ]
-    },
-    {
-      "fonte": "WE Corretora",
-      "tipo": "Casa",
-      "preco": 110000,
-      "quartos": 2,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Norma Gibalde",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "IMÓVEL Á VENDA - NORMA GILBADE",
-      "link": "https://www.wecorretora.com/1391/imoveis/venda-casa-2-quartos-norma-gibalde-itumbiara-go",
-      "fontes": [
-        "WE Corretora"
       ]
     },
     {
@@ -4551,42 +4551,6 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Apartamento",
-      "preco": 250000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "gio de apartamento com 3 sutes venda 155 m setor central itumbiara",
-      "link": "https://vigaimoveis.com.br/gio-de-apartamento-com-3-sutes-venda-155-m-setor-central-itumbiara/go",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 250000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "go 3395",
-      "link": "https://vigaimoveis.com.br/gio-de-apartamento-com-3-sutes-venda-155-m-setor-central-itumbiara/go-3395",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
       "tipo": "Terreno",
       "preco": 250000,
       "quartos": null,
@@ -4653,6 +4617,42 @@
       "endereco": null,
       "titulo": "go 2534",
       "link": "https://vigaimoveis.com.br/2-terrenos-venda-720-m-setor-nova-aurora-itumbiara/go-2534",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Apartamento",
+      "preco": 250000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "gio de apartamento com 3 sutes venda 155 m setor central itumbiara",
+      "link": "https://vigaimoveis.com.br/gio-de-apartamento-com-3-sutes-venda-155-m-setor-central-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 250000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "go 3395",
+      "link": "https://vigaimoveis.com.br/gio-de-apartamento-com-3-sutes-venda-155-m-setor-central-itumbiara/go-3395",
       "fontes": [
         "Viga"
       ]
@@ -6942,8 +6942,7 @@
       "titulo": "Casa - Setor Planalto",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-95-m/CA1277-BOLK",
       "fontes": [
-        "Inovare",
-        "VLS"
+        "Inovare"
       ]
     },
     {
@@ -6995,7 +6994,7 @@
       "cidade": "Itumbiara",
       "endereco": null,
       "titulo": "Casa - Jardim Liberdade",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0373-VLSD",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0372-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -7691,6 +7690,24 @@
     },
     {
       "fonte": "Viga",
+      "tipo": "Casa",
+      "preco": 350000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Jardim Leonora",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "casa com 3 quartos jardim leonora itumbiara f2x 3365",
+      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-jardim-leonora-itumbiara-f2x-3365",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
       "tipo": "Terreno",
       "preco": 350000,
       "quartos": null,
@@ -7901,24 +7918,6 @@
       "endereco": null,
       "titulo": "go 2220",
       "link": "https://vigaimoveis.com.br/rancho-com-3-sutes-venda-zona-rural-itumbiara/go-2220",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Casa",
-      "preco": 350000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Jardim Leonora",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa com 3 quartos jardim leonora itumbiara f2x 3365",
-      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-jardim-leonora-itumbiara-f2x-3365",
       "fontes": [
         "Viga"
       ]
@@ -9163,8 +9162,7 @@
       "titulo": "Casa - Setor Nova Aurora",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-120-m/CA1404-BOLK",
       "fontes": [
-        "Inovare",
-        "VLS"
+        "Inovare"
       ]
     },
     {
@@ -9571,13 +9569,13 @@
       "quartos": 3,
       "banheiros": 2,
       "vagas": 2,
-      "area": 169,
-      "suites": 1,
-      "bairro": "Jardim Flamboyant",
+      "area": 220,
+      "suites": null,
+      "bairro": "Santa Maria",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Jardim Flamboyant",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-169-m/CA0602-VLSD",
+      "titulo": "Casa - Santa Maria",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-220-m/CA0317-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -9589,13 +9587,13 @@
       "quartos": 3,
       "banheiros": 2,
       "vagas": 2,
-      "area": 220,
-      "suites": null,
-      "bairro": "Santa Maria",
+      "area": 169,
+      "suites": 1,
+      "bairro": "Jardim Flamboyant",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Santa Maria",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-220-m/CA0317-VLSD",
+      "titulo": "Casa - Jardim Flamboyant",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-169-m/CA0602-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -10825,24 +10823,6 @@
       "vagas": null,
       "area": null,
       "suites": null,
-      "bairro": "Residencial Sonho Verde",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa com 3 quartos residencial sonho verde itumbiara 3369",
-      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-residencial-sonho-verde-itumbiara-3369",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Casa",
-      "preco": 500000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
       "bairro": "Parque Vale dos Buritys III",
       "cidade": "Itumbiara",
       "endereco": null,
@@ -10974,6 +10954,24 @@
       "endereco": null,
       "titulo": "go 124",
       "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-150-m-por-r-500000-jardim-morumbi-itumbiara/go-124",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Casa",
+      "preco": 500000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Residencial Sonho Verde",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "casa com 3 quartos residencial sonho verde itumbiara 3369",
+      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-residencial-sonho-verde-itumbiara-3369",
       "fontes": [
         "Viga"
       ]
@@ -13177,6 +13175,24 @@
       "vagas": null,
       "area": null,
       "suites": null,
+      "bairro": "Condomínio Horizontal Paraíso",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "go fkj",
+      "link": "https://vigaimoveis.com.br/terreno-venda-455-m-condomnio-horizontal-paraso-itumbiara/go-fkj",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 700000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
       "bairro": "Jardim América",
       "cidade": "Itumbiara",
       "endereco": null,
@@ -13200,6 +13216,24 @@
       "endereco": null,
       "titulo": "go 1574",
       "link": "https://vigaimoveis.com.br/gio-de-apartamento-com-3-sutes-venda-149-m-setor-nova-aurora-itumbiara/go-1574",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 700000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Jardim Morumbi",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "go 1478",
+      "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-162-m-jardim-morumbi-itumbiara/go-1478",
       "fontes": [
         "Viga"
       ]
@@ -13236,24 +13270,6 @@
       "endereco": null,
       "titulo": "casa com 3 dormitrios venda 200 m por r 70000000 setor social itumbiara",
       "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-200-m-por-r-70000000-setor-social-itumbiara/go",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 700000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Condomínio Horizontal Paraíso",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "go fkj",
-      "link": "https://vigaimoveis.com.br/terreno-venda-455-m-condomnio-horizontal-paraso-itumbiara/go-fkj",
       "fontes": [
         "Viga"
       ]
@@ -13814,7 +13830,8 @@
       "titulo": "Casa - Alto da Boa Vista",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-170-m/CA1520-BOLK",
       "fontes": [
-        "Inovare"
+        "Inovare",
+        "VLS"
       ]
     },
     {
@@ -13966,15 +13983,15 @@
       "tipo": "Casa",
       "preco": 800000,
       "quartos": 3,
-      "banheiros": 4,
-      "vagas": null,
-      "area": null,
+      "banheiros": 2,
+      "vagas": 2,
+      "area": 172,
       "suites": 1,
-      "bairro": "Setor Jardim Bandeirantes",
+      "bairro": "Jardim Morumbi",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Sobrado - Setor Jardim Bandeirantes",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/sobrado-itumbiara-3-quartos/SO0050-VLSD",
+      "titulo": "Casa - Jardim Morumbi",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-172-m/CA0660-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -13984,15 +14001,15 @@
       "tipo": "Casa",
       "preco": 800000,
       "quartos": 3,
-      "banheiros": 2,
-      "vagas": 4,
-      "area": 172,
+      "banheiros": 4,
+      "vagas": null,
+      "area": null,
       "suites": 1,
-      "bairro": "Jardim Morumbi",
+      "bairro": "Setor Jardim Bandeirantes",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Jardim Morumbi",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-172-m/CA0057-VLSD",
+      "titulo": "Sobrado - Setor Jardim Bandeirantes",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/sobrado-itumbiara-3-quartos/SO0050-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -14797,24 +14814,6 @@
       "fonte": "VLS",
       "tipo": "Casa",
       "preco": 950000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": 2,
-      "area": 143,
-      "suites": 3,
-      "bairro": "Vila Vitória",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Sobrado - Vila Vitória",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/sobrado-itumbiara-3-quartos-143-m/SO0053-VLSD",
-      "fontes": [
-        "VLS"
-      ]
-    },
-    {
-      "fonte": "VLS",
-      "tipo": "Casa",
-      "preco": 950000,
       "quartos": 2,
       "banheiros": null,
       "vagas": null,
@@ -14825,6 +14824,24 @@
       "endereco": null,
       "titulo": "Casa - Jardim América",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-2-quartos/CA0368-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Casa",
+      "preco": 950000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": 2,
+      "area": 143,
+      "suites": 3,
+      "bairro": "Vila Vitória",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Sobrado - Vila Vitória",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/sobrado-itumbiara-3-quartos-143-m/SO0053-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -15512,8 +15529,7 @@
       "titulo": "Casa - Residencial beira Rio I",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-210-m/CA0869-BOLK",
       "fontes": [
-        "Inovare",
-        "VLS"
+        "Inovare"
       ]
     },
     {
@@ -15590,24 +15606,6 @@
     },
     {
       "fonte": "VLS",
-      "tipo": "Outro",
-      "preco": 1100000,
-      "quartos": null,
-      "banheiros": 4,
-      "vagas": null,
-      "area": 400,
-      "suites": null,
-      "bairro": "Centro",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Prédio - Centro",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/predio-itumbiara-400-m/PR0008-VLSD",
-      "fontes": [
-        "VLS"
-      ]
-    },
-    {
-      "fonte": "VLS",
       "tipo": "Casa",
       "preco": 1100000,
       "quartos": 3,
@@ -15620,6 +15618,24 @@
       "endereco": null,
       "titulo": "Casa - Village Beira Rio",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0667-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Outro",
+      "preco": 1100000,
+      "quartos": null,
+      "banheiros": 4,
+      "vagas": null,
+      "area": 400,
+      "suites": null,
+      "bairro": "Centro",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Prédio - Centro",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/predio-itumbiara-400-m/PR0008-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -15915,6 +15931,24 @@
     },
     {
       "fonte": "VLS",
+      "tipo": "Outro",
+      "preco": 1200000,
+      "quartos": null,
+      "banheiros": 2,
+      "vagas": 1,
+      "area": 600,
+      "suites": null,
+      "bairro": "Centro",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Prédio - Centro",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/predio-itumbiara-600-m/PR0006-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
       "tipo": "Casa",
       "preco": 1200000,
       "quartos": 3,
@@ -15930,24 +15964,6 @@
       "fontes": [
         "VLS",
         "Beira Rio"
-      ]
-    },
-    {
-      "fonte": "VLS",
-      "tipo": "Outro",
-      "preco": 1200000,
-      "quartos": null,
-      "banheiros": 2,
-      "vagas": 1,
-      "area": 600,
-      "suites": null,
-      "bairro": "Centro",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Prédio - Centro",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/predio-itumbiara-600-m/PR0006-VLSD",
-      "fontes": [
-        "VLS"
       ]
     },
     {
@@ -17329,18 +17345,18 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Apartamento",
+      "tipo": "Outro",
       "preco": 1500000,
-      "quartos": 3,
+      "quartos": null,
       "banheiros": null,
       "vagas": null,
       "area": null,
       "suites": null,
-      "bairro": "Alto da Boa Vista",
+      "bairro": "Jardim América",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "apartamento com 3 quartos alto da boa vista itumbiara qb1",
-      "link": "https://vigaimoveis.com.br/apartamento-com-3-quartos-alto-da-boa-vista-itumbiara-qb1",
+      "titulo": "2 barraces venda 1000 m por r 1500000 jardim amrica itumbiara",
+      "link": "https://vigaimoveis.com.br/2-barraces-venda-1000-m-por-r-1500000-jardim-amrica-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -17473,18 +17489,18 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Outro",
+      "tipo": "Apartamento",
       "preco": 1500000,
-      "quartos": null,
+      "quartos": 3,
       "banheiros": null,
       "vagas": null,
       "area": null,
       "suites": null,
-      "bairro": "Jardim América",
+      "bairro": "Alto da Boa Vista",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "2 barraces venda 1000 m por r 1500000 jardim amrica itumbiara",
-      "link": "https://vigaimoveis.com.br/2-barraces-venda-1000-m-por-r-1500000-jardim-amrica-itumbiara/go",
+      "titulo": "apartamento com 3 quartos alto da boa vista itumbiara qb1",
+      "link": "https://vigaimoveis.com.br/apartamento-com-3-quartos-alto-da-boa-vista-itumbiara-qb1",
       "fontes": [
         "Viga"
       ]
@@ -18436,24 +18452,6 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 2500000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "ms setor central itumbiara",
-      "link": "https://vigaimoveis.com.br/casa-com-4-dormitrios-364-m-venda-por-r-250000000-ou-aluguel-por-r-600000/ms-setor-central-itumbiara/go",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
       "tipo": "Casa",
       "preco": 2500000,
       "quartos": 4,
@@ -18558,24 +18556,6 @@
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-quartos-247-m/CA1143-BOLK",
       "fontes": [
         "Inovare"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 2650000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "go 2531",
-      "link": "https://vigaimoveis.com.br/apartamento-com-4-dormitrios-219-m-venda-alto-da-boa-vista-itumbiara/go-2531",
-      "fontes": [
-        "Viga"
       ]
     },
     {
@@ -19415,33 +19395,18 @@
     },
     {
       "fonte": "VLS",
-      "tipo": "Terreno",
-      "preco": null,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 1440,
-      "suites": null,
-      "bairro": "Setor Santa Rita",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Terreno - Setor Santa Rita",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-1-440-m/TE0146-VLSD"
-    },
-    {
-      "fonte": "VLS",
       "tipo": "Casa",
       "preco": null,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 111,
-      "suites": 1,
-      "bairro": "Jardim Morumbi",
+      "quartos": 4,
+      "banheiros": 2,
+      "vagas": 6,
+      "area": null,
+      "suites": 4,
+      "bairro": "Vila de Furnas",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Jardim Morumbi",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-111-m/CA0460-VLSD"
+      "titulo": "Casa - Vila de Furnas",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-4-quartos/CA0481-VLSD"
     },
     {
       "fonte": "VLS",
@@ -19475,6 +19440,36 @@
     },
     {
       "fonte": "VLS",
+      "tipo": "Terreno",
+      "preco": null,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 1440,
+      "suites": null,
+      "bairro": "Setor Santa Rita",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Terreno - Setor Santa Rita",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-1-440-m/TE0146-VLSD"
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Casa",
+      "preco": null,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 111,
+      "suites": 1,
+      "bairro": "Jardim Morumbi",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Jardim Morumbi",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-111-m/CA0460-VLSD"
+    },
+    {
+      "fonte": "VLS",
       "tipo": "Apartamento",
       "preco": null,
       "quartos": 3,
@@ -19487,21 +19482,6 @@
       "endereco": null,
       "titulo": "Apartamento - Alto da Boa Vista",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-94-m/AP0051-VLSD"
-    },
-    {
-      "fonte": "VLS",
-      "tipo": "Casa",
-      "preco": null,
-      "quartos": 4,
-      "banheiros": 2,
-      "vagas": 6,
-      "area": null,
-      "suites": 4,
-      "bairro": "Vila de Furnas",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Vila de Furnas",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-4-quartos/CA0481-VLSD"
     },
     {
       "fonte": "VLS",
