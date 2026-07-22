@@ -1,7 +1,7 @@
 import { CIDADE, UA, num, tipoDoTexto } from './comum.js';
 
 export const NOME = 'Beira Rio';
-export const ESPERADO = 60;
+export const ESPERADO = 300; // real ~450; se vier bem menos, é glitch → mantém o dia anterior
 
 // Imobiliária local (beirarioimoveis.com.br). Site dinâmico (renderiza via JS).
 // A imobiliária anuncia em várias cidades; o segmento de cidade na URL precisa
@@ -53,25 +53,28 @@ export async function coletar(browser, log = console.log) {
   const vistos = new Map();
 
   for (let p = 1; p <= MAX_PAGINAS; p++) {
-    let raws = [];
-    for (let tentativa = 0; tentativa < 2; tentativa++) {
+    // O SPA às vezes devolve a página vazia ou repete uma já vista (glitch).
+    // Tenta algumas vezes até vir algo novo antes de concluir que acabou.
+    let raws = [], novos = 0;
+    for (let tentativa = 0; tentativa < 3; tentativa++) {
       try {
         await page.goto(BASE + p, { waitUntil: 'domcontentloaded', timeout: 60000 });
         await page.waitForSelector('.property', { timeout: 12000 });
       } catch { /* pode ser página vazia (fim) ou fluke do SPA */ }
-      await page.waitForTimeout(500);
+      await page.waitForTimeout(600 + tentativa * 500);
       raws = await page.evaluate(extrairCards);
-      if (raws.length) break; // conseguiu; senão tenta de novo
+      novos = raws.filter((r) => !vistos.has(r.link)).length;
+      if (novos > 0 || raws.length === 0) break; // veio novidade, ou página realmente vazia
+      // cards presentes mas todos repetidos: provável glitch — recarrega e tenta de novo
     }
-    let novos = 0;
-    for (const r of raws) if (!vistos.has(r.link)) { vistos.set(r.link, normalizar(r)); novos++; }
+    for (const r of raws) if (!vistos.has(r.link)) vistos.set(r.link, normalizar(r));
     log(`  [Beira Rio] pág ${p}: ${raws.length} cards (${novos} novos) — total ${vistos.size}`);
     if (raws.length === 0) {
       if (vistos.size > 0) break;   // já coletamos tudo; chegou ao fim
       if (p >= 3) break;            // início vazio persistente: desiste
       continue;                     // fluke de renderização; tenta a próxima página
     }
-    if (novos === 0) break;         // páginas repetindo; para
+    if (novos === 0) break;         // após as tentativas ainda sem novidade: fim de verdade
     await page.waitForTimeout(500 + Math.random() * 400);
   }
 
