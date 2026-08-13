@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-12T10:39:27.018Z",
+  "atualizadoEm": "2026-08-13T10:40:14.202Z",
   "cidade": "Itumbiara",
   "fontes": [
     "Inovare",
@@ -11,11 +11,11 @@
   "total": 1416,
   "comPreco": 1317,
   "porFonte": {
-    "Inovare": 662,
-    "Viga": 109,
-    "Beira Rio": 436,
+    "Inovare": 660,
+    "Viga": 108,
+    "Beira Rio": 437,
     "VLS": 292,
-    "WE Corretora": 43
+    "WE Corretora": 36
   },
   "imoveis": [
     {
@@ -1674,8 +1674,7 @@
       "titulo": "Terreno - Alto do Trindade",
       "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-250-m/TE0123-BOLK",
       "fontes": [
-        "Inovare",
-        "WE Corretora"
+        "Inovare"
       ]
     },
     {
@@ -4463,24 +4462,6 @@
       "link": "https://www.beirarioimoveis.com.br/imovel/casa-a-venda-3-quartos-2-vagas-afonso-pena-itumbiara-go/2557",
       "fontes": [
         "Beira Rio"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 200000,
-      "quartos": 2,
-      "banheiros": null,
-      "vagas": null,
-      "area": 90,
-      "suites": null,
-      "bairro": "Prefeito José Moisés",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Prefeito José Moisés",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-90-m/CA1385-BOLK",
-      "fontes": [
-        "Inovare"
       ]
     },
     {
@@ -7774,24 +7755,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Terreno",
-      "preco": 280000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 390,
-      "suites": null,
-      "bairro": "Setor Buritys",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Terreno - Setor Buritys",
-      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-390-m/TE0246-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Galpão",
       "preco": 280000,
       "quartos": null,
@@ -7938,6 +7901,24 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 285000,
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 92,
+      "suites": null,
+      "bairro": "Setor Santa Rita",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Santa Rita",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-92-m/CA1552-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 285000,
       "quartos": 3,
       "banheiros": 1,
       "vagas": 1,
@@ -7966,24 +7947,6 @@
       "endereco": null,
       "titulo": "Casa - Setor Nossa Senhora da Saúde",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-125-m/CA1160-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 285000,
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 92,
-      "suites": null,
-      "bairro": "Setor Santa Rita",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Santa Rita",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-92-m/CA1552-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -8046,16 +8009,16 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 290000,
-      "quartos": 3,
+      "quartos": 2,
       "banheiros": 1,
-      "vagas": 2,
-      "area": 94,
+      "vagas": null,
+      "area": 86,
       "suites": 1,
-      "bairro": "Setor Nossa Senhora da Saúde",
+      "bairro": "Setor Santa Rita",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Setor Nossa Senhora da Saúde",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-94-m/CA0861-BOLK",
+      "titulo": "Casa - Setor Santa Rita",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-86-m/CA1551-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -8067,13 +8030,31 @@
       "quartos": 2,
       "banheiros": 1,
       "vagas": null,
-      "area": 86,
+      "area": 1,
       "suites": 1,
-      "bairro": "Setor Santa Rita",
+      "bairro": "Jardim Liberdade",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Setor Santa Rita",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-86-m/CA1551-BOLK",
+      "titulo": "Casa - Jardim Liberdade",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-1-m/CA1430-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 290000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": 94,
+      "suites": 1,
+      "bairro": "Setor Nossa Senhora da Saúde",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Nossa Senhora da Saúde",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-94-m/CA0861-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -8442,24 +8423,6 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 300000,
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": null,
-      "area": null,
-      "suites": 1,
-      "bairro": "Jardim Nova Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Jardim Nova Itumbiara",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos/CA0979-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 300000,
       "quartos": 3,
       "banheiros": 1,
       "vagas": 3,
@@ -8597,6 +8560,42 @@
       "endereco": null,
       "titulo": "Casa - Setor Bela Vista",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos/CA0722-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 300000,
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 150,
+      "suites": 1,
+      "bairro": "Residencial Sonho Verde",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Residencial Sonho Verde",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-150-m/CA0752-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 300000,
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 90,
+      "suites": null,
+      "bairro": "Alto do Trindade",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Alto do Trindade",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-90-m/CA1489-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -9283,8 +9282,7 @@
       "titulo": "Casa | Jardim Flamboyant - Itumbiara",
       "link": "https://www.beirarioimoveis.com.br/imovel/casa-a-venda-2-quartos-1-suite-4-vagas-jardim-flamboyant-itumbiara-go/2301",
       "fontes": [
-        "Beira Rio",
-        "WE Corretora"
+        "Beira Rio"
       ]
     },
     {
@@ -10944,6 +10942,24 @@
       "tipo": "Casa",
       "preco": 370000,
       "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 110,
+      "suites": null,
+      "bairro": "Parque Vale dos Buritys III",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Parque Vale dos Buritys III",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-110-m/CA1519-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 370000,
+      "quartos": 3,
       "banheiros": 2,
       "vagas": null,
       "area": 100,
@@ -11016,24 +11032,6 @@
       "tipo": "Casa",
       "preco": 370000,
       "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 110,
-      "suites": null,
-      "bairro": "Parque Vale dos Buritys III",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Parque Vale dos Buritys III",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-110-m/CA1519-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 370000,
-      "quartos": 3,
       "banheiros": 2,
       "vagas": null,
       "area": 102,
@@ -11079,43 +11077,6 @@
       "endereco": null,
       "titulo": "Casa - Jardim Adelaide",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-200-m/CA0888-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 370000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 90,
-      "suites": 1,
-      "bairro": "Jardim Bandeirantes",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Jardim Bandeirantes",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-90-m/CA1173-BOLK",
-      "fontes": [
-        "Inovare",
-        "Beira Rio"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 370000,
-      "quartos": 3,
-      "banheiros": 2,
-      "vagas": null,
-      "area": 130,
-      "suites": 1,
-      "bairro": "Jardim Leonora Ll",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Jardim Leonora Ll",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-130-m/CA1267-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -11242,6 +11203,24 @@
       "endereco": null,
       "titulo": "Casa | Novo Horizonte - Itumbiara",
       "link": "https://www.beirarioimoveis.com.br/imovel/casa-a-venda-3-quartos-1-suite-2-vagas-novo-horizonte-itumbiara-go/2819",
+      "fontes": [
+        "Beira Rio"
+      ]
+    },
+    {
+      "fonte": "Beira Rio",
+      "tipo": "Casa",
+      "preco": 370000,
+      "quartos": 4,
+      "banheiros": null,
+      "vagas": 6,
+      "area": 0,
+      "suites": 2,
+      "bairro": "Jardim Bandeirantes",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa | Jardim Bandeirantes - Itumbiara",
+      "link": "https://www.beirarioimoveis.com.br/imovel/casa-a-venda-4-quartos-2-suites-6-vagas-jardim-bandeirantes-itumbiara-go/2276",
       "fontes": [
         "Beira Rio"
       ]
@@ -11955,13 +11934,13 @@
       "quartos": null,
       "banheiros": null,
       "vagas": null,
-      "area": 360,
+      "area": 305,
       "suites": null,
-      "bairro": "Alto da Boa Vista",
+      "bairro": "Setor Central",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Terreno - Alto da Boa Vista",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-360-m/TE0105-VLSD",
+      "titulo": "Terreno - Setor Central",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-305-m/TE0064-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -11991,13 +11970,13 @@
       "quartos": null,
       "banheiros": null,
       "vagas": null,
-      "area": 305,
+      "area": 360,
       "suites": null,
-      "bairro": "Setor Central",
+      "bairro": "Alto da Boa Vista",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Terreno - Setor Central",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-305-m/TE0064-VLSD",
+      "titulo": "Terreno - Alto da Boa Vista",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-360-m/TE0104-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -12506,8 +12485,7 @@
       "titulo": "Casa | Nova Aurora - Itumbiara",
       "link": "https://www.beirarioimoveis.com.br/imovel/casa-a-venda-3-quartos-1-suite-2-vagas-nova-aurora-itumbiara-go/2791",
       "fontes": [
-        "Beira Rio",
-        "WE Corretora"
+        "Beira Rio"
       ]
     },
     {
@@ -12525,8 +12503,7 @@
       "titulo": "Casa | Cidade Jardim - Itumbiara",
       "link": "https://www.beirarioimoveis.com.br/imovel/casa-a-venda-3-quartos-1-suite-2-vagas-cidade-jardim-itumbiara-go/1728",
       "fontes": [
-        "Beira Rio",
-        "WE Corretora"
+        "Beira Rio"
       ]
     },
     {
@@ -14287,24 +14264,6 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Apartamento",
-      "preco": 500000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Jardim América",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "apartamento com 3 quartos jardim amrica itumbiara b8b 3382",
-      "link": "https://vigaimoveis.com.br/apartamento-com-3-quartos-jardim-amrica-itumbiara-b8b-3382",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
       "tipo": "Casa",
       "preco": 500000,
       "quartos": 3,
@@ -14461,6 +14420,24 @@
       "endereco": null,
       "titulo": "go 124",
       "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-150-m-por-r-500000-jardim-morumbi-itumbiara/go-124",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Casa",
+      "preco": 500000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Jardim Morumbi",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "casa com 3 dormitrios venda 150 m por r 500000 jardim morumbi itumbiara",
+      "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-150-m-por-r-500000-jardim-morumbi-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -15644,18 +15621,18 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Galpão",
+      "tipo": "Casa",
       "preco": 600000,
-      "quartos": null,
-      "banheiros": null,
+      "quartos": 3,
+      "banheiros": 3,
       "vagas": null,
-      "area": 250,
-      "suites": null,
-      "bairro": "Setor Planalto",
+      "area": 1,
+      "suites": 1,
+      "bairro": "Ferreira da Costa",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Galpão - Setor Planalto",
-      "link": "https://www.souinovareimoveis.com.br/imovel/galpao-itumbiara-250-m/GA0103-BOLK",
+      "titulo": "Casa - Ferreira da Costa",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-1-m/CA1602-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -15683,24 +15660,6 @@
       "tipo": "Casa",
       "preco": 600000,
       "quartos": 3,
-      "banheiros": 3,
-      "vagas": null,
-      "area": 1,
-      "suites": 1,
-      "bairro": "Ferreira da Costa",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Ferreira da Costa",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-1-m/CA1602-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 600000,
-      "quartos": 3,
       "banheiros": null,
       "vagas": null,
       "area": 234,
@@ -15710,6 +15669,24 @@
       "endereco": null,
       "titulo": "Casa - Alto da Boa Vista",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-234-m/CA1354-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Galpão",
+      "preco": 600000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 250,
+      "suites": null,
+      "bairro": "Setor Planalto",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Galpão - Setor Planalto",
+      "link": "https://www.souinovareimoveis.com.br/imovel/galpao-itumbiara-250-m/GA0103-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -15801,8 +15778,7 @@
       "titulo": "Casa - Alto do Trindade",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-197-m/CA0545-VLSD",
       "fontes": [
-        "VLS",
-        "WE Corretora"
+        "VLS"
       ]
     },
     {
@@ -16873,8 +16849,7 @@
       "titulo": "Sobrado - Centro",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/sobrado-itumbiara-4-quartos-250-m/SO0047-VLSD",
       "fontes": [
-        "VLS",
-        "WE Corretora"
+        "VLS"
       ]
     },
     {
@@ -16984,8 +16959,7 @@
       "titulo": "Casa | Setor Social - Itumbiara",
       "link": "https://www.beirarioimoveis.com.br/imovel/casa-em-setor-social-itumbiara/718",
       "fontes": [
-        "Beira Rio",
-        "Viga"
+        "Beira Rio"
       ]
     },
     {
@@ -17040,6 +17014,24 @@
       "link": "https://www.wecorretora.com/1418/imoveis/venda-casa-3-quartos-jardim-liberdade-itumbiara-go",
       "fontes": [
         "WE Corretora"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Casa",
+      "preco": 700000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "casa com 3 quartos setor central itumbiara fdz 3585",
+      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-setor-central-itumbiara-fdz-3585",
+      "fontes": [
+        "Viga"
       ]
     },
     {
@@ -17218,24 +17210,6 @@
       "endereco": null,
       "titulo": "go 1478",
       "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-162-m-jardim-morumbi-itumbiara/go-1478",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Casa",
-      "preco": 700000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa com 3 dormitrios venda por r 70000000 setor central itumbiara",
-      "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-por-r-70000000-setor-central-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -19082,8 +19056,7 @@
       "titulo": "Lote / Terreno | Centro - Itumbiara",
       "link": "https://www.beirarioimoveis.com.br/imovel/lote-terreno-em-centro-itumbiara-go/393",
       "fontes": [
-        "Beira Rio",
-        "WE Corretora"
+        "Beira Rio"
       ]
     },
     {
@@ -21857,6 +21830,24 @@
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-190-m/CA0620-VLSD",
       "fontes": [
         "VLS"
+      ]
+    },
+    {
+      "fonte": "Beira Rio",
+      "tipo": "Casa",
+      "preco": 1500000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": 4,
+      "area": 200,
+      "suites": 3,
+      "bairro": "Jardim Morumbi",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa | Jardim Morumbi - Itumbiara",
+      "link": "https://www.beirarioimoveis.com.br/imovel/casa-a-venda-3-quartos-3-suites-4-vagas-jardim-morumbi-itumbiara-go/2841",
+      "fontes": [
+        "Beira Rio"
       ]
     },
     {
@@ -25303,7 +25294,10 @@
       "cidade": "Itumbiara",
       "endereco": null,
       "titulo": "IMÓVEL À VENDA – NOSSA SENHORA DA SAUDE",
-      "link": "https://www.wecorretora.com/1449/imoveis/venda-casa-3-quartos-nossa-senhora-da-saude-itumbiara-go"
+      "link": "https://www.wecorretora.com/1449/imoveis/venda-casa-3-quartos-nossa-senhora-da-saude-itumbiara-go",
+      "fontes": [
+        "WE Corretora"
+      ]
     },
     {
       "fonte": "WE Corretora",
@@ -25318,7 +25312,10 @@
       "cidade": "Itumbiara",
       "endereco": null,
       "titulo": "CASA À VENDA | JARDIM EUROPA",
-      "link": "https://www.wecorretora.com/1402/imoveis/venda-casa-2-quartos-jardim-europa-itumbiara-go"
+      "link": "https://www.wecorretora.com/1402/imoveis/venda-casa-2-quartos-jardim-europa-itumbiara-go",
+      "fontes": [
+        "WE Corretora"
+      ]
     },
     {
       "fonte": "Viga",
