@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-23T09:57:12.530Z",
+  "atualizadoEm": "2026-08-24T10:15:00.587Z",
   "cidade": "Itumbiara",
   "fontes": [
     "Inovare",
@@ -8,11 +8,11 @@
     "VLS",
     "WE Corretora"
   ],
-  "total": 1417,
-  "comPreco": 1319,
+  "total": 1416,
+  "comPreco": 1318,
   "porFonte": {
-    "Inovare": 654,
-    "Viga": 109,
+    "Inovare": 650,
+    "Viga": 111,
     "Beira Rio": 437,
     "VLS": 294,
     "WE Corretora": 43
@@ -70,6 +70,78 @@
       "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-360-m/TE0177-BOLK",
       "fontes": [
         "Inovare"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Casa",
+      "preco": 3000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Vilage Beira Rio",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "casa com 3 quartos vilage beira rio itumbiara 3313",
+      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-vilage-beira-rio-itumbiara-3313",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 4000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "go 2387",
+      "link": "https://vigaimoveis.com.br/casa-com-4-dormitrios-para-alugar-185-m-alto-da-boa-vista-itumbiara/go-2387",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 6000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "ms alto da boa vista itumbiara",
+      "link": "https://vigaimoveis.com.br/sobrado-com-4-dormitrios-430-m-venda-por-r-150000000-ou-aluguel-por-r-600000/ms-alto-da-boa-vista-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 8000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "go 2531",
+      "link": "https://vigaimoveis.com.br/apartamento-com-4-dormitrios-219-m-venda-alto-da-boa-vista-itumbiara/go-2531",
+      "fontes": [
+        "Viga"
       ]
     },
     {
@@ -2210,25 +2282,6 @@
       "quartos": null,
       "banheiros": null,
       "vagas": null,
-      "area": 1000,
-      "suites": null,
-      "bairro": "Jardim Morumbi",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Terreno - Jardim Morumbi",
-      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-1-000-m/TE0230-BOLK",
-      "fontes": [
-        "Inovare",
-        "Beira Rio"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Terreno",
-      "preco": 130000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
       "area": 250,
       "suites": null,
       "bairro": "Residencial Sonho Verde",
@@ -2257,6 +2310,25 @@
       "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-200-m/TE0225-BOLK",
       "fontes": [
         "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Terreno",
+      "preco": 130000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 1000,
+      "suites": null,
+      "bairro": "Jardim Morumbi",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Terreno - Jardim Morumbi",
+      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-1-000-m/TE0230-BOLK",
+      "fontes": [
+        "Inovare",
+        "Beira Rio"
       ]
     },
     {
@@ -2715,6 +2787,24 @@
     },
     {
       "fonte": "Inovare",
+      "tipo": "Terreno",
+      "preco": 150000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 320,
+      "suites": null,
+      "bairro": "Alto do Trindade",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Terreno - Alto do Trindade",
+      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-320-m/TE0194-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 150000,
       "quartos": 1,
@@ -2889,8 +2979,8 @@
       "bairro": "Conjunto Habitacional Santa Maria",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "terreno conjunto habitacional santa maria itumbiara t67 3588",
-      "link": "https://vigaimoveis.com.br/lote/terreno-conjunto-habitacional-santa-maria-itumbiara-t67-3588",
+      "titulo": "terreno conjunto habitacional santa maria itumbiara qfw 3587",
+      "link": "https://vigaimoveis.com.br/lote/terreno-conjunto-habitacional-santa-maria-itumbiara-qfw-3587",
       "fontes": [
         "Viga"
       ]
@@ -2909,24 +2999,6 @@
       "endereco": null,
       "titulo": "terreno jardim beira rio itumbiara 3291",
       "link": "https://vigaimoveis.com.br/lote/terreno-jardim-beira-rio-itumbiara-3291",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Terreno",
-      "preco": 150000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Jardim Leonora",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "terreno venda 360 m por r 15000000 jardim leonora itumbiara",
-      "link": "https://vigaimoveis.com.br/terreno-venda-360-m-por-r-15000000-jardim-leonora-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -2961,8 +3033,26 @@
       "bairro": "Residencial Beira Rio I",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "terreno venda 360 m residencialbeira rio i itumbiara",
-      "link": "https://vigaimoveis.com.br/terreno-venda-360-m-residencialbeira-rio-i-itumbiara/go",
+      "titulo": "terreno venda 360 m por r 150000 residencial beira rio i itumbiara",
+      "link": "https://vigaimoveis.com.br/terreno-venda-360-m-por-r-150000-residencial-beira-rio-i-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Terreno",
+      "preco": 150000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Jardim Leonora",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "terreno venda 360 m por r 15000000 jardim leonora itumbiara",
+      "link": "https://vigaimoveis.com.br/terreno-venda-360-m-por-r-15000000-jardim-leonora-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -3674,6 +3764,115 @@
     {
       "fonte": "Inovare",
       "tipo": "Apartamento",
+      "preco": 179000,
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 42,
+      "suites": null,
+      "bairro": "Setor Buritys",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Apartamento - Setor Buritys",
+      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-2-quartos-42-m/AP0221-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Terreno",
+      "preco": 180000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 360,
+      "suites": null,
+      "bairro": "Setor Social",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Terreno - Setor Social",
+      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-360-m/TE0267-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 180000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 1,
+      "suites": null,
+      "bairro": "Setor Afonso Pena",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Afonso Pena",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-1-m/CA1548-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Terreno",
+      "preco": 180000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 360,
+      "suites": null,
+      "bairro": "Afonso Pena",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Terreno - Afonso Pena",
+      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-360-m/TE0278-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Comercial",
+      "preco": 180000,
+      "quartos": null,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 32,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Sala - Setor Central",
+      "link": "https://www.souinovareimoveis.com.br/imovel/sala-itumbiara-32-m/SA0008-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 180000,
+      "quartos": 1,
+      "banheiros": null,
+      "vagas": null,
+      "area": 115,
+      "suites": null,
+      "bairro": "Setor Social",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Social",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-1-quarto-115-m/CA1380-BOLK",
+      "fontes": [
+        "Inovare",
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Apartamento",
       "preco": 180000,
       "quartos": 2,
       "banheiros": 1,
@@ -3727,24 +3926,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Terreno",
-      "preco": 180000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 360,
-      "suites": null,
-      "bairro": "Afonso Pena",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Terreno - Afonso Pena",
-      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-360-m/TE0278-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 180000,
       "quartos": 2,
@@ -3759,79 +3940,6 @@
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos/CA0028-BOLK",
       "fontes": [
         "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Terreno",
-      "preco": 180000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 360,
-      "suites": null,
-      "bairro": "Setor Social",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Terreno - Setor Social",
-      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-360-m/TE0267-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 180000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 1,
-      "suites": null,
-      "bairro": "Setor Afonso Pena",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Afonso Pena",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-1-m/CA1548-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Comercial",
-      "preco": 180000,
-      "quartos": null,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 32,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Sala - Setor Central",
-      "link": "https://www.souinovareimoveis.com.br/imovel/sala-itumbiara-32-m/SA0008-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 180000,
-      "quartos": 1,
-      "banheiros": null,
-      "vagas": null,
-      "area": 115,
-      "suites": null,
-      "bairro": "Setor Social",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Social",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-1-quarto-115-m/CA1380-BOLK",
-      "fontes": [
-        "Inovare",
-        "VLS"
       ]
     },
     {
@@ -3877,13 +3985,13 @@
       "quartos": null,
       "banheiros": null,
       "vagas": null,
-      "area": 360,
+      "area": 397,
       "suites": null,
-      "bairro": "Cidade Jardim",
+      "bairro": "Setor Nova Aurora",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Terreno - Cidade Jardim",
-      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-360-m/TE0113-BOLK",
+      "titulo": "Terreno - Setor Nova Aurora",
+      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-397-m/TE0081-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -3895,13 +4003,13 @@
       "quartos": null,
       "banheiros": null,
       "vagas": null,
-      "area": 397,
+      "area": 360,
       "suites": null,
-      "bairro": "Setor Nova Aurora",
+      "bairro": "Cidade Jardim",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Terreno - Setor Nova Aurora",
-      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-397-m/TE0081-BOLK",
+      "titulo": "Terreno - Cidade Jardim",
+      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-360-m/TE0113-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -4541,42 +4649,6 @@
       "fonte": "VLS",
       "tipo": "Casa",
       "preco": 200000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Rodoviário",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Rodoviário",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0497-VLSD",
-      "fontes": [
-        "VLS"
-      ]
-    },
-    {
-      "fonte": "VLS",
-      "tipo": "Apartamento",
-      "preco": 200000,
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 50,
-      "suites": 1,
-      "bairro": "Setor Santa Rita",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Apartamento - Setor Santa Rita",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/apartamento-itumbiara-2-quartos-50-m/AP0078-VLSD",
-      "fontes": [
-        "VLS"
-      ]
-    },
-    {
-      "fonte": "VLS",
-      "tipo": "Casa",
-      "preco": 200000,
       "quartos": 2,
       "banheiros": 1,
       "vagas": 1,
@@ -4605,6 +4677,42 @@
       "endereco": null,
       "titulo": "Terreno - Centro",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-203-m/TE0150-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Casa",
+      "preco": 200000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Rodoviário",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Rodoviário",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0497-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Apartamento",
+      "preco": 200000,
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 50,
+      "suites": 1,
+      "bairro": "Setor Santa Rita",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Apartamento - Setor Santa Rita",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/apartamento-itumbiara-2-quartos-50-m/AP0078-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -5242,18 +5350,18 @@
     },
     {
       "fonte": "VLS",
-      "tipo": "Casa",
+      "tipo": "Apartamento",
       "preco": 225000,
       "quartos": 2,
       "banheiros": 1,
       "vagas": 1,
-      "area": null,
-      "suites": 1,
-      "bairro": "Setor Nossa Senhora da Saúde",
+      "area": 55,
+      "suites": null,
+      "bairro": "Alto do Trindade",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Setor Nossa Senhora da Saúde",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-2-quartos/CA0434-VLSD",
+      "titulo": "Apartamento - Alto do Trindade",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/apartamento-itumbiara-2-quartos-55-m/AP0104-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -5408,24 +5516,6 @@
       "fonte": "Inovare",
       "tipo": "Rural",
       "preco": 230000,
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 100,
-      "suites": null,
-      "bairro": "Zona Rural",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Rancho - Zona Rural",
-      "link": "https://www.souinovareimoveis.com.br/imovel/rancho-itumbiara-2-quartos-100-m/RA0041-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Rural",
-      "preco": 230000,
       "quartos": 3,
       "banheiros": 1,
       "vagas": null,
@@ -5442,18 +5532,18 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Casa",
+      "tipo": "Rural",
       "preco": 230000,
       "quartos": 2,
       "banheiros": 1,
       "vagas": null,
-      "area": 80,
+      "area": 100,
       "suites": null,
-      "bairro": "Buritis III",
+      "bairro": "Zona Rural",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Buritis III",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-80-m/CA1608-BOLK",
+      "titulo": "Rancho - Zona Rural",
+      "link": "https://www.souinovareimoveis.com.br/imovel/rancho-itumbiara-2-quartos-100-m/RA0041-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -5607,24 +5697,6 @@
       "tipo": "Casa",
       "preco": 235000,
       "quartos": 2,
-      "banheiros": null,
-      "vagas": null,
-      "area": 1,
-      "suites": null,
-      "bairro": "Setor Nossa Senhora da Saúde",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Nossa Senhora da Saúde",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-1-m/CA1393-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 235000,
-      "quartos": 2,
       "banheiros": 1,
       "vagas": 1,
       "area": 89,
@@ -5634,6 +5706,24 @@
       "endereco": null,
       "titulo": "Casa - Setor Dona Marolina",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-89-m/CA1023-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 235000,
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": null,
+      "area": 1,
+      "suites": null,
+      "bairro": "Setor Nossa Senhora da Saúde",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Nossa Senhora da Saúde",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-1-m/CA1393-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -5726,24 +5816,6 @@
       "endereco": null,
       "titulo": "Casa - Dom Velloso",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-157-m/CA1367-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 240000,
-      "quartos": 2,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": 1,
-      "bairro": "Setor Santa Rita",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Santa Rita",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos/CA1509-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -5912,6 +5984,24 @@
     },
     {
       "fonte": "Inovare",
+      "tipo": "Terreno",
+      "preco": 250000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 432,
+      "suites": null,
+      "bairro": "Jardim América",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Terreno - Jardim América",
+      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-432-m/TE0204-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 250000,
       "quartos": 3,
@@ -5948,38 +6038,21 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Terreno",
+      "tipo": "Casa",
       "preco": 250000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 432,
-      "suites": null,
-      "bairro": "Jardim América",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Terreno - Jardim América",
-      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-432-m/TE0204-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Galpão",
-      "preco": 250000,
-      "quartos": null,
+      "quartos": 2,
       "banheiros": 1,
       "vagas": null,
-      "area": 112,
+      "area": 80,
       "suites": null,
-      "bairro": "Setor Dona Marolina",
+      "bairro": "Buritis III",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Galpão - Setor Dona Marolina",
-      "link": "https://www.souinovareimoveis.com.br/imovel/galpao-itumbiara-112-m/GA0087-BOLK",
+      "titulo": "Casa - Buritis III",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-80-m/CA1609-BOLK",
       "fontes": [
-        "Inovare"
+        "Inovare",
+        "Beira Rio"
       ]
     },
     {
@@ -6015,6 +6088,24 @@
       "endereco": null,
       "titulo": "Terreno - Setor Santos Dumont",
       "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-222-m/TE0001-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Galpão",
+      "preco": 250000,
+      "quartos": null,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 112,
+      "suites": null,
+      "bairro": "Setor Dona Marolina",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Galpão - Setor Dona Marolina",
+      "link": "https://www.souinovareimoveis.com.br/imovel/galpao-itumbiara-112-m/GA0087-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -6254,24 +6345,6 @@
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-250-m/CA0592-VLSD",
       "fontes": [
         "VLS"
-      ]
-    },
-    {
-      "fonte": "Beira Rio",
-      "tipo": "Casa",
-      "preco": 250000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": 2,
-      "area": 0,
-      "suites": 1,
-      "bairro": "Buritis III",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa | Buritis III - Itumbiara",
-      "link": "https://www.beirarioimoveis.com.br/imovel/casa-a-venda-3-quartos-1-suite-2-vagas-buritis-iii-itumbiara-go/2825",
-      "fontes": [
-        "Beira Rio"
       ]
     },
     {
@@ -6621,15 +6694,15 @@
       "tipo": "Casa",
       "preco": 260000,
       "quartos": 2,
-      "banheiros": null,
-      "vagas": null,
-      "area": 70,
-      "suites": 1,
-      "bairro": "Setor Dona Marolina",
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 88,
+      "suites": null,
+      "bairro": "Karfan",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Setor Dona Marolina",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-70-m/CA1453-BOLK",
+      "titulo": "Casa - Karfan",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-88-m/CA0946-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -6640,14 +6713,14 @@
       "preco": 260000,
       "quartos": 2,
       "banheiros": 1,
-      "vagas": 1,
-      "area": 88,
+      "vagas": null,
+      "area": 68,
       "suites": null,
-      "bairro": "Karfan",
+      "bairro": "Portal Dos Ipes",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Karfan",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-88-m/CA0946-BOLK",
+      "titulo": "Casa - Portal Dos Ipes",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-68-m/CA1301-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -6675,15 +6748,15 @@
       "tipo": "Casa",
       "preco": 260000,
       "quartos": 2,
-      "banheiros": 1,
+      "banheiros": null,
       "vagas": null,
-      "area": 68,
-      "suites": null,
-      "bairro": "Portal Dos Ipes",
+      "area": 70,
+      "suites": 1,
+      "bairro": "Setor Dona Marolina",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Portal Dos Ipes",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-68-m/CA1301-BOLK",
+      "titulo": "Casa - Setor Dona Marolina",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-70-m/CA1453-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -6924,24 +6997,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Comercial",
-      "preco": 265000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 150,
-      "suites": null,
-      "bairro": "Setor Afonso Pena",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Salão - Setor Afonso Pena",
-      "link": "https://www.souinovareimoveis.com.br/imovel/salao-itumbiara-150-m/SL0003-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Apartamento",
       "preco": 265000,
       "quartos": 2,
@@ -6954,6 +7009,24 @@
       "endereco": null,
       "titulo": "Apartamento - Setor Brasília",
       "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-2-quartos-90-m/AP0113-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Comercial",
+      "preco": 265000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 150,
+      "suites": null,
+      "bairro": "Setor Afonso Pena",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Salão - Setor Afonso Pena",
+      "link": "https://www.souinovareimoveis.com.br/imovel/salao-itumbiara-150-m/SL0003-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -7086,18 +7159,18 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Terreno",
+      "tipo": "Casa",
       "preco": 270000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 350,
-      "suites": null,
-      "bairro": "Setor Bela Vista",
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 87,
+      "suites": 1,
+      "bairro": "Jardim Beira Rio",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Terreno - Setor Bela Vista",
-      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-350-m/TE0083-BOLK",
+      "titulo": "Casa - Jardim Beira Rio",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-87-m/CA1058-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -7140,6 +7213,24 @@
     },
     {
       "fonte": "Inovare",
+      "tipo": "Terreno",
+      "preco": 270000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 350,
+      "suites": null,
+      "bairro": "Setor Bela Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Terreno - Setor Bela Vista",
+      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-350-m/TE0083-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 270000,
       "quartos": 2,
@@ -7170,24 +7261,6 @@
       "endereco": null,
       "titulo": "Rancho - Setor Brasília",
       "link": "https://www.souinovareimoveis.com.br/imovel/rancho-itumbiara-2-quartos-160-m/RA0059-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 270000,
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 87,
-      "suites": 1,
-      "bairro": "Jardim Beira Rio",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Jardim Beira Rio",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-87-m/CA1058-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -7302,24 +7375,6 @@
     },
     {
       "fonte": "VLS",
-      "tipo": "Casa",
-      "preco": 270000,
-      "quartos": 2,
-      "banheiros": null,
-      "vagas": 1,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Santa Rita",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Santa Rita",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-2-quartos/CA0789-VLSD",
-      "fontes": [
-        "VLS"
-      ]
-    },
-    {
-      "fonte": "VLS",
       "tipo": "Rural",
       "preco": 270000,
       "quartos": 2,
@@ -7332,6 +7387,24 @@
       "endereco": null,
       "titulo": "Rancho - Zona Rural",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/rancho-itumbiara-2-quartos-160-m/RA0003-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Casa",
+      "preco": 270000,
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": 1,
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Santa Rita",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Santa Rita",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-2-quartos/CA0789-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -7720,15 +7793,15 @@
       "tipo": "Casa",
       "preco": 280000,
       "quartos": 2,
-      "banheiros": 2,
+      "banheiros": 1,
       "vagas": null,
-      "area": 90,
-      "suites": 1,
-      "bairro": "Paranaíba",
+      "area": 1,
+      "suites": null,
+      "bairro": "Buritis III",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Paranaíba",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-90-m/CA1304-BOLK",
+      "titulo": "Casa - Buritis III",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-1-m/CA1562-BOLK",
       "fontes": [
         "Inovare",
         "Beira Rio"
@@ -7739,15 +7812,15 @@
       "tipo": "Casa",
       "preco": 280000,
       "quartos": 2,
-      "banheiros": 1,
+      "banheiros": 2,
       "vagas": null,
-      "area": 1,
-      "suites": null,
-      "bairro": "Buritis III",
+      "area": 90,
+      "suites": 1,
+      "bairro": "Paranaíba",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Buritis III",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-1-m/CA1562-BOLK",
+      "titulo": "Casa - Paranaíba",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-90-m/CA1304-BOLK",
       "fontes": [
         "Inovare",
         "Beira Rio"
@@ -7805,6 +7878,24 @@
       "link": "https://www.souinovareimoveis.com.br/imovel/galpao-itumbiara-130-m/GA0126-BOLK",
       "fontes": [
         "Inovare"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Casa",
+      "preco": 280000,
+      "quartos": 2,
+      "banheiros": 2,
+      "vagas": 3,
+      "area": 137,
+      "suites": null,
+      "bairro": "Dom Velloso",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Dom Velloso",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-2-quartos-137-m/CA0833-VLSD",
+      "fontes": [
+        "VLS"
       ]
     },
     {
@@ -7937,6 +8028,24 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 285000,
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 92,
+      "suites": null,
+      "bairro": "Setor Santa Rita",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Santa Rita",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-92-m/CA1552-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 285000,
       "quartos": 3,
       "banheiros": 1,
       "vagas": 1,
@@ -7965,24 +8074,6 @@
       "endereco": null,
       "titulo": "Casa - Setor Nossa Senhora da Saúde",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-125-m/CA1160-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 285000,
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 92,
-      "suites": null,
-      "bairro": "Setor Santa Rita",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Santa Rita",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-92-m/CA1552-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -8045,24 +8136,6 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 290000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 94,
-      "suites": 1,
-      "bairro": "Setor Nossa Senhora da Saúde",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Nossa Senhora da Saúde",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-94-m/CA0861-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 290000,
       "quartos": 2,
       "banheiros": 1,
       "vagas": null,
@@ -8099,37 +8172,18 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 290000,
-      "quartos": 2,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Buritys",
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": 94,
+      "suites": 1,
+      "bairro": "Setor Nossa Senhora da Saúde",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Setor Buritys",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos/CA1469-BOLK",
+      "titulo": "Casa - Setor Nossa Senhora da Saúde",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-94-m/CA0861-BOLK",
       "fontes": [
         "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 290000,
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 109,
-      "suites": null,
-      "bairro": "Jardim Leonora",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Jardim Leonora",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-109-m/CA1623-BOLK",
-      "fontes": [
-        "Inovare",
-        "Beira Rio"
       ]
     },
     {
@@ -8166,6 +8220,24 @@
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/barracao-itumbiara-60-m/BA0001-VLSD",
       "fontes": [
         "VLS"
+      ]
+    },
+    {
+      "fonte": "Beira Rio",
+      "tipo": "Casa",
+      "preco": 290000,
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": 2,
+      "area": 0,
+      "suites": 1,
+      "bairro": "Jardim Leonora",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa | Jardim Leonora - Itumbiara",
+      "link": "https://www.beirarioimoveis.com.br/imovel/casa-a-venda-2-quartos-1-suite-2-vagas-jardim-leonora-itumbiara-go/2835",
+      "fontes": [
+        "Beira Rio"
       ]
     },
     {
@@ -8352,42 +8424,6 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 300000,
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 118,
-      "suites": 1,
-      "bairro": "Setor Paranaíba",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Paranaíba",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-118-m/CA0921-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Terreno",
-      "preco": 300000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 400,
-      "suites": null,
-      "bairro": "Paranaíba",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Terreno - Paranaíba",
-      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-400-m/TE0244-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 300000,
       "quartos": 3,
       "banheiros": 1,
       "vagas": null,
@@ -8442,6 +8478,60 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 300000,
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": 118,
+      "suites": 1,
+      "bairro": "Setor Paranaíba",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Paranaíba",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-118-m/CA0921-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Terreno",
+      "preco": 300000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 400,
+      "suites": null,
+      "bairro": "Paranaíba",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Terreno - Paranaíba",
+      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-400-m/TE0244-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 300000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 3,
+      "area": null,
+      "suites": 1,
+      "bairro": "Setor Novo Horizonte",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Novo Horizonte",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0391-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 300000,
       "quartos": 3,
       "banheiros": 1,
       "vagas": 1,
@@ -8470,24 +8560,6 @@
       "endereco": null,
       "titulo": "Casa - Jardim Nova Itumbiara",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos/CA0979-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 300000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 3,
-      "area": null,
-      "suites": 1,
-      "bairro": "Setor Novo Horizonte",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Novo Horizonte",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0391-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -8633,6 +8705,24 @@
       "endereco": null,
       "titulo": "Casa - Setor Bela Vista",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos/CA0722-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Apartamento",
+      "preco": 300000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 120,
+      "suites": 1,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Apartamento - Setor Central",
+      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-120-m/AP0114-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -8838,17 +8928,17 @@
     {
       "fonte": "Inovare",
       "tipo": "Casa",
-      "preco": 310000,
-      "quartos": 3,
-      "banheiros": 2,
-      "vagas": 2,
-      "area": 242,
+      "preco": 305000,
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": null,
+      "area": 80,
       "suites": 1,
-      "bairro": "Setor Planalto",
+      "bairro": "Setor Paranaíba",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Setor Planalto",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-242-m/CA0717-BOLK",
+      "titulo": "Casa - Setor Paranaíba",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-80-m/CA1357-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -8867,6 +8957,24 @@
       "endereco": null,
       "titulo": "Casa - Setor Afonso Pena",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-90-m/CA1612-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 310000,
+      "quartos": 3,
+      "banheiros": 2,
+      "vagas": 2,
+      "area": 242,
+      "suites": 1,
+      "bairro": "Setor Planalto",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Planalto",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-242-m/CA0717-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -9090,24 +9198,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Terreno",
-      "preco": 320000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 539,
-      "suites": null,
-      "bairro": "Residencial beira Rio I",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Terreno - Residencial beira Rio I",
-      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-539-m/TE0240-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 320000,
       "quartos": 3,
@@ -9123,6 +9213,24 @@
       "fontes": [
         "Inovare",
         "VLS"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Terreno",
+      "preco": 320000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 539,
+      "suites": null,
+      "bairro": "Residencial beira Rio I",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Terreno - Residencial beira Rio I",
+      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-539-m/TE0240-BOLK",
+      "fontes": [
+        "Inovare"
       ]
     },
     {
@@ -9435,24 +9543,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Terreno",
-      "preco": 330000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 575,
-      "suites": null,
-      "bairro": "Paranaíba",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Terreno - Paranaíba",
-      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-575-m/TE0227-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 330000,
       "quartos": 2,
@@ -9491,18 +9581,18 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Casa",
+      "tipo": "Terreno",
       "preco": 330000,
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 120,
-      "suites": 1,
-      "bairro": "Residencial beira Rio I",
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 575,
+      "suites": null,
+      "bairro": "Paranaíba",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Residencial beira Rio I",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-120-m/CA0630-BOLK",
+      "titulo": "Terreno - Paranaíba",
+      "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-575-m/TE0227-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -9527,24 +9617,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 330000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 94,
-      "suites": 1,
-      "bairro": "Jardim Leonora",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Jardim Leonora",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-94-m/CA1518-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Terreno",
       "preco": 330000,
       "quartos": null,
@@ -9557,6 +9629,42 @@
       "endereco": null,
       "titulo": "Terreno - Setor Luz",
       "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-360-m/TE0221-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 330000,
+      "quartos": 2,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": 120,
+      "suites": 1,
+      "bairro": "Residencial beira Rio I",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Residencial beira Rio I",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-120-m/CA0630-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 330000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 94,
+      "suites": 1,
+      "bairro": "Jardim Leonora",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Jardim Leonora",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-94-m/CA1518-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -9857,24 +9965,6 @@
       "tipo": "Casa",
       "preco": 340000,
       "quartos": 3,
-      "banheiros": 2,
-      "vagas": null,
-      "area": 95,
-      "suites": 1,
-      "bairro": "Setor Nossa Senhora da Saúde",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Nossa Senhora da Saúde",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-95-m/CA1591-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 340000,
-      "quartos": 3,
       "banheiros": 1,
       "vagas": 1,
       "area": null,
@@ -9884,6 +9974,24 @@
       "endereco": null,
       "titulo": "Casa - Dom Velloso",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0858-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 340000,
+      "quartos": 3,
+      "banheiros": 2,
+      "vagas": null,
+      "area": 95,
+      "suites": 1,
+      "bairro": "Setor Nossa Senhora da Saúde",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Nossa Senhora da Saúde",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-95-m/CA1591-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -10022,32 +10130,51 @@
       "preco": 350000,
       "quartos": 3,
       "banheiros": 1,
-      "vagas": 3,
-      "area": 210,
+      "vagas": 2,
+      "area": null,
       "suites": 1,
-      "bairro": "Setor Paranaíba",
+      "bairro": "Setor Afonso Pena",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Setor Paranaíba",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-210-m/CA0842-BOLK",
+      "titulo": "Casa - Setor Afonso Pena",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0986-BOLK",
       "fontes": [
         "Inovare"
       ]
     },
     {
       "fonte": "Inovare",
-      "tipo": "Rural",
+      "tipo": "Casa",
       "preco": 350000,
       "quartos": 3,
       "banheiros": 1,
-      "vagas": null,
-      "area": null,
+      "vagas": 1,
+      "area": 104,
       "suites": 1,
-      "bairro": "Setor Nossa Senhora da Saúde",
+      "bairro": "Nova Veneza",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Rancho - Setor Nossa Senhora da Saúde",
-      "link": "https://www.souinovareimoveis.com.br/imovel/rancho-itumbiara-3-quartos/RA0004-BOLK",
+      "titulo": "Casa - Nova Veneza",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-104-m/CA1042-BOLK",
+      "fontes": [
+        "Inovare",
+        "Beira Rio"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Apartamento",
+      "preco": 350000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 1,
+      "area": 92,
+      "suites": 1,
+      "bairro": "Nova Veneza",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Apartamento - Nova Veneza",
+      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-92-m/AP0246-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -10224,24 +10351,6 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 350000,
-      "quartos": 2,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 80,
-      "suites": 1,
-      "bairro": "Setor Afonso Pena",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Afonso Pena",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-80-m/CA1082-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 350000,
       "quartos": 3,
       "banheiros": 1,
       "vagas": 3,
@@ -10363,24 +10472,6 @@
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/rancho-itumbiara-3-quartos/RA0013-VLSD",
       "fontes": [
         "VLS"
-      ]
-    },
-    {
-      "fonte": "Beira Rio",
-      "tipo": "Casa",
-      "preco": 350000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": 2,
-      "area": 0,
-      "suites": 1,
-      "bairro": "Nova Veneza",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa | Nova Veneza - Itumbiara",
-      "link": "https://www.beirarioimoveis.com.br/imovel/casa-a-venda-3-quartos-1-suite-2-vagas-nova-veneza-itumbiara-go/2639",
-      "fontes": [
-        "Beira Rio"
       ]
     },
     {
@@ -10621,24 +10712,6 @@
       "fonte": "Viga",
       "tipo": "Casa",
       "preco": 350000,
-      "quartos": 2,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa com 2 quartos itumbiara 3521",
-      "link": "https://vigaimoveis.com.br/casa-com-2-quartos-itumbiara-3521",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Casa",
-      "preco": 350000,
       "quartos": 3,
       "banheiros": null,
       "vagas": null,
@@ -10711,24 +10784,6 @@
       "fonte": "Viga",
       "tipo": "Casa",
       "preco": 350000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Social",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa com 3 quartos social itumbiara 145",
-      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-social-itumbiara-145",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Casa",
-      "preco": 350000,
       "quartos": 2,
       "banheiros": null,
       "vagas": null,
@@ -10775,6 +10830,42 @@
       "endereco": null,
       "titulo": "casa com 3 dormitrios venda 145 m por r 350000 setor so joo itumbiara",
       "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-145-m-por-r-350000-setor-so-joo-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Casa",
+      "preco": 350000,
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "casa com 2 quartos itumbiara 3521",
+      "link": "https://vigaimoveis.com.br/casa-com-2-quartos-itumbiara-3521",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Casa",
+      "preco": 350000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Social",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "casa com 3 quartos social itumbiara 145",
+      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-social-itumbiara-145",
       "fontes": [
         "Viga"
       ]
@@ -11108,79 +11199,6 @@
       "tipo": "Apartamento",
       "preco": 370000,
       "quartos": 2,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 57,
-      "suites": null,
-      "bairro": "Setor Nova Aurora",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Apartamento - Setor Nova Aurora",
-      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-2-quartos-57-m/AP0096-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 370000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": 2,
-      "area": 200,
-      "suites": null,
-      "bairro": "Jardim Adelaide",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Jardim Adelaide",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-200-m/CA0888-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 370000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 90,
-      "suites": 1,
-      "bairro": "Jardim Bandeirantes",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Jardim Bandeirantes",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-90-m/CA1173-BOLK",
-      "fontes": [
-        "Inovare",
-        "Beira Rio"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 370000,
-      "quartos": 3,
-      "banheiros": 2,
-      "vagas": null,
-      "area": 130,
-      "suites": 1,
-      "bairro": "Jardim Leonora Ll",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Jardim Leonora Ll",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-130-m/CA1267-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Apartamento",
-      "preco": 370000,
-      "quartos": 2,
       "banheiros": 2,
       "vagas": null,
       "area": 69,
@@ -11208,6 +11226,24 @@
       "endereco": null,
       "titulo": "Rancho - Setor Nossa Senhora da Saúde",
       "link": "https://www.souinovareimoveis.com.br/imovel/rancho-itumbiara-3-quartos/RA0050-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 370000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": 2,
+      "area": 200,
+      "suites": null,
+      "bairro": "Jardim Adelaide",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Jardim Adelaide",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-200-m/CA0888-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -11316,6 +11352,24 @@
       "endereco": null,
       "titulo": "Casa | Novo Horizonte - Itumbiara",
       "link": "https://www.beirarioimoveis.com.br/imovel/casa-a-venda-3-quartos-1-suite-2-vagas-novo-horizonte-itumbiara-go/2819",
+      "fontes": [
+        "Beira Rio"
+      ]
+    },
+    {
+      "fonte": "Beira Rio",
+      "tipo": "Casa",
+      "preco": 370000,
+      "quartos": 4,
+      "banheiros": null,
+      "vagas": 6,
+      "area": 0,
+      "suites": 2,
+      "bairro": "Jardim Bandeirantes",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa | Jardim Bandeirantes - Itumbiara",
+      "link": "https://www.beirarioimoveis.com.br/imovel/casa-a-venda-4-quartos-2-suites-6-vagas-jardim-bandeirantes-itumbiara-go/2276",
       "fontes": [
         "Beira Rio"
       ]
@@ -11772,6 +11826,24 @@
     },
     {
       "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 400000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 3,
+      "area": 195,
+      "suites": 1,
+      "bairro": "Cidade Jardim",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Cidade Jardim",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-195-m/CA0418-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
       "tipo": "Apartamento",
       "preco": 400000,
       "quartos": 3,
@@ -11820,24 +11892,6 @@
       "endereco": null,
       "titulo": "Casa - Setor Santos Dumont",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos/CA1572-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Comercial",
-      "preco": 400000,
-      "quartos": null,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 280,
-      "suites": null,
-      "bairro": "Setor Novo Horizonte",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Sala - Setor Novo Horizonte",
-      "link": "https://www.souinovareimoveis.com.br/imovel/sala-itumbiara-280-m/SA0096-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -11928,24 +11982,6 @@
       "endereco": null,
       "titulo": "Galpão - Setor Buritys",
       "link": "https://www.souinovareimoveis.com.br/imovel/galpao-itumbiara-600-m/GA0118-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 400000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 300,
-      "suites": 1,
-      "bairro": "Cidade Jardim",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Cidade Jardim",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-300-m/CA0902-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -12084,13 +12120,13 @@
       "quartos": null,
       "banheiros": null,
       "vagas": null,
-      "area": 360,
+      "area": 305,
       "suites": null,
-      "bairro": "Alto da Boa Vista",
+      "bairro": "Setor Central",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Terreno - Alto da Boa Vista",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-360-m/TE0105-VLSD",
+      "titulo": "Terreno - Setor Central",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-305-m/TE0064-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -12099,16 +12135,34 @@
       "fonte": "VLS",
       "tipo": "Rural",
       "preco": 400000,
-      "quartos": 4,
-      "banheiros": null,
-      "vagas": null,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 6,
       "area": null,
       "suites": null,
       "bairro": "Zona Rural",
       "cidade": "Itumbiara",
       "endereco": null,
       "titulo": "Rancho - Zona Rural",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/rancho-itumbiara-4-quartos/RA0017-VLSD",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/rancho-itumbiara-3-quartos/RA0016-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Terreno",
+      "preco": 400000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 360,
+      "suites": null,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Terreno - Alto da Boa Vista",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-360-m/TE0104-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -12334,6 +12388,80 @@
       "tipo": "Casa",
       "preco": 420000,
       "quartos": 3,
+      "banheiros": 2,
+      "vagas": 2,
+      "area": 156,
+      "suites": 1,
+      "bairro": "Jardim Bandeirantes",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Jardim Bandeirantes",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-156-m/CA0343-BOLK",
+      "fontes": [
+        "Inovare",
+        "Beira Rio"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 420000,
+      "quartos": 4,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": 150,
+      "suites": 1,
+      "bairro": "Setor Santos Dumont",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Santos Dumont",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-quartos-150-m/CA0920-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 420000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 200,
+      "suites": 1,
+      "bairro": "Social",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Social",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-200-m/CA1481-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 420000,
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": null,
+      "area": 120,
+      "suites": null,
+      "bairro": "Setor Nova Aurora",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Nova Aurora",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-120-m/CA1404-BOLK",
+      "fontes": [
+        "Inovare",
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 420000,
+      "quartos": 3,
       "banheiros": null,
       "vagas": null,
       "area": 324,
@@ -12346,24 +12474,6 @@
       "fontes": [
         "Inovare",
         "Beira Rio"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Rural",
-      "preco": 420000,
-      "quartos": 1,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 5000,
-      "suites": null,
-      "bairro": "Zona Rural",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Chácara - Zona Rural",
-      "link": "https://www.souinovareimoveis.com.br/imovel/chacara-itumbiara-1-quarto-5-000-m/CH0010-BOLK",
-      "fontes": [
-        "Inovare"
       ]
     },
     {
@@ -12404,76 +12514,20 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Casa",
+      "tipo": "Rural",
       "preco": 420000,
-      "quartos": 4,
+      "quartos": 1,
       "banheiros": 1,
-      "vagas": 2,
-      "area": 150,
-      "suites": 1,
-      "bairro": "Setor Santos Dumont",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Santos Dumont",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-quartos-150-m/CA0920-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 420000,
-      "quartos": 3,
-      "banheiros": 2,
-      "vagas": 2,
-      "area": 156,
-      "suites": 1,
-      "bairro": "Jardim Bandeirantes",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Jardim Bandeirantes",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-156-m/CA0343-BOLK",
-      "fontes": [
-        "Inovare",
-        "Beira Rio"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 420000,
-      "quartos": 3,
-      "banheiros": null,
       "vagas": null,
-      "area": 200,
-      "suites": 1,
-      "bairro": "Social",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Social",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-200-m/CA1481-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 420000,
-      "quartos": 2,
-      "banheiros": null,
-      "vagas": null,
-      "area": 120,
+      "area": 5000,
       "suites": null,
-      "bairro": "Setor Nova Aurora",
+      "bairro": "Zona Rural",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Setor Nova Aurora",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-120-m/CA1404-BOLK",
+      "titulo": "Chácara - Zona Rural",
+      "link": "https://www.souinovareimoveis.com.br/imovel/chacara-itumbiara-1-quarto-5-000-m/CH0010-BOLK",
       "fontes": [
-        "Inovare",
-        "VLS"
+        "Inovare"
       ]
     },
     {
@@ -12606,6 +12660,24 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 430000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 140,
+      "suites": 1,
+      "bairro": "Setor Nossa Senhora da Saúde",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Nossa Senhora da Saúde",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-140-m/CA1446-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 430000,
       "quartos": 2,
       "banheiros": null,
       "vagas": null,
@@ -12627,13 +12699,13 @@
       "quartos": 3,
       "banheiros": null,
       "vagas": null,
-      "area": 140,
-      "suites": 1,
-      "bairro": "Setor Nossa Senhora da Saúde",
+      "area": 90,
+      "suites": null,
+      "bairro": "Setor Santa Inês",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Setor Nossa Senhora da Saúde",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-140-m/CA1446-BOLK",
+      "titulo": "Casa - Setor Santa Inês",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-90-m/CA1387-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -12642,16 +12714,16 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 430000,
-      "quartos": 3,
+      "quartos": 2,
       "banheiros": null,
       "vagas": null,
       "area": 90,
-      "suites": null,
-      "bairro": "Setor Santa Inês",
+      "suites": 1,
+      "bairro": "Residencial beira Rio I",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Setor Santa Inês",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-90-m/CA1387-BOLK",
+      "titulo": "Casa - Residencial beira Rio I",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-90-m/CA1536-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -12717,13 +12789,13 @@
       "quartos": 3,
       "banheiros": 2,
       "vagas": 2,
-      "area": 220,
-      "suites": null,
-      "bairro": "Santa Maria",
+      "area": 169,
+      "suites": 1,
+      "bairro": "Jardim Flamboyant",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Santa Maria",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-220-m/CA0317-VLSD",
+      "titulo": "Casa - Jardim Flamboyant",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-169-m/CA0602-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -12735,13 +12807,13 @@
       "quartos": 3,
       "banheiros": 2,
       "vagas": 2,
-      "area": 169,
-      "suites": 1,
-      "bairro": "Jardim Flamboyant",
+      "area": 220,
+      "suites": null,
+      "bairro": "Santa Maria",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Jardim Flamboyant",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-169-m/CA0602-VLSD",
+      "titulo": "Casa - Santa Maria",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-220-m/CA0317-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -13002,6 +13074,24 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 450000,
+      "quartos": 3,
+      "banheiros": 2,
+      "vagas": 1,
+      "area": null,
+      "suites": 1,
+      "bairro": "Residencial beira Rio I",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Residencial beira Rio I",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0955-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 450000,
       "quartos": 4,
       "banheiros": 3,
       "vagas": 2,
@@ -13041,14 +13131,14 @@
       "preco": 450000,
       "quartos": 3,
       "banheiros": 2,
-      "vagas": 1,
-      "area": null,
-      "suites": 1,
-      "bairro": "Residencial beira Rio I",
+      "vagas": null,
+      "area": 200,
+      "suites": null,
+      "bairro": "Santa Maria",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Residencial beira Rio I",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0955-BOLK",
+      "titulo": "Casa - Santa Maria",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-200-m/CA1128-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -13057,16 +13147,16 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 450000,
-      "quartos": 2,
-      "banheiros": 1,
+      "quartos": 3,
+      "banheiros": null,
       "vagas": null,
-      "area": 180,
-      "suites": 1,
-      "bairro": "Setor Santos Dumont",
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Novo Horizonte",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Setor Santos Dumont",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-180-m/CA1571-BOLK",
+      "titulo": "Casa - Setor Novo Horizonte",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA1512-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -13086,23 +13176,24 @@
       "titulo": "Casa - Setor Paranaíba",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-105-m/CA1157-BOLK",
       "fontes": [
-        "Inovare"
+        "Inovare",
+        "VLS"
       ]
     },
     {
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 450000,
-      "quartos": 3,
-      "banheiros": null,
+      "quartos": 2,
+      "banheiros": 1,
       "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Novo Horizonte",
+      "area": 180,
+      "suites": 1,
+      "bairro": "Setor Santos Dumont",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Setor Novo Horizonte",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA1512-BOLK",
+      "titulo": "Casa - Setor Santos Dumont",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-180-m/CA1571-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -13235,42 +13326,6 @@
       ]
     },
     {
-      "fonte": "Inovare",
-      "tipo": "Galpão",
-      "preco": 450000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 440,
-      "suites": null,
-      "bairro": "Setor Nossa Senhora da Saúde",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Galpão - Setor Nossa Senhora da Saúde",
-      "link": "https://www.souinovareimoveis.com.br/imovel/galpao-itumbiara-440-m/GA0082-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 450000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 105,
-      "suites": 1,
-      "bairro": "Housing Paranaíba, casas com 2 a 3 quartos, 105 m²",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Housing Paranaíba, casas com 2 a 3 quartos, 105 m²",
-      "link": "https://www.souinovareimoveis.com.br/empreendimento/housing-paranaiba-casas-itumbiara-2-a-3-quartos-105-m/22312222-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
       "fonte": "VLS",
       "tipo": "Apartamento",
       "preco": 450000,
@@ -13305,24 +13360,6 @@
       "fontes": [
         "VLS",
         "WE Corretora"
-      ]
-    },
-    {
-      "fonte": "VLS",
-      "tipo": "Casa",
-      "preco": 450000,
-      "quartos": 3,
-      "banheiros": 2,
-      "vagas": 2,
-      "area": 140,
-      "suites": null,
-      "bairro": "Ferreira da Costa",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Ferreira da Costa",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-140-m/CA0839-VLSD",
-      "fontes": [
-        "VLS"
       ]
     },
     {
@@ -13507,24 +13544,6 @@
       ]
     },
     {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 460000,
-      "quartos": 4,
-      "banheiros": 1,
-      "vagas": 1,
-      "area": 136,
-      "suites": 2,
-      "bairro": "Setor Santos Dumont",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Santos Dumont",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-quartos-136-m/CA1190-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
       "fonte": "Beira Rio",
       "tipo": "Casa",
       "preco": 460000,
@@ -13620,24 +13639,6 @@
       "tipo": "Casa",
       "preco": 480000,
       "quartos": 3,
-      "banheiros": 2,
-      "vagas": 4,
-      "area": 200,
-      "suites": null,
-      "bairro": "Ferreira da Costa",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Ferreira da Costa",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-200-m/CA0705-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 480000,
-      "quartos": 3,
       "banheiros": 1,
       "vagas": null,
       "area": 100,
@@ -13650,6 +13651,24 @@
       "fontes": [
         "Inovare",
         "VLS"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 480000,
+      "quartos": 3,
+      "banheiros": 2,
+      "vagas": 4,
+      "area": 200,
+      "suites": null,
+      "bairro": "Ferreira da Costa",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Ferreira da Costa",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-200-m/CA0705-BOLK",
+      "fontes": [
+        "Inovare"
       ]
     },
     {
@@ -13928,6 +13947,24 @@
       "preco": 500000,
       "quartos": 3,
       "banheiros": 1,
+      "vagas": null,
+      "area": 126,
+      "suites": 1,
+      "bairro": "Alto do Trindade",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Alto do Trindade",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-126-m/CA1570-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 500000,
+      "quartos": 3,
+      "banheiros": 1,
       "vagas": 4,
       "area": 108,
       "suites": 1,
@@ -13981,24 +14018,6 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 500000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 126,
-      "suites": 1,
-      "bairro": "Alto do Trindade",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Alto do Trindade",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-126-m/CA1570-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 500000,
       "quartos": 4,
       "banheiros": 3,
       "vagas": 2,
@@ -14010,8 +14029,7 @@
       "titulo": "Casa - Setor Afonso Pena",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-quartos-167-m/CA1246-BOLK",
       "fontes": [
-        "Inovare",
-        "VLS"
+        "Inovare"
       ]
     },
     {
@@ -14034,18 +14052,18 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Galpão",
+      "tipo": "Casa",
       "preco": 500000,
-      "quartos": null,
-      "banheiros": 2,
-      "vagas": null,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 2,
       "area": 170,
-      "suites": null,
-      "bairro": "Buritis",
+      "suites": 1,
+      "bairro": "Karfan II",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Galpão - Buritis",
-      "link": "https://www.souinovareimoveis.com.br/imovel/galpao-itumbiara-170-m/GA0058-BOLK",
+      "titulo": "Casa - Karfan II",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-170-m/CA1017-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -14326,24 +14344,6 @@
       "fonte": "Viga",
       "tipo": "Casa",
       "preco": 500000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa setor central itumbiara",
-      "link": "https://vigaimoveis.com.br/casa-setor-central-itumbiara",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Casa",
-      "preco": 500000,
       "quartos": 3,
       "banheiros": null,
       "vagas": null,
@@ -14480,6 +14480,24 @@
       "endereco": null,
       "titulo": "casa com 3 dormitrios venda 150 m por r 500000 jardim morumbi itumbiara",
       "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-150-m-por-r-500000-jardim-morumbi-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Casa",
+      "preco": 500000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "casa setor central itumbiara",
+      "link": "https://vigaimoveis.com.br/casa-setor-central-itumbiara",
       "fontes": [
         "Viga"
       ]
@@ -14833,6 +14851,61 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 550000,
+      "quartos": 3,
+      "banheiros": 2,
+      "vagas": 2,
+      "area": 190,
+      "suites": null,
+      "bairro": "Setor Social",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Social",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-190-m/CA0558-BOLK",
+      "fontes": [
+        "Inovare",
+        "Beira Rio"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 550000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 230,
+      "suites": 1,
+      "bairro": "Residencial Jardim Primavera",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Residencial Jardim Primavera",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-230-m/CA1176-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 550000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 170,
+      "suites": 2,
+      "bairro": "Setor Bela Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Bela Vista",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-170-m/CA1191-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 550000,
       "quartos": 2,
       "banheiros": 1,
       "vagas": null,
@@ -15139,24 +15212,6 @@
       ]
     },
     {
-      "fonte": "Beira Rio",
-      "tipo": "Casa",
-      "preco": 550000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": 6,
-      "area": 360,
-      "suites": null,
-      "bairro": "Setor Social",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa | Setor Social - Itumbiara",
-      "link": "https://www.beirarioimoveis.com.br/imovel/casa-em-setor-social-itumbiara/332",
-      "fontes": [
-        "Beira Rio"
-      ]
-    },
-    {
       "fonte": "WE Corretora",
       "tipo": "Casa",
       "preco": 550000,
@@ -15229,24 +15284,6 @@
       ]
     },
     {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 570000,
-      "quartos": 2,
-      "banheiros": 3,
-      "vagas": 2,
-      "area": 200,
-      "suites": null,
-      "bairro": "Residencial beira Rio II",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Residencial beira Rio II",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-200-m/CA0826-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
       "fonte": "VLS",
       "tipo": "Terreno",
       "preco": 570000,
@@ -15269,7 +15306,7 @@
       "tipo": "Casa",
       "preco": 580000,
       "quartos": 4,
-      "banheiros": 3,
+      "banheiros": null,
       "vagas": null,
       "area": 280,
       "suites": 1,
@@ -15277,7 +15314,7 @@
       "cidade": "Itumbiara",
       "endereco": null,
       "titulo": "Casa - Jardim Leonora",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-quartos-280-m/CA1417-BOLK",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-quartos-280-m/CA1318-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -15302,24 +15339,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Apartamento",
-      "preco": 580000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 80,
-      "suites": 1,
-      "bairro": "Setor Nova Aurora",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Apartamento - Setor Nova Aurora",
-      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-80-m/AP0289-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 580000,
       "quartos": 3,
@@ -15332,6 +15351,24 @@
       "endereco": null,
       "titulo": "Casa - Setor Rodoviário",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-385-m/CA1018-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Apartamento",
+      "preco": 580000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 80,
+      "suites": 1,
+      "bairro": "Setor Nova Aurora",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Apartamento - Setor Nova Aurora",
+      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-80-m/AP0289-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -15428,24 +15465,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Apartamento",
-      "preco": 590000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 4,
-      "area": 150,
-      "suites": 1,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Apartamento - Alto da Boa Vista",
-      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-150-m/AP0241-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 590000,
       "quartos": 3,
@@ -15461,6 +15480,24 @@
       "fontes": [
         "Inovare",
         "VLS"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Apartamento",
+      "preco": 590000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 4,
+      "area": 150,
+      "suites": 1,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Apartamento - Alto da Boa Vista",
+      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-150-m/AP0241-BOLK",
+      "fontes": [
+        "Inovare"
       ]
     },
     {
@@ -15555,24 +15592,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Outro",
-      "preco": 600000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 1000,
-      "suites": null,
-      "bairro": "Setor Nova Aurora",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Área - Setor Nova Aurora",
-      "link": "https://www.souinovareimoveis.com.br/imovel/area-itumbiara-1-000-m/AR0032-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 600000,
       "quartos": 3,
@@ -15585,6 +15604,24 @@
       "endereco": null,
       "titulo": "Casa - Setor Afonso Pena",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-214-m/CA0841-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Outro",
+      "preco": 600000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 1000,
+      "suites": null,
+      "bairro": "Setor Nova Aurora",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Área - Setor Nova Aurora",
+      "link": "https://www.souinovareimoveis.com.br/imovel/area-itumbiara-1-000-m/AR0032-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -15663,18 +15700,18 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Casa",
+      "tipo": "Galpão",
       "preco": 600000,
-      "quartos": 3,
-      "banheiros": 3,
+      "quartos": null,
+      "banheiros": null,
       "vagas": null,
-      "area": 1,
-      "suites": 1,
-      "bairro": "Ferreira da Costa",
+      "area": 250,
+      "suites": null,
+      "bairro": "Setor Planalto",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Ferreira da Costa",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-1-m/CA1602-BOLK",
+      "titulo": "Galpão - Setor Planalto",
+      "link": "https://www.souinovareimoveis.com.br/imovel/galpao-itumbiara-250-m/GA0103-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -15702,6 +15739,24 @@
       "tipo": "Casa",
       "preco": 600000,
       "quartos": 3,
+      "banheiros": 3,
+      "vagas": null,
+      "area": 1,
+      "suites": 1,
+      "bairro": "Ferreira da Costa",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Ferreira da Costa",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-1-m/CA1602-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 600000,
+      "quartos": 3,
       "banheiros": null,
       "vagas": null,
       "area": 234,
@@ -15713,42 +15768,6 @@
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-234-m/CA1354-BOLK",
       "fontes": [
         "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Galpão",
-      "preco": 600000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 250,
-      "suites": null,
-      "bairro": "Setor Planalto",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Galpão - Setor Planalto",
-      "link": "https://www.souinovareimoveis.com.br/imovel/galpao-itumbiara-250-m/GA0103-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "VLS",
-      "tipo": "Apartamento",
-      "preco": 600000,
-      "quartos": 3,
-      "banheiros": 2,
-      "vagas": 2,
-      "area": 120,
-      "suites": 1,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Apartamento - Alto da Boa Vista",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-120-m/AP0087-VLSD",
-      "fontes": [
-        "VLS"
       ]
     },
     {
@@ -15765,6 +15784,24 @@
       "endereco": null,
       "titulo": "Sobrado - Village Beira Rio",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/sobrado-itumbiara-3-quartos-290-m/SO0039-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Apartamento",
+      "preco": 600000,
+      "quartos": 3,
+      "banheiros": 2,
+      "vagas": 2,
+      "area": 120,
+      "suites": 1,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Apartamento - Alto da Boa Vista",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-120-m/AP0087-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -15916,24 +15953,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Apartamento",
-      "preco": 630000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 100,
-      "suites": 1,
-      "bairro": "Setor Nova Aurora",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Apartamento - Setor Nova Aurora",
-      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-100-m/AP0231-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 630000,
       "quartos": 2,
@@ -15946,6 +15965,24 @@
       "endereco": null,
       "titulo": "Casa - Setor Afonso Pena",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-1-m/CA1433-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Apartamento",
+      "preco": 630000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": 100,
+      "suites": 1,
+      "bairro": "Setor Nova Aurora",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Apartamento - Setor Nova Aurora",
+      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-100-m/AP0231-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -15991,6 +16028,42 @@
       "tipo": "Casa",
       "preco": 650000,
       "quartos": 3,
+      "banheiros": 2,
+      "vagas": 2,
+      "area": 300,
+      "suites": 1,
+      "bairro": "Residencial Jardim Primavera",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Residencial Jardim Primavera",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-300-m/CA0167-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 650000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": 4,
+      "area": null,
+      "suites": 3,
+      "bairro": "Setor Bela Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Bela Vista",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0299-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 650000,
+      "quartos": 3,
       "banheiros": null,
       "vagas": 3,
       "area": null,
@@ -16022,42 +16095,6 @@
       "fontes": [
         "Inovare",
         "VLS"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 650000,
-      "quartos": 3,
-      "banheiros": 2,
-      "vagas": 2,
-      "area": 300,
-      "suites": 1,
-      "bairro": "Residencial Jardim Primavera",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Residencial Jardim Primavera",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-300-m/CA0167-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 650000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": 4,
-      "area": null,
-      "suites": 3,
-      "bairro": "Setor Bela Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Bela Vista",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0299-BOLK",
-      "fontes": [
-        "Inovare"
       ]
     },
     {
@@ -16413,6 +16450,24 @@
       "quartos": 3,
       "banheiros": null,
       "vagas": null,
+      "area": 138,
+      "suites": 1,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Central",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-138-m/CA1452-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 680000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
       "area": 130,
       "suites": null,
       "bairro": "Residencial beira Rio II",
@@ -16423,24 +16478,6 @@
       "fontes": [
         "Inovare",
         "Beira Rio"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 680000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 138,
-      "suites": 1,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Central",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-138-m/CA1452-BOLK",
-      "fontes": [
-        "Inovare"
       ]
     },
     {
@@ -16607,6 +16644,42 @@
     },
     {
       "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 700000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 4,
+      "area": 265,
+      "suites": 1,
+      "bairro": "Village Imperial",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Village Imperial",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-265-m/CA1113-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 700000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 260,
+      "suites": null,
+      "bairro": "Residencial Jardim Primavera",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Residencial Jardim Primavera",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-260-m/CA1381-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
       "tipo": "Apartamento",
       "preco": 700000,
       "quartos": 3,
@@ -16619,24 +16692,6 @@
       "endereco": null,
       "titulo": "Apartamento - Setor Central",
       "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-110-m/AP0299-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 700000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 180,
-      "suites": 1,
-      "bairro": "Residencial Jardim Primavera",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Residencial Jardim Primavera",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-180-m/CA1448-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -16661,24 +16716,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 700000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 4,
-      "area": 265,
-      "suites": 1,
-      "bairro": "Village Imperial",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Village Imperial",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-265-m/CA1113-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Terreno",
       "preco": 700000,
       "quartos": null,
@@ -16691,6 +16728,24 @@
       "endereco": null,
       "titulo": "Terreno - Residencial beira Rio II",
       "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-250-m/TE0190-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 700000,
+      "quartos": 3,
+      "banheiros": 3,
+      "vagas": null,
+      "area": 220,
+      "suites": 1,
+      "bairro": "Jardim Nova Itumbiara",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Jardim Nova Itumbiara",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-220-m/CA1326-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -16729,24 +16784,6 @@
       "endereco": null,
       "titulo": "Terreno - Centro",
       "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-256-m/TE0180-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 700000,
-      "quartos": 3,
-      "banheiros": 2,
-      "vagas": null,
-      "area": 220,
-      "suites": 1,
-      "bairro": "Jardim Nova Itumbiara",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Jardim Nova Itumbiara",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-220-m/CA1324-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -17098,60 +17135,6 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Casa",
-      "preco": 700000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa com 3 quartos setor central itumbiara fdz 3585",
-      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-setor-central-itumbiara-fdz-3585",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Terreno",
-      "preco": 700000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Alvorada",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "terreno alvorada itumbiara 3314",
-      "link": "https://vigaimoveis.com.br/lote/terreno-alvorada-itumbiara-3314",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Casa",
-      "preco": 700000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Vilage Beira Rio",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa com 3 quartos vilage beira rio itumbiara 3313",
-      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-vilage-beira-rio-itumbiara-3313",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
       "tipo": "Casa em condomínio",
       "preco": 700000,
       "quartos": null,
@@ -17164,24 +17147,6 @@
       "endereco": null,
       "titulo": "terreno condominio horizontal paraiso itumbiara jbb 3165",
       "link": "https://vigaimoveis.com.br/lote/terreno-condominio-horizontal-paraiso-itumbiara-jbb-3165",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 700000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "rea venda 720 m por r 70000000 alto da boa vista itumbiara",
-      "link": "https://vigaimoveis.com.br/rea-venda-720-m-por-r-70000000-alto-da-boa-vista-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -17290,6 +17255,60 @@
       "endereco": null,
       "titulo": "go 1478",
       "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-venda-162-m-jardim-morumbi-itumbiara/go-1478",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Casa",
+      "preco": 700000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "casa com 3 quartos setor central itumbiara fdz 3585",
+      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-setor-central-itumbiara-fdz-3585",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Terreno",
+      "preco": 700000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Alvorada",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "terreno alvorada itumbiara 3314",
+      "link": "https://vigaimoveis.com.br/lote/terreno-alvorada-itumbiara-3314",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 700000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "rea venda 720 m por r 70000000 alto da boa vista itumbiara",
+      "link": "https://vigaimoveis.com.br/rea-venda-720-m-por-r-70000000-alto-da-boa-vista-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -17425,6 +17444,24 @@
       "tipo": "Casa",
       "preco": 750000,
       "quartos": 3,
+      "banheiros": 1,
+      "vagas": 2,
+      "area": 230,
+      "suites": 1,
+      "bairro": "Residencial Jardim Primavera",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Residencial Jardim Primavera",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-230-m/CA0799-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 750000,
+      "quartos": 3,
       "banheiros": 2,
       "vagas": null,
       "area": 230,
@@ -17479,16 +17516,34 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 750000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 230,
-      "suites": 1,
-      "bairro": "Residencial Jardim Primavera",
+      "quartos": 4,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": 3,
+      "bairro": "Jardim América",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Residencial Jardim Primavera",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-230-m/CA0799-BOLK",
+      "titulo": "Casa - Jardim América",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-quartos/CA1351-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 750000,
+      "quartos": 4,
+      "banheiros": 2,
+      "vagas": 2,
+      "area": 273,
+      "suites": 2,
+      "bairro": "Setor Afonso Pena",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Afonso Pena",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-quartos-273-m/CA0824-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -17679,24 +17734,6 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 780000,
-      "quartos": 11,
-      "banheiros": 3,
-      "vagas": 1,
-      "area": 418,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Central",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-11-quartos-418-m/CA1202-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 780000,
       "quartos": 3,
       "banheiros": 2,
       "vagas": 4,
@@ -17707,6 +17744,24 @@
       "endereco": null,
       "titulo": "Casa - Village Beira Rio",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-330-m/CA0887-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 780000,
+      "quartos": 11,
+      "banheiros": 3,
+      "vagas": 1,
+      "area": 418,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Central",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-11-quartos-418-m/CA1202-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -17802,24 +17857,6 @@
       ]
     },
     {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 790000,
-      "quartos": 2,
-      "banheiros": 2,
-      "vagas": null,
-      "area": 70,
-      "suites": null,
-      "bairro": "Setor Paranaíba",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Paranaíba",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-70-m/CA1373-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
       "fonte": "VLS",
       "tipo": "Casa",
       "preco": 790000,
@@ -17853,42 +17890,6 @@
       "link": "https://www.beirarioimoveis.com.br/imovel/casa-a-venda-3-quartos-1-suite-2-vagas-jardim-morumbi-itumbiara-go/2499",
       "fontes": [
         "Beira Rio"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 800000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 170,
-      "suites": 1,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Alto da Boa Vista",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-170-m/CA1520-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Galpão",
-      "preco": 800000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 400,
-      "suites": null,
-      "bairro": "Setor Planalto",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Galpão - Setor Planalto",
-      "link": "https://www.souinovareimoveis.com.br/imovel/galpao-itumbiara-400-m/GA0152-BOLK",
-      "fontes": [
-        "Inovare"
       ]
     },
     {
@@ -17986,6 +17987,24 @@
       "tipo": "Casa",
       "preco": 800000,
       "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 170,
+      "suites": 1,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Alto da Boa Vista",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-170-m/CA1520-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 800000,
+      "quartos": 3,
       "banheiros": 1,
       "vagas": null,
       "area": 180,
@@ -18038,6 +18057,24 @@
     },
     {
       "fonte": "Inovare",
+      "tipo": "Apartamento",
+      "preco": 800000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 80,
+      "suites": 1,
+      "bairro": "Setor Nova Aurora",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Apartamento - Setor Nova Aurora",
+      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-80-m/AP0212-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 800000,
       "quartos": 3,
@@ -18053,24 +18090,6 @@
       "fontes": [
         "Inovare",
         "Beira Rio"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Apartamento",
-      "preco": 800000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 80,
-      "suites": 1,
-      "bairro": "Setor Nova Aurora",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Apartamento - Setor Nova Aurora",
-      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-80-m/AP0212-BOLK",
-      "fontes": [
-        "Inovare"
       ]
     },
     {
@@ -18114,24 +18133,6 @@
       "tipo": "Casa",
       "preco": 800000,
       "quartos": 3,
-      "banheiros": 2,
-      "vagas": 2,
-      "area": 172,
-      "suites": 1,
-      "bairro": "Jardim Morumbi",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Jardim Morumbi",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-172-m/CA0660-VLSD",
-      "fontes": [
-        "VLS"
-      ]
-    },
-    {
-      "fonte": "VLS",
-      "tipo": "Casa",
-      "preco": 800000,
-      "quartos": 3,
       "banheiros": 4,
       "vagas": null,
       "area": null,
@@ -18141,6 +18142,24 @@
       "endereco": null,
       "titulo": "Sobrado - Setor Jardim Bandeirantes",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/sobrado-itumbiara-3-quartos/SO0050-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Casa",
+      "preco": 800000,
+      "quartos": 3,
+      "banheiros": 2,
+      "vagas": 4,
+      "area": 172,
+      "suites": 1,
+      "bairro": "Jardim Morumbi",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Jardim Morumbi",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-172-m/CA0057-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -18549,35 +18568,16 @@
       "preco": 850000,
       "quartos": 3,
       "banheiros": 1,
-      "vagas": 2,
-      "area": 250,
+      "vagas": null,
+      "area": 280,
       "suites": 1,
-      "bairro": "Residencial beira Rio I",
+      "bairro": "Jardim Adelaide",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Residencial beira Rio I",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-250-m/CA0942-BOLK",
+      "titulo": "Casa - Jardim Adelaide",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-280-m/CA0741-BOLK",
       "fontes": [
         "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 850000,
-      "quartos": 3,
-      "banheiros": 3,
-      "vagas": 4,
-      "area": 263,
-      "suites": 3,
-      "bairro": "Residencial Jardim Primavera",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Residencial Jardim Primavera",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-263-m/CA0184-BOLK",
-      "fontes": [
-        "Inovare",
-        "VLS"
       ]
     },
     {
@@ -18603,15 +18603,15 @@
       "tipo": "Casa",
       "preco": 850000,
       "quartos": 3,
-      "banheiros": 1,
+      "banheiros": null,
       "vagas": null,
-      "area": 280,
+      "area": 192,
       "suites": 1,
-      "bairro": "Jardim Adelaide",
+      "bairro": "Residencial beira Rio I",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Jardim Adelaide",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-280-m/CA0741-BOLK",
+      "titulo": "Casa - Residencial beira Rio I",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-192-m/CA1470-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -18738,6 +18738,24 @@
       "endereco": null,
       "titulo": "Casa - Cidade Jardim",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-4-quartos/CA0657-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Casa",
+      "preco": 850000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 4,
+      "area": 182,
+      "suites": 1,
+      "bairro": "Residencial Jardim Primavera",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Residencial Jardim Primavera",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-182-m/CA0335-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -18962,6 +18980,24 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 900000,
+      "quartos": 5,
+      "banheiros": null,
+      "vagas": 4,
+      "area": 357,
+      "suites": 4,
+      "bairro": "Setor Santa Inês",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Santa Inês",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-5-quartos-357-m/CA0191-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 900000,
       "quartos": 3,
       "banheiros": null,
       "vagas": null,
@@ -19009,24 +19045,6 @@
       "endereco": null,
       "titulo": "Apartamento - Alto da Boa Vista",
       "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-104-m/AP0043-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 900000,
-      "quartos": 5,
-      "banheiros": null,
-      "vagas": 4,
-      "area": 357,
-      "suites": 4,
-      "bairro": "Setor Santa Inês",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Santa Inês",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-5-quartos-357-m/CA0191-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -19540,24 +19558,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 1000000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 170,
-      "suites": 1,
-      "bairro": "Parque Vale dos Buritys III",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Parque Vale dos Buritys III",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-170-m/CA1510-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Rural",
       "preco": 1000000,
       "quartos": 2,
@@ -19573,6 +19573,25 @@
       "fontes": [
         "Inovare",
         "VLS"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 1000000,
+      "quartos": 2,
+      "banheiros": null,
+      "vagas": null,
+      "area": 120,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Central",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-120-m/CA1392-BOLK",
+      "fontes": [
+        "Inovare",
+        "Viga"
       ]
     },
     {
@@ -19597,19 +19616,18 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 1000000,
-      "quartos": 2,
+      "quartos": 3,
       "banheiros": null,
       "vagas": null,
-      "area": 120,
-      "suites": null,
-      "bairro": "Setor Central",
+      "area": 170,
+      "suites": 1,
+      "bairro": "Parque Vale dos Buritys III",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Setor Central",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-120-m/CA1392-BOLK",
+      "titulo": "Casa - Parque Vale dos Buritys III",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-170-m/CA1510-BOLK",
       "fontes": [
-        "Inovare",
-        "Viga"
+        "Inovare"
       ]
     },
     {
@@ -19779,7 +19797,7 @@
       "fonte": "Viga",
       "tipo": "Casa",
       "preco": 1000000,
-      "quartos": 3,
+      "quartos": 4,
       "banheiros": null,
       "vagas": null,
       "area": null,
@@ -19787,8 +19805,8 @@
       "bairro": "Residencial Jardim Primavera",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "casa com 3 quartos residencial jardim primavera itumbiara lxy 3236",
-      "link": "https://vigaimoveis.com.br/casa-com-3-quartos-residencial-jardim-primavera-itumbiara-lxy-3236",
+      "titulo": "casa com 4 dormitrios venda 220 m por r 1000000 residencial jardim primavera itumbiara",
+      "link": "https://vigaimoveis.com.br/casa-com-4-dormitrios-venda-220-m-por-r-1000000-residencial-jardim-primavera-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -20096,8 +20114,7 @@
       "titulo": "Casa - Residencial beira Rio I",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-210-m/CA0869-BOLK",
       "fontes": [
-        "Inovare",
-        "VLS"
+        "Inovare"
       ]
     },
     {
@@ -20412,15 +20429,15 @@
       "tipo": "Casa",
       "preco": 1200000,
       "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": 195,
-      "suites": null,
-      "bairro": "Village Imperial",
+      "banheiros": 2,
+      "vagas": 3,
+      "area": 200,
+      "suites": 1,
+      "bairro": "Vila de Furnas",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Village Imperial",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-195-m/CA1337-BOLK",
+      "titulo": "Casa - Vila de Furnas",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-200-m/CA0157-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -20447,16 +20464,16 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 1200000,
-      "quartos": 3,
-      "banheiros": 2,
-      "vagas": 3,
-      "area": 200,
-      "suites": 1,
-      "bairro": "Vila de Furnas",
+      "quartos": 2,
+      "banheiros": 3,
+      "vagas": null,
+      "area": 400,
+      "suites": 2,
+      "bairro": "Jardim Liberdade",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Vila de Furnas",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-200-m/CA0157-BOLK",
+      "titulo": "Casa - Jardim Liberdade",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-400-m/CA1595-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -20501,37 +20518,18 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 1200000,
-      "quartos": 2,
-      "banheiros": 3,
-      "vagas": null,
-      "area": 400,
-      "suites": 2,
-      "bairro": "Jardim Liberdade",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Jardim Liberdade",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-2-quartos-400-m/CA1595-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 1200000,
       "quartos": 3,
       "banheiros": null,
       "vagas": null,
-      "area": 180,
-      "suites": 1,
-      "bairro": "Residencial beira Rio I",
+      "area": 195,
+      "suites": null,
+      "bairro": "Village Imperial",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Residencial beira Rio I",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-180-m/CA1526-BOLK",
+      "titulo": "Casa - Village Imperial",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-195-m/CA1337-BOLK",
       "fontes": [
-        "Inovare",
-        "VLS"
+        "Inovare"
       ]
     },
     {
@@ -20572,6 +20570,24 @@
     },
     {
       "fonte": "VLS",
+      "tipo": "Outro",
+      "preco": 1200000,
+      "quartos": null,
+      "banheiros": 2,
+      "vagas": 1,
+      "area": 600,
+      "suites": null,
+      "bairro": "Centro",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Prédio - Centro",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/predio-itumbiara-600-m/PR0006-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
       "tipo": "Casa",
       "preco": 1200000,
       "quartos": 3,
@@ -20592,36 +20608,18 @@
     },
     {
       "fonte": "VLS",
-      "tipo": "Outro",
+      "tipo": "Casa",
       "preco": 1200000,
-      "quartos": null,
-      "banheiros": 2,
-      "vagas": 1,
-      "area": 600,
-      "suites": null,
-      "bairro": "Centro",
+      "quartos": 3,
+      "banheiros": 3,
+      "vagas": 3,
+      "area": 230,
+      "suites": 1,
+      "bairro": "Residencial beira Rio I",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Prédio - Centro",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/predio-itumbiara-600-m/PR0006-VLSD",
-      "fontes": [
-        "VLS"
-      ]
-    },
-    {
-      "fonte": "VLS",
-      "tipo": "Outro",
-      "preco": 1200000,
-      "quartos": null,
-      "banheiros": 2,
-      "vagas": null,
-      "area": 600,
-      "suites": null,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Prédio - Alto da Boa Vista",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/predio-itumbiara-600-m/PR0011-VLSD",
+      "titulo": "Casa - Residencial beira Rio I",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-230-m/CA0710-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -20640,6 +20638,24 @@
       "endereco": null,
       "titulo": "Casa - Village Beira Rio",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos/CA0684-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Outro",
+      "preco": 1200000,
+      "quartos": null,
+      "banheiros": 2,
+      "vagas": null,
+      "area": 600,
+      "suites": null,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Prédio - Alto da Boa Vista",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/predio-itumbiara-600-m/PR0011-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -20970,6 +20986,24 @@
     },
     {
       "fonte": "Inovare",
+      "tipo": "Comercial",
+      "preco": 1300000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 697,
+      "suites": null,
+      "bairro": "Setor Santos Dumont",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Sala - Setor Santos Dumont",
+      "link": "https://www.souinovareimoveis.com.br/imovel/sala-itumbiara-697-m/SA0095-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 1300000,
       "quartos": 3,
@@ -21000,24 +21034,6 @@
       "endereco": null,
       "titulo": "Área - Alto da Boa Vista",
       "link": "https://www.souinovareimoveis.com.br/imovel/area-itumbiara-790-m/AR0039-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Comercial",
-      "preco": 1300000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 697,
-      "suites": null,
-      "bairro": "Setor Santos Dumont",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Sala - Setor Santos Dumont",
-      "link": "https://www.souinovareimoveis.com.br/imovel/sala-itumbiara-697-m/SA0095-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -21097,24 +21113,6 @@
     },
     {
       "fonte": "VLS",
-      "tipo": "Terreno",
-      "preco": 1300000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 1150,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Terreno - Setor Central",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-1-150-m/TE0069-VLSD",
-      "fontes": [
-        "VLS"
-      ]
-    },
-    {
-      "fonte": "VLS",
       "tipo": "Casa",
       "preco": 1300000,
       "quartos": 4,
@@ -21127,6 +21125,24 @@
       "endereco": null,
       "titulo": "Casa - Setor Santa Inês",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-4-quartos-242-m/CA0716-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Terreno",
+      "preco": 1300000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 1150,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Terreno - Setor Central",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-1-150-m/TE0069-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -21334,24 +21350,6 @@
       "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 1400000,
-      "quartos": 4,
-      "banheiros": 2,
-      "vagas": 4,
-      "area": 332,
-      "suites": 2,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Alto da Boa Vista",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-quartos-332-m/CA0794-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 1400000,
       "quartos": 3,
       "banheiros": 2,
       "vagas": 4,
@@ -21367,21 +21365,21 @@
       ]
     },
     {
-      "fonte": "VLS",
+      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 1400000,
-      "quartos": 3,
-      "banheiros": 1,
+      "quartos": 4,
+      "banheiros": 2,
       "vagas": 4,
-      "area": 154,
-      "suites": 1,
-      "bairro": "Residencial beira Rio I",
+      "area": 332,
+      "suites": 2,
+      "bairro": "Alto da Boa Vista",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "Casa - Residencial beira Rio I",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-154-m/CA0409-VLSD",
+      "titulo": "Casa - Alto da Boa Vista",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-quartos-332-m/CA0794-BOLK",
       "fontes": [
-        "VLS"
+        "Inovare"
       ]
     },
     {
@@ -21398,6 +21396,24 @@
       "endereco": null,
       "titulo": "Sobrado - Setor Santos Dumont",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/sobrado-itumbiara-4-quartos-569-m/SO0029-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Casa",
+      "preco": 1400000,
+      "quartos": 3,
+      "banheiros": 1,
+      "vagas": 4,
+      "area": 154,
+      "suites": 1,
+      "bairro": "Residencial beira Rio I",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Residencial beira Rio I",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-154-m/CA0409-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -21677,24 +21693,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Outro",
-      "preco": 1500000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 978,
-      "suites": null,
-      "bairro": "Setor Paranaíba",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Área - Setor Paranaíba",
-      "link": "https://www.souinovareimoveis.com.br/imovel/area-itumbiara-978-m/AR0056-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 1500000,
       "quartos": 3,
@@ -21707,6 +21705,24 @@
       "endereco": null,
       "titulo": "Casa - Setor Afonso Pena",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-280-m/CA1397-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Outro",
+      "preco": 1500000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 978,
+      "suites": null,
+      "bairro": "Setor Paranaíba",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Área - Setor Paranaíba",
+      "link": "https://www.souinovareimoveis.com.br/imovel/area-itumbiara-978-m/AR0056-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -21767,24 +21783,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Outro",
-      "preco": 1500000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 1440,
-      "suites": null,
-      "bairro": "Setor Norte",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Área - Setor Norte",
-      "link": "https://www.souinovareimoveis.com.br/imovel/area-itumbiara-1-440-m/AR0023-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Casa",
       "preco": 1500000,
       "quartos": 8,
@@ -21816,6 +21814,24 @@
       "endereco": null,
       "titulo": "Terreno - Village Imperial",
       "link": "https://www.souinovareimoveis.com.br/imovel/terreno-itumbiara-1-800-m/TE0119-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Outro",
+      "preco": 1500000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 1440,
+      "suites": null,
+      "bairro": "Setor Norte",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Área - Setor Norte",
+      "link": "https://www.souinovareimoveis.com.br/imovel/area-itumbiara-1-440-m/AR0023-BOLK",
       "fontes": [
         "Inovare"
       ]
@@ -22020,24 +22036,6 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Apartamento",
-      "preco": 1500000,
-      "quartos": 3,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "apartamento com 3 quartos alto da boa vista itumbiara qb1",
-      "link": "https://vigaimoveis.com.br/apartamento-com-3-quartos-alto-da-boa-vista-itumbiara-qb1",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
       "tipo": "Outro",
       "preco": 1500000,
       "quartos": null,
@@ -22066,26 +22064,8 @@
       "bairro": "Setor Central",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "rea venda 978 m por r 150000000 setor central itumbiara",
-      "link": "https://vigaimoveis.com.br/rea-venda-978-m-por-r-150000000-setor-central-itumbiara/go",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 1500000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Alto da Boa Vista",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "ms alto da boa vista itumbiara",
-      "link": "https://vigaimoveis.com.br/sobrado-com-4-dormitrios-430-m-venda-por-r-150000000-ou-aluguel-por-r-600000/ms-alto-da-boa-vista-itumbiara/go",
+      "titulo": "prdio venda 733 m por r 195000000 setor central itumbiara",
+      "link": "https://vigaimoveis.com.br/prdio-venda-733-m-por-r-195000000-setor-central-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -22117,11 +22097,11 @@
       "vagas": null,
       "area": null,
       "suites": null,
-      "bairro": "Residencial Beira Rio I",
+      "bairro": "Alto da Boa Vista",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "go 2514",
-      "link": "https://vigaimoveis.com.br/casam-em-fase-de-construo-com-3-sutes-venda-residencial-beira-rio-i-itumbiara/go-2514",
+      "titulo": "go 2494",
+      "link": "https://vigaimoveis.com.br/sobrado-com-3-dormitrios-venda-300-m-alto-da-boa-vista-itumbiara/go-2494",
       "fontes": [
         "Viga"
       ]
@@ -22199,6 +22179,42 @@
       ]
     },
     {
+      "fonte": "Viga",
+      "tipo": "Apartamento",
+      "preco": 1500000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "apartamento com 3 quartos alto da boa vista itumbiara qb1",
+      "link": "https://vigaimoveis.com.br/apartamento-com-3-quartos-alto-da-boa-vista-itumbiara-qb1",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 1500000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Residencial Beira Rio I",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "go 2514",
+      "link": "https://vigaimoveis.com.br/casam-em-fase-de-construo-com-3-sutes-venda-residencial-beira-rio-i-itumbiara/go-2514",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
       "fonte": "Inovare",
       "tipo": "Outro",
       "preco": 1530000,
@@ -22254,60 +22270,6 @@
     },
     {
       "fonte": "Inovare",
-      "tipo": "Outro",
-      "preco": 1600000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 5085,
-      "suites": null,
-      "bairro": "Jardim América",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Área - Jardim América",
-      "link": "https://www.souinovareimoveis.com.br/imovel/area-itumbiara-5-085-m/AR0057-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Apartamento",
-      "preco": 1600000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 151,
-      "suites": 3,
-      "bairro": "Setor Nova Aurora",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Apartamento - Setor Nova Aurora",
-      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-3-quartos-151-m/AP0232-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 1600000,
-      "quartos": 3,
-      "banheiros": 4,
-      "vagas": 5,
-      "area": 317,
-      "suites": 3,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Central",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-317-m/CA0198-BOLK",
-      "fontes": [
-        "Inovare"
-      ]
-    },
-    {
-      "fonte": "Inovare",
       "tipo": "Comercial",
       "preco": 1600000,
       "quartos": null,
@@ -22344,24 +22306,6 @@
     },
     {
       "fonte": "VLS",
-      "tipo": "Terreno",
-      "preco": 1600000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": 2278,
-      "suites": null,
-      "bairro": "Setor Novo Horizonte",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Terreno - Setor Novo Horizonte",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-2-278-m/TE0111-VLSD",
-      "fontes": [
-        "VLS"
-      ]
-    },
-    {
-      "fonte": "VLS",
       "tipo": "Casa",
       "preco": 1600000,
       "quartos": 4,
@@ -22392,6 +22336,24 @@
       "endereco": null,
       "titulo": "Fazenda - Zona Rural",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/fazenda-itumbiara-4-alqueires-goiano/FA0001-VLSD",
+      "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "VLS",
+      "tipo": "Terreno",
+      "preco": 1600000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": 2278,
+      "suites": null,
+      "bairro": "Setor Novo Horizonte",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Terreno - Setor Novo Horizonte",
+      "link": "https://www.vlsseguroseimoveis.com.br/imovel/terreno-itumbiara-2-278-m/TE0111-VLSD",
       "fontes": [
         "VLS"
       ]
@@ -22616,6 +22578,42 @@
       ]
     },
     {
+      "fonte": "Inovare",
+      "tipo": "Apartamento",
+      "preco": 1900000,
+      "quartos": 4,
+      "banheiros": 4,
+      "vagas": 3,
+      "area": 280,
+      "suites": 4,
+      "bairro": "Alto da Boa Vista",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Apartamento - Alto da Boa Vista",
+      "link": "https://www.souinovareimoveis.com.br/imovel/apartamento-itumbiara-4-quartos-280-m/AP0309-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 1900000,
+      "quartos": 3,
+      "banheiros": null,
+      "vagas": null,
+      "area": 302,
+      "suites": 3,
+      "bairro": "Residencial beira Rio II",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Residencial beira Rio II",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-302-m/CA1464-BOLK",
+      "fontes": [
+        "Inovare"
+      ]
+    },
+    {
       "fonte": "VLS",
       "tipo": "Casa",
       "preco": 1900000,
@@ -22630,6 +22628,44 @@
       "titulo": "Casa - Jardim Morumbi",
       "link": "https://www.vlsseguroseimoveis.com.br/imovel/casa-itumbiara-3-quartos-202-m/CA0662-VLSD",
       "fontes": [
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 2000000,
+      "quartos": 4,
+      "banheiros": 1,
+      "vagas": null,
+      "area": 300,
+      "suites": 4,
+      "bairro": "Residencial beira Rio I",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Residencial beira Rio I",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-quartos-300-m/CA1168-BOLK",
+      "fontes": [
+        "Inovare",
+        "VLS"
+      ]
+    },
+    {
+      "fonte": "Inovare",
+      "tipo": "Casa",
+      "preco": 2000000,
+      "quartos": 4,
+      "banheiros": 5,
+      "vagas": 6,
+      "area": 400,
+      "suites": 2,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "Casa - Setor Central",
+      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-quartos-400-m/CA0601-BOLK",
+      "fontes": [
+        "Inovare",
         "VLS"
       ]
     },
@@ -22665,25 +22701,6 @@
       "endereco": null,
       "titulo": "Casa - Setor Santa Rita",
       "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-4-m/CA1293-BOLK",
-      "fontes": [
-        "Inovare",
-        "VLS"
-      ]
-    },
-    {
-      "fonte": "Inovare",
-      "tipo": "Casa",
-      "preco": 2000000,
-      "quartos": 3,
-      "banheiros": 1,
-      "vagas": null,
-      "area": 200,
-      "suites": 1,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Casa - Setor Central",
-      "link": "https://www.souinovareimoveis.com.br/imovel/casa-itumbiara-3-quartos-200-m/CA1576-BOLK",
       "fontes": [
         "Inovare",
         "VLS"
@@ -22759,24 +22776,6 @@
       "link": "https://www.souinovareimoveis.com.br/imovel/galpao-itumbiara-800-m/GA0088-BOLK",
       "fontes": [
         "Inovare"
-      ]
-    },
-    {
-      "fonte": "VLS",
-      "tipo": "Casa",
-      "preco": 2000000,
-      "quartos": 4,
-      "banheiros": 1,
-      "vagas": 2,
-      "area": 299,
-      "suites": 4,
-      "bairro": "Residencial beira Rio I",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "Sobrado - Residencial beira Rio I",
-      "link": "https://www.vlsseguroseimoveis.com.br/imovel/sobrado-itumbiara-4-quartos-299-m/SO0038-VLSD",
-      "fontes": [
-        "VLS"
       ]
     },
     {
@@ -23089,6 +23088,24 @@
     },
     {
       "fonte": "Viga",
+      "tipo": "Outro",
+      "preco": 2500000,
+      "quartos": null,
+      "banheiros": null,
+      "vagas": null,
+      "area": null,
+      "suites": null,
+      "bairro": "Setor Central",
+      "cidade": "Itumbiara",
+      "endereco": null,
+      "titulo": "ms setor central itumbiara",
+      "link": "https://vigaimoveis.com.br/casa-com-4-dormitrios-364-m-venda-por-r-250000000-ou-aluguel-por-r-600000/ms-setor-central-itumbiara/go",
+      "fontes": [
+        "Viga"
+      ]
+    },
+    {
+      "fonte": "Viga",
       "tipo": "Terreno",
       "preco": 2500000,
       "quartos": null,
@@ -23119,24 +23136,6 @@
       "endereco": null,
       "titulo": "go 2827",
       "link": "https://vigaimoveis.com.br/casa-com-3-dormitrios-230-m-condomnio-horizontal-paraso-itumbiara/go-2827",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Outro",
-      "preco": 2500000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Setor Central",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "ms setor central itumbiara",
-      "link": "https://vigaimoveis.com.br/casa-com-4-dormitrios-364-m-venda-por-r-250000000-ou-aluguel-por-r-600000/ms-setor-central-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -23251,18 +23250,18 @@
     },
     {
       "fonte": "Viga",
-      "tipo": "Outro",
+      "tipo": "Casa em condomínio",
       "preco": 2650000,
       "quartos": null,
       "banheiros": null,
       "vagas": null,
       "area": null,
       "suites": null,
-      "bairro": "Alto da Boa Vista",
+      "bairro": "Condomínio Horizontal Paraíso",
       "cidade": "Itumbiara",
       "endereco": null,
-      "titulo": "go 2531",
-      "link": "https://vigaimoveis.com.br/apartamento-com-4-dormitrios-219-m-venda-alto-da-boa-vista-itumbiara/go-2531",
+      "titulo": "casa com 3 sutes venda 272 m condomnio horizontal paraso itumbiara",
+      "link": "https://vigaimoveis.com.br/casa-com-3-sutes-venda-272-m-condomnio-horizontal-paraso-itumbiara/go",
       "fontes": [
         "Viga"
       ]
@@ -23281,24 +23280,6 @@
       "endereco": null,
       "titulo": "sobrado com 4 dormitrios venda 480 m residencial jardim primavera itumbiara",
       "link": "https://vigaimoveis.com.br/sobrado-com-4-dormitrios-venda-480-m-residencial-jardim-primavera-itumbiara/go",
-      "fontes": [
-        "Viga"
-      ]
-    },
-    {
-      "fonte": "Viga",
-      "tipo": "Casa em condomínio",
-      "preco": 2650000,
-      "quartos": null,
-      "banheiros": null,
-      "vagas": null,
-      "area": null,
-      "suites": null,
-      "bairro": "Condomínio Horizontal Paraíso",
-      "cidade": "Itumbiara",
-      "endereco": null,
-      "titulo": "casa com 3 sutes venda 272 m condomnio horizontal paraso itumbiara",
-      "link": "https://vigaimoveis.com.br/casa-com-3-sutes-venda-272-m-condomnio-horizontal-paraso-itumbiara/go",
       "fontes": [
         "Viga"
       ]
